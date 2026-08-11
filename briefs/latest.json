@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:49:54.334470+00:00",
+  "generated_at": "2026-08-11T09:57:15.892114+00:00",
   "window_days": 9,
   "source_counts": {
     "ok": [
@@ -9,32 +9,42 @@
       "Digital Camera World",
       "Amateur Photographer",
       "The Phoblographer",
+      "darktable releases",
+      "RawTherapee releases",
+      "GIMP releases",
+      "Krita releases",
+      "PhotoPrism releases",
+      "ExifTool releases",
+      "British Journal of Photography",
       "All About Photo",
+      "Feature Shoot",
       "SLR Lounge",
       "Adorama ALCS",
-      "Photography Life",
       "Digital Photography School",
-      "Light Stalking"
+      "Light Stalking",
+      "The Guardian · Photography"
     ],
     "failed": [
-      "British Journal of Photography"
+      "Magnum Photos",
+      "LensCulture",
+      "The Eye of Photography",
+      "Photography Life",
+      "World Press Photo"
     ]
   },
-  "total_items": 188,
+  "total_items": 207,
   "cross_verified": [
     {
       "signal": "fe 10",
       "sources": [
         "Amateur Photographer",
         "Fstoppers",
-        "Photography Life",
         "摄影世界"
       ],
       "titles": [
         "索尼正式发布轻巧便携全画幅超远摄变焦镜头 FE 100-400mm F5.6-8 OSS",
         "Bird and Wildlife Reach on a Budget: A Review of the Sony FE 100-400 f/5.6-8",
-        "Want to shoot garden wildlife or your kids’ sports days? Sony’s new affordable zoom lens has you covered",
-        "Sony FE 100-400mm f/5.6-8 Announced"
+        "Want to shoot garden wildlife or your kids’ sports days? Sony’s new affordable zoom lens has you covered"
       ]
     },
     {
@@ -54,7 +64,8 @@
       "signal": "awards",
       "sources": [
         "Digital Camera World",
-        "PetaPixel"
+        "PetaPixel",
+        "The Guardian · Photography"
       ],
       "titles": [
         "Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners",
@@ -68,7 +79,6 @@
       "sources": [
         "Amateur Photographer",
         "Fstoppers",
-        "Photography Life",
         "The Phoblographer"
       ],
       "titles": [
@@ -354,7 +364,33 @@
         "verified_signals": []
       }
     ],
+    "software": [
+      {
+        "cat": "software",
+        "source": "darktable releases",
+        "lang": "en",
+        "title": "Darktable nightly build 20260811",
+        "summary": "This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr",
+        "link": "https://github.com/darktable-org/darktable/releases/tag/nightly",
+        "date": "2026-08-11",
+        "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
     "classic": [
+      {
+        "cat": "classic",
+        "source": "British Journal of Photography",
+        "lang": "en",
+        "title": "The duo behind Outer Space Press dabbling in the dark arts",
+        "summary": "Magdalena Wysocka and Claudio Pogo create subversive books and zines including their latest output, And Then There Was the Night, a tale of dark, vampiric mystery and occult sex The post The duo behind Outer Space Press dabbling in the dark arts appeared first on 1854 Photography .",
+        "link": "https://www.1854.photography/2026/08/the-duo-behind-outer-space-press-dabbling-in-the-dark-arts/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
       {
         "cat": "classic",
         "source": "SLR Lounge",
@@ -465,12 +501,36 @@
       },
       {
         "cat": "classic",
+        "source": "British Journal of Photography",
+        "lang": "en",
+        "title": "Portrait of a City at Dulwich Picture Gallery",
+        "summary": "A new show at Dulwich Picture Gallery shows a constellation of visions of American cities, drawn from the photographic greats The post Portrait of a City at Dulwich Picture Gallery appeared first on 1854 Photography .",
+        "link": "https://www.1854.photography/2026/08/city-dulwich/",
+        "date": "2026-08-05",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
         "title": "Foreground, Middle Ground, and Background in Photography",
         "summary": "The difference between a good photo and a great photo often comes down to its composition. A composition with multiple layers is often more complex and interesting. The three layers in a photograph, a video, or a painting are 1) the foreground, 2) middle ground, and 3) background. Understanding and visualizing these la",
         "link": "https://www.slrlounge.com/foreground-middle-ground-and-background-in-photography/",
         "date": "2026-08-05",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "classic",
+        "source": "British Journal of Photography",
+        "lang": "en",
+        "title": "The struggle is real: the anonymous creator behind a cult Instagram account",
+        "summary": "The anonymous creator behind the photographers_struggle_memes Instagram account parodying life as a freelance photographer The post The struggle is real: the anonymous creator behind a cult Instagram account appeared first on 1854 Photography .",
+        "link": "https://www.1854.photography/2026/08/the-struggle-is-real-the-anonymous-creator-behind-a-cult-instagram-account/",
+        "date": "2026-08-03",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -503,32 +563,6 @@
       },
       {
         "cat": "technique",
-        "source": "Photography Life",
-        "lang": "en",
-        "title": "Photography News: Rumored Sony Lenses, Nikon Z8 Sale",
-        "summary": "Yesterday, while selecting photos for an upcoming article, I came across one that caught my eye with its simple symmetry and, let’s say, an unconventional angle. Judge for yourselves: Instead of the usual front view or side view of a bird, what popped out at me on the monitor was a perfectly sharp (please forgive me) c",
-        "link": "https://photographylife.com/news/photo-news-2026-08-09",
-        "date": "2026-08-09",
-        "image": "https://photographylife.com/wp-content/uploads/2026/08/Norway_Nikon-400mm__LVP9359-650x433.jpg",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "technique",
-        "source": "Photography Life",
-        "lang": "en",
-        "title": "Viltrox AF 35mm f/1.8 EVO Field Review",
-        "summary": "It has been less than three years since we tested the first version of Viltrox’s 35mm f/1.8 lens here at Photography Life. To be honest, we weren’t particularly impressed by its optical performance at the time. It was not a serious match for Nikon’s equivalent, and was even beaten by some good zoom lenses. Back then, V",
-        "link": "https://photographylife.com/reviews/viltrox-af-35mm-f-1-8-evo",
-        "date": "2026-08-07",
-        "image": "https://photographylife.com/wp-content/uploads/2026/07/Viltrox-35mm-f1.8-LAB_Product-Image-1-650x433.jpg",
-        "verified": true,
-        "verified_signals": [
-          "35mm"
-        ]
-      },
-      {
-        "cat": "technique",
         "source": "Light Stalking",
         "lang": "en",
         "title": "A Guide to Photographing the Geometry Of Modern Architecture",
@@ -552,32 +586,6 @@
         "verified_signals": [
           "award"
         ]
-      },
-      {
-        "cat": "technique",
-        "source": "Photography Life",
-        "lang": "en",
-        "title": "Sony FE 100-400mm f/5.6-8 Announced",
-        "summary": "Sony just unveiled a new lightweight telephoto zoom: the FE 100-400mm f/5.6-8 OSS. It’s portable and well-priced, coming in at just 654 grams and $850. Sony clearly sees it as a budget alternative to their higher-end telephotos, and that’s reflected in the lack of “G” designation. Here’s what we know so far.",
-        "link": "https://photographylife.com/news/sony-fe-100-400mm-f-5-6-8-announced",
-        "date": "2026-08-05",
-        "image": "https://photographylife.com/wp-content/uploads/2026/08/Sony-100-400mm-f5.6-8-Real-World-Product-Photo-1-650x430.jpg",
-        "verified": true,
-        "verified_signals": [
-          "fe 10"
-        ]
-      },
-      {
-        "cat": "technique",
-        "source": "Photography Life",
-        "lang": "en",
-        "title": "The Angel of the North: Photographing the Arctic Tern",
-        "summary": "The first time I saw an Arctic tern was during my first trip up north, to the Shetland Islands. I didn’t manage to bring home anything significant—just a couple of documentary-style reportage shots. Years later, I tried again in Iceland, and a spark was ignited. But it was only during my expeditions to Svalbard, as I g",
-        "link": "https://photographylife.com/photographing-arctic-tern",
-        "date": "2026-08-04",
-        "image": "https://photographylife.com/wp-content/uploads/2026/08/Arctic-Tern-sunset-over-the-sea-650x433.jpg",
-        "verified": false,
-        "verified_signals": []
       },
       {
         "cat": "technique",
@@ -607,18 +615,6 @@
       },
       {
         "cat": "technique",
-        "source": "Photography Life",
-        "lang": "en",
-        "title": "Photography News: Nikon’s Patent Woes, Sony Offers to Buy Tamron",
-        "summary": "I constantly hear— and, in fact, witness firsthand—that we live in a society divided into invisible, impenetrable bubbles. Their walls are constantly strengthened by the ever-evolving algorithms of social media networks, into which we are lured and trapped like moths to a lightbulb. Sometimes, there is essentially noth",
-        "link": "https://photographylife.com/news/photo-news-2026-08-02",
-        "date": "2026-08-03",
-        "image": "https://photographylife.com/wp-content/uploads/2026/07/Prague_Bubbles_LVP8012-650x433.jpg",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "technique",
         "source": "Light Stalking",
         "lang": "en",
         "title": "Natural Contrasts, Street Humour, Solitude And More – The Weekly Community Roundup",
@@ -626,6 +622,190 @@
         "link": "https://www.lightstalking.com/natural-contrasts-street-humour-solitude-and-more-the-weekly-community-roundup/",
         "date": "2026-08-03",
         "image": "",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
+    "global": [
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "A bit on the nose! The world’s longest-running photography exhibition – in pictures",
+        "summary": "Now on its 167th edition, the Royal Photographic Society’s annual show features moving explorations of kinks, visual disorders … and long-snouted clowns Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/11/worlds-longest-running-photography-exhibition-in-pictures-royal-photographic-society",
+        "date": "2026-08-11",
+        "image": "https://i.guim.co.uk/img/media/4a16143f68694b573a1411ce0299eee5b2c9521b/0_545_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4d7d111cccad57d12523dbb3d3bf56d",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "An indigenous photographic history of America – in pictures",
+        "summary": "Spanning generations and multiple Indigenous societies and nations, In Light and Shadow traces the visual importance of Indigenous photographers. Representing work in different genres, the book presents more than 250 images with an accompanying exhibition at Obscura Gallery from 14 August Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/10/an-indigenous-photographic-history-of-america-in-pictures",
+        "date": "2026-08-10",
+        "image": "https://i.guim.co.uk/img/media/f3ebeecef3d5602e3af4c07def2cb49c718cf6d1/0_171_1129_903/master/1129.jpg?width=140&quality=85&auto=format&fit=max&s=c5962d40a76065cc2823903001f5f6ed",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Dogs, descents and dehydration: Tour de France Femmes 2026 – in pictures",
+        "summary": "The fifth edition of women’s version of the Tour de France featured 147 riders from 21 teams racing 1,175km, broken into three flat stages, three hilly stages, an individual time trial stage and two mountain stages which included a first visit to Mont Ventoux. Here are some of our favourite images from nine exhilaratin",
+        "link": "https://www.theguardian.com/sport/gallery/2026/aug/09/dogs-descents-and-dehydration-the-tour-de-france-femmes-2026-in-pictures",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/97650039e8b4f2156145167c7fce3ce4d43806e3/2723_13_4824_3859/master/4824.jpg?width=140&quality=85&auto=format&fit=max&s=4a1cf4f71a729313a916c69119eb9471",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Comedian Mo Gillligan looks back: ‘Drake shared my video, Ian Wright liked a post – then I quit my job in retail’",
+        "summary": "The standup and presenter on performing at the back of the school bus, his funny aunts and uncles, and swerving a career selling perfume Born in Lambeth, south London, in 1988, Mo Gilligan is a comedian and presenter. His online sketches went viral in 2017, which led to his debut tour, Coupla Cans, and the start of his",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/aug/09/comedian-mo-gilligan-looks-back-big-chicken-fast-food-conspiracy-netflix",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/76978add60f96256a194511a6a9c1fbc5cbe1ed2/0_409_4664_3730/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=a3729ef1b1b6802407baa006f2d43669",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Waterfall diving and a scarecrow festival: photos of the weekend",
+        "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
+        "link": "https://www.theguardian.com/news/gallery/2026/aug/09/waterfall-diving-and-a-scarecrow-festival-photos-of-the-weekend",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/9e9e522b191e592e090f46056f9582c4e49a7713/0_0_3250_2599/master/3250.png?width=140&quality=85&auto=format&fit=max&s=edc11ebbd16497c4ed6ba0c20f4ba878",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘You can feel the warmth of the sun’: Bertram Greenhough’s best phone picture",
+        "summary": "The Brighton-based photographer was walking along a crowded beach looking for ice-cream when he spotted this calm, minimalist scene Bertram Greenhough had promised his six-year-old daughter Audrey an ice-cream. It was a warm June day in Brighton and the pair were playing tourists in their own city, having just visited ",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/aug/08/bertram-greenhough-best-phone-picture-lifeguard-brighton-beach",
+        "date": "2026-08-08",
+        "image": "https://i.guim.co.uk/img/media/464c3bd8897becee47b25ee565cc4b5452a01616/0_342_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=1404eee13c56825b15b06f8b0438aeb3",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Sky Country: Indigenous fashion weaves culture and climate together",
+        "summary": "First Nations designers, models, artists and artisans from across Australia gathered on Larrakia Country in Darwin this week for the Country to Couture runway show and the National Indigenous Fashion awards. In between, Guardian Australia photographed several of the featured models and designers Delvene Cockatoo-Collin",
+        "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/20a5941d78e70643e0b604511935ca6242295b78/0_2696_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=52d2c84f397a0df3f4ef5db03c56f9a4",
+        "verified": true,
+        "verified_signals": [
+          "awards"
+        ]
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "The week around the world in 20 pictures",
+        "summary": "Wildfires in the US and Europe, Russian strikes in Kyiv, beekeepers in Gaza and the European Aquatics Championships – the past seven days as captured by the world’s leading photojournalists Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/the-week-around-the-world-in-20-pictures",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/881717046d05765e0a0c08aa1afbee2197406a0a/942_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ad5eb45584698471ff3874970bbf9959",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "New faces, fresh memories and a grand day out with Aardman – the week in art",
+        "summary": "Arresting portraits from Catherine Opie, exploring the past with paint and the geniuses of British animation unpack their secrets – all in your weekly dispatch Catherine Opie: To Be Seen Powerful photographs that put people before you heroically, on tour from London’s National Portrait Gallery. • Royal Scottish Academy",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/07/catherine-opie-aardman-the-week-in-art",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/f0a80f49ce0dbd66d9ffa0aa2c07b427f15e53d8/0_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=d8fcba287e0809059d5e6a1cb41848ea",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Week in wildlife: a tiger release, an Exmoor eagle and Pallas’s kittens",
+        "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+        "link": "https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/ee11e6a063a981520119177678717409c4658bb8/725_197_1278_1023/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=d80cca3db4a060b9c852281fbdf41b62",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Photographs of drama and emotion – the career of Chris Smith",
+        "summary": "The late photographer has left behind memorable images of many of the larger-than-life characters who peopled the last four decades of the 20th century: Muhammad Ali, Paul Gascoigne, John McEnroe, Martina Navratilova, Aretha Franklin, Seve Ballesteros and Daley Thompson Chris Smith obituary Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/06/photographs-of-drama-and-emotion-the-career-of-chris-smith",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/938b39977ed73e8ef945f10bd381ce149677bf7a/858_29_6810_5449/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=acff2184e80b51e83fd6cc7403dda4f5",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Chris Smith obituary",
+        "summary": "Sports photographer for the Observer and the Sunday Times who sought to capture human drama and emotion When the Beatles waltzed unannounced into the 5th Street Gym in Miami Beach in 1964, the sports photographer Chris Smith seized the moment. He was there to record Cassius Clay (later Muhammad Ali ) in training for hi",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/06/chris-smith-obituary",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/299a82c3ebdec943c9d140be75a2dbada5f996b2/1179_0_6077_4860/master/6077.jpg?width=140&quality=85&auto=format&fit=max&s=acf2f52ea1fadb384f0f8d79120d132e",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Samba queens to sound systems: the riotous streets of Notting Hill carnival – in pictures",
+        "summary": "Wayne Campbell and Wayne Crichlow have been photographing carnival for 15 years, capturing a blur of dancers, style icons and singalongs on the tube home Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/06/samba-queens-to-sound-systems-the-riotous-streets-of-notting-hill-carnival-in-pictures-wayne-campbell-crichlow",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/1d827ac4e64af2a8abdc21fbc241fb4322d51355/1057_4_6374_5101/master/6374.jpg?width=140&quality=85&auto=format&fit=max&s=0ded384796f2f52ed75a6763ff8e3f03",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘Prisoners killed each other’s kittens. So now they’re forbidden inside’: Vladimir Karamazov’s best photograph",
+        "summary": "‘The men in this jail in Bulgaria used to adopt these stray kittens. But pets can be a problem. They get killed as punishment or for revenge’ Belene prison, in northern Bulgaria on the border with Romania, is the most heavily guarded facility of its type in my country. It is on an island, so escape is near impossible, ",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/05/bulgaria-prisoners-kittens-vladimir-karamazov-best-photograph",
+        "date": "2026-08-05",
+        "image": "https://i.guim.co.uk/img/media/14f38bc80919adff14751d790d8d4661ed956401/0_897_2656_2124/master/2656.png?width=140&quality=85&auto=format&fit=max&s=fdfcd9467c0bc52e3ffa1e65dd43aeda",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘Magic from the shadows’: the dreamlike visions of Paolo Roversi – in pictures",
+        "summary": "A new exhibition showcases the Italian fashion photographer’s technical mastery, where light, blur and even mistakes contribute to an image’s beauty Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/05/paolo-roversi-in-pictures",
+        "date": "2026-08-05",
+        "image": "https://i.guim.co.uk/img/media/e1d39d974ee845075e240b6fb49eaeda69f4b137/0_0_1181_944/master/1181.jpg?width=140&quality=85&auto=format&fit=max&s=1cfa0eb92b5c7e2ecd33f5b1fd565d8a",
         "verified": false,
         "verified_signals": []
       }
