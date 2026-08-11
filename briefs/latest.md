@@ -1,22 +1,27 @@
 # 影像家 · 全球摄影周报 （2026-08-11）
 
-> 采集窗口：近 9 天 ｜ 成功源 18 个 ｜ 条目 188 条 ｜ 多方印证 10 组
+> 采集窗口：近 9 天 ｜ 成功源 19 个 ｜ 条目 208 条 ｜ 多方印证 10 组
 
 
 ## 🔗 本周多方印证（国内外交叉比对）
 
 - **35MM**：Amateur Photographer、Fstoppers、Photography Life、The Phoblographer
 - **FE 10**：Amateur Photographer、Fstoppers、Photography Life、摄影世界
+- **AWARDS**：Digital Camera World、PetaPixel、The Guardian · Photography
 - **GOPRO**：Digital Camera World、PetaPixel
-- **AWARDS**：Digital Camera World、PetaPixel
 - **AWARD**：Digital Camera World、Light Stalking
 - **DJI**：Amateur Photographer、Digital Camera World
 - **SIRUI**：Digital Camera World、The Phoblographer
 - **OSMO**：Digital Camera World、Light Stalking
-- **LIGHTROOM**：Digital Camera World、The Phoblographer
 - **PHOTOSHOP**：Digital Camera World、The Phoblographer
+- **LIGHTROOM**：Digital Camera World、The Phoblographer
 
 ## 📷 器材消息
+
+### 【外文】VSCO is Offering 50 Photographers the Chance to Have Their Work on a Billboard
+- 来源：PetaPixel ｜ 日期：2026-08-11 ｜ 语言：en
+- 摘要：VSCO, a photo and video editing app, is offering photographers in every state the opportunity to have their work exhibited on a billboard.
+- 链接：https://petapixel.com/2026/08/11/vsco-is-offering-50-photographers-the-chance-to-have-their-work-on-a-billboard/
 
 ### 🔗多方印证 【外文】Award-winning compact cameras rarely come at a discount, but this 61MP full-frame model just got a rare price cut
 - 来源：Digital Camera World ｜ 日期：2026-08-11 ｜ 语言：en
@@ -36,7 +41,7 @@
 - 链接：https://www.digitalcameraworld.com/cameras/film-cameras/analog-photography-is-back-with-a-vengeance-but-what-are-the-most-popular-film-looks-right-now-this-list-has-some-big-hints
 - 图：https://cdn.mos.cms.futurecdn.net/xd2EqgNJ9rzDN7d9d7TCXL-1280-80.jpg
 
-### 【外文】These 10 cameras are getting more expensive on the used market – the biggest hike is 24.1% and it's a DSLR!
+### 【外文】These 10 cameras are getting more expensive on the used market in Japan – the biggest hike is 24.1% and it's a DSLR!
 - 来源：Digital Camera World ｜ 日期：2026-08-11 ｜ 语言：en
 - 摘要：Used camera prices are rising across the Japanese market, with 88% of the models tracked by Minna Cameras increasing in price during the first half of 2026 – here are the 10 cameras that saw the biggest rises
 - 链接：https://www.digitalcameraworld.com/cameras/these-10-cameras-are-getting-more-expensive-on-the-used-market-the-biggest-hike-is-24-1-percent-and-its-a-dslr
@@ -92,11 +97,6 @@
 - 摘要：Tamron's financial results are always interesting thanks to the company's candor in breaking down its own-brand versus OEM lens production and sales data. However, Tamron's latest results are made even more compelling by the fact Sony is actively trying to acquire the lens maker, a very interesting move with huge poten
 - 链接：https://petapixel.com/2026/08/10/tamrons-oem-lens-sales-plummet-as-company-considers-sonys-takeover/
 
-### 【外文】How to Film a Simple Music Video, From Start to Finish
-- 来源：PetaPixel ｜ 日期：2026-08-10 ｜ 语言：en
-- 摘要：I've been thinking lately that it had been a while since I filmed a short form project. As in, actually directed the story, actors, and visuals. Right on cue, my buddy and amazing musician, Sam Plecker, reached out and said he wanted to film a music video for his upcoming track.
-- 链接：https://petapixel.com/2026/08/10/how-to-film-a-simple-music-video-from-start-to-finish/
-
 ## 🧰 软件更新
 
 ### 【外文】Darktable nightly build 20260811
@@ -104,6 +104,98 @@
 - 摘要：This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr
 - 链接：https://github.com/darktable-org/darktable/releases/tag/nightly
 - 图：https://avatars.githubusercontent.com/in/15368?s=60&v=4
+
+## 🎞 摄影师 · 好站 · 访谈
+
+### 【外文】A bit on the nose! The world’s longest-running photography exhibition – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-11 ｜ 语言：en
+- 摘要：Now on its 167th edition, the Royal Photographic Society’s annual show features moving explorations of kinks, visual disorders … and long-snouted clowns Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/11/worlds-longest-running-photography-exhibition-in-pictures-royal-photographic-society
+- 图：https://i.guim.co.uk/img/media/4a16143f68694b573a1411ce0299eee5b2c9521b/0_545_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4d7d111cccad57d12523dbb3d3bf56d
+
+### 【外文】An indigenous photographic history of America – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-10 ｜ 语言：en
+- 摘要：Spanning generations and multiple Indigenous societies and nations, In Light and Shadow traces the visual importance of Indigenous photographers. Representing work in different genres, the book presents more than 250 images with an accompanying exhibition at Obscura Gallery from 14 August Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/10/an-indigenous-photographic-history-of-america-in-pictures
+- 图：https://i.guim.co.uk/img/media/f3ebeecef3d5602e3af4c07def2cb49c718cf6d1/0_171_1129_903/master/1129.jpg?width=140&quality=85&auto=format&fit=max&s=c5962d40a76065cc2823903001f5f6ed
+
+### 【外文】Dogs, descents and dehydration: Tour de France Femmes 2026 – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
+- 摘要：The fifth edition of women’s version of the Tour de France featured 147 riders from 21 teams racing 1,175km, broken into three flat stages, three hilly stages, an individual time trial stage and two mountain stages which included a first visit to Mont Ventoux. Here are some of our favourite images from nine exhilaratin
+- 链接：https://www.theguardian.com/sport/gallery/2026/aug/09/dogs-descents-and-dehydration-the-tour-de-france-femmes-2026-in-pictures
+- 图：https://i.guim.co.uk/img/media/97650039e8b4f2156145167c7fce3ce4d43806e3/2723_13_4824_3859/master/4824.jpg?width=140&quality=85&auto=format&fit=max&s=4a1cf4f71a729313a916c69119eb9471
+
+### 【外文】Comedian Mo Gillligan looks back: ‘Drake shared my video, Ian Wright liked a post – then I quit my job in retail’
+- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
+- 摘要：The standup and presenter on performing at the back of the school bus, his funny aunts and uncles, and swerving a career selling perfume Born in Lambeth, south London, in 1988, Mo Gilligan is a comedian and presenter. His online sketches went viral in 2017, which led to his debut tour, Coupla Cans, and the start of his
+- 链接：https://www.theguardian.com/lifeandstyle/2026/aug/09/comedian-mo-gilligan-looks-back-big-chicken-fast-food-conspiracy-netflix
+- 图：https://i.guim.co.uk/img/media/76978add60f96256a194511a6a9c1fbc5cbe1ed2/0_409_4664_3730/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=a3729ef1b1b6802407baa006f2d43669
+
+### 【外文】Waterfall diving and a scarecrow festival: photos of the weekend
+- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
+- 摘要：The Guardian’s picture editors select photographs from around the world Continue reading...
+- 链接：https://www.theguardian.com/news/gallery/2026/aug/09/waterfall-diving-and-a-scarecrow-festival-photos-of-the-weekend
+- 图：https://i.guim.co.uk/img/media/9e9e522b191e592e090f46056f9582c4e49a7713/0_0_3250_2599/master/3250.png?width=140&quality=85&auto=format&fit=max&s=edc11ebbd16497c4ed6ba0c20f4ba878
+
+### 【外文】‘You can feel the warmth of the sun’: Bertram Greenhough’s best phone picture
+- 来源：The Guardian · Photography ｜ 日期：2026-08-08 ｜ 语言：en
+- 摘要：The Brighton-based photographer was walking along a crowded beach looking for ice-cream when he spotted this calm, minimalist scene Bertram Greenhough had promised his six-year-old daughter Audrey an ice-cream. It was a warm June day in Brighton and the pair were playing tourists in their own city, having just visited 
+- 链接：https://www.theguardian.com/lifeandstyle/2026/aug/08/bertram-greenhough-best-phone-picture-lifeguard-brighton-beach
+- 图：https://i.guim.co.uk/img/media/464c3bd8897becee47b25ee565cc4b5452a01616/0_342_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=1404eee13c56825b15b06f8b0438aeb3
+
+### 🔗多方印证 【外文】Sky Country: Indigenous fashion weaves culture and climate together
+- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
+- 摘要：First Nations designers, models, artists and artisans from across Australia gathered on Larrakia Country in Darwin this week for the Country to Couture runway show and the National Indigenous Fashion awards. In between, Guardian Australia photographed several of the featured models and designers Delvene Cockatoo-Collin
+- 链接：https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together
+- 图：https://i.guim.co.uk/img/media/20a5941d78e70643e0b604511935ca6242295b78/0_2696_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=52d2c84f397a0df3f4ef5db03c56f9a4
+
+### 【外文】The week around the world in 20 pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
+- 摘要：Wildfires in the US and Europe, Russian strikes in Kyiv, beekeepers in Gaza and the European Aquatics Championships – the past seven days as captured by the world’s leading photojournalists Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/07/the-week-around-the-world-in-20-pictures
+- 图：https://i.guim.co.uk/img/media/881717046d05765e0a0c08aa1afbee2197406a0a/942_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ad5eb45584698471ff3874970bbf9959
+
+### 【外文】New faces, fresh memories and a grand day out with Aardman – the week in art
+- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
+- 摘要：Arresting portraits from Catherine Opie, exploring the past with paint and the geniuses of British animation unpack their secrets – all in your weekly dispatch Catherine Opie: To Be Seen Powerful photographs that put people before you heroically, on tour from London’s National Portrait Gallery. • Royal Scottish Academy
+- 链接：https://www.theguardian.com/artanddesign/2026/aug/07/catherine-opie-aardman-the-week-in-art
+- 图：https://i.guim.co.uk/img/media/f0a80f49ce0dbd66d9ffa0aa2c07b427f15e53d8/0_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=d8fcba287e0809059d5e6a1cb41848ea
+
+### 【外文】Week in wildlife: a tiger release, an Exmoor eagle and Pallas’s kittens
+- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
+- 摘要：This week’s best wildlife photographs from around the world Continue reading...
+- 链接：https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens
+- 图：https://i.guim.co.uk/img/media/ee11e6a063a981520119177678717409c4658bb8/725_197_1278_1023/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=d80cca3db4a060b9c852281fbdf41b62
+
+### 【外文】Photographs of drama and emotion – the career of Chris Smith
+- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
+- 摘要：The late photographer has left behind memorable images of many of the larger-than-life characters who peopled the last four decades of the 20th century: Muhammad Ali, Paul Gascoigne, John McEnroe, Martina Navratilova, Aretha Franklin, Seve Ballesteros and Daley Thompson Chris Smith obituary Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/06/photographs-of-drama-and-emotion-the-career-of-chris-smith
+- 图：https://i.guim.co.uk/img/media/938b39977ed73e8ef945f10bd381ce149677bf7a/858_29_6810_5449/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=acff2184e80b51e83fd6cc7403dda4f5
+
+### 【外文】Chris Smith obituary
+- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
+- 摘要：Sports photographer for the Observer and the Sunday Times who sought to capture human drama and emotion When the Beatles waltzed unannounced into the 5th Street Gym in Miami Beach in 1964, the sports photographer Chris Smith seized the moment. He was there to record Cassius Clay (later Muhammad Ali ) in training for hi
+- 链接：https://www.theguardian.com/artanddesign/2026/aug/06/chris-smith-obituary
+- 图：https://i.guim.co.uk/img/media/299a82c3ebdec943c9d140be75a2dbada5f996b2/1179_0_6077_4860/master/6077.jpg?width=140&quality=85&auto=format&fit=max&s=acf2f52ea1fadb384f0f8d79120d132e
+
+### 【外文】Samba queens to sound systems: the riotous streets of Notting Hill carnival – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
+- 摘要：Wayne Campbell and Wayne Crichlow have been photographing carnival for 15 years, capturing a blur of dancers, style icons and singalongs on the tube home Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/06/samba-queens-to-sound-systems-the-riotous-streets-of-notting-hill-carnival-in-pictures-wayne-campbell-crichlow
+- 图：https://i.guim.co.uk/img/media/1d827ac4e64af2a8abdc21fbc241fb4322d51355/1057_4_6374_5101/master/6374.jpg?width=140&quality=85&auto=format&fit=max&s=0ded384796f2f52ed75a6763ff8e3f03
+
+### 【外文】‘Prisoners killed each other’s kittens. So now they’re forbidden inside’: Vladimir Karamazov’s best photograph
+- 来源：The Guardian · Photography ｜ 日期：2026-08-05 ｜ 语言：en
+- 摘要：‘The men in this jail in Bulgaria used to adopt these stray kittens. But pets can be a problem. They get killed as punishment or for revenge’ Belene prison, in northern Bulgaria on the border with Romania, is the most heavily guarded facility of its type in my country. It is on an island, so escape is near impossible, 
+- 链接：https://www.theguardian.com/artanddesign/2026/aug/05/bulgaria-prisoners-kittens-vladimir-karamazov-best-photograph
+- 图：https://i.guim.co.uk/img/media/14f38bc80919adff14751d790d8d4661ed956401/0_897_2656_2124/master/2656.png?width=140&quality=85&auto=format&fit=max&s=fdfcd9467c0bc52e3ffa1e65dd43aeda
+
+### 【外文】‘Magic from the shadows’: the dreamlike visions of Paolo Roversi – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-08-05 ｜ 语言：en
+- 摘要：A new exhibition showcases the Italian fashion photographer’s technical mastery, where light, blur and even mistakes contribute to an image’s beauty Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/05/paolo-roversi-in-pictures
+- 图：https://i.guim.co.uk/img/media/e1d39d974ee845075e240b6fb49eaeda69f4b137/0_0_1181_944/master/1181.jpg?width=140&quality=85&auto=format&fit=max&s=1cfa0eb92b5c7e2ecd33f5b1fd565d8a
 
 ## 💬 图片 · 评论 · 分享 · 访谈
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:26:06.423541+00:00",
+  "generated_at": "2026-08-11T09:32:27.815477+00:00",
   "window_days": 9,
   "source_counts": {
     "ok": [
@@ -16,21 +16,21 @@
       "Krita releases",
       "PhotoPrism releases",
       "ExifTool releases",
-      "Magnum Photos",
+      "The Guardian · Photography",
       "Light Stalking",
       "SLR Lounge",
       "Adorama ALCS",
+      "Feature Shoot",
       "Photography Life"
     ],
     "failed": [
-      "The Guardian · Photography",
+      "Magnum Photos",
       "LensCulture",
       "The Eye of Photography",
-      "Feature Shoot",
       "National Geographic · Photography"
     ]
   },
-  "total_items": 188,
+  "total_items": 208,
   "cross_verified": [
     {
       "signal": "gopro",
@@ -49,7 +49,8 @@
       "signal": "awards",
       "sources": [
         "Digital Camera World",
-        "PetaPixel"
+        "PetaPixel",
+        "The Guardian · Photography"
       ],
       "titles": [
         "Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners",
@@ -136,7 +137,7 @@
       ]
     },
     {
-      "signal": "lightroom",
+      "signal": "photoshop",
       "sources": [
         "Digital Camera World",
         "The Phoblographer"
@@ -147,7 +148,7 @@
       ]
     },
     {
-      "signal": "photoshop",
+      "signal": "lightroom",
       "sources": [
         "Digital Camera World",
         "The Phoblographer"
@@ -160,6 +161,18 @@
   ],
   "categories": {
     "gear": [
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "VSCO is Offering 50 Photographers the Chance to Have Their Work on a Billboard",
+        "summary": "VSCO, a photo and video editing app, is offering photographers in every state the opportunity to have their work exhibited on a billboard.",
+        "link": "https://petapixel.com/2026/08/11/vsco-is-offering-50-photographers-the-chance-to-have-their-work-on-a-billboard/",
+        "date": "2026-08-11",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
       {
         "cat": "gear",
         "source": "Digital Camera World",
@@ -202,7 +215,7 @@
         "cat": "gear",
         "source": "Digital Camera World",
         "lang": "en",
-        "title": "These 10 cameras are getting more expensive on the used market – the biggest hike is 24.1% and it's a DSLR!",
+        "title": "These 10 cameras are getting more expensive on the used market in Japan – the biggest hike is 24.1% and it's a DSLR!",
         "summary": "Used camera prices are rising across the Japanese market, with 88% of the models tracked by Minna Cameras increasing in price during the first half of 2026 – here are the 10 cameras that saw the biggest rises",
         "link": "https://www.digitalcameraworld.com/cameras/these-10-cameras-are-getting-more-expensive-on-the-used-market-the-biggest-hike-is-24-1-percent-and-its-a-dslr",
         "date": "2026-08-11",
@@ -334,18 +347,6 @@
         "image": "",
         "verified": false,
         "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "PetaPixel",
-        "lang": "en",
-        "title": "How to Film a Simple Music Video, From Start to Finish",
-        "summary": "I've been thinking lately that it had been a while since I filmed a short form project. As in, actually directed the story, actors, and visuals. Right on cue, my buddy and amazing musician, Sam Plecker, reached out and said he wanted to film a music video for his upcoming track.",
-        "link": "https://petapixel.com/2026/08/10/how-to-film-a-simple-music-video-from-start-to-finish/",
-        "date": "2026-08-10",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
       }
     ],
     "software": [
@@ -358,6 +359,190 @@
         "link": "https://github.com/darktable-org/darktable/releases/tag/nightly",
         "date": "2026-08-11",
         "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
+    "people": [
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "A bit on the nose! The world’s longest-running photography exhibition – in pictures",
+        "summary": "Now on its 167th edition, the Royal Photographic Society’s annual show features moving explorations of kinks, visual disorders … and long-snouted clowns Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/11/worlds-longest-running-photography-exhibition-in-pictures-royal-photographic-society",
+        "date": "2026-08-11",
+        "image": "https://i.guim.co.uk/img/media/4a16143f68694b573a1411ce0299eee5b2c9521b/0_545_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4d7d111cccad57d12523dbb3d3bf56d",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "An indigenous photographic history of America – in pictures",
+        "summary": "Spanning generations and multiple Indigenous societies and nations, In Light and Shadow traces the visual importance of Indigenous photographers. Representing work in different genres, the book presents more than 250 images with an accompanying exhibition at Obscura Gallery from 14 August Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/10/an-indigenous-photographic-history-of-america-in-pictures",
+        "date": "2026-08-10",
+        "image": "https://i.guim.co.uk/img/media/f3ebeecef3d5602e3af4c07def2cb49c718cf6d1/0_171_1129_903/master/1129.jpg?width=140&quality=85&auto=format&fit=max&s=c5962d40a76065cc2823903001f5f6ed",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Dogs, descents and dehydration: Tour de France Femmes 2026 – in pictures",
+        "summary": "The fifth edition of women’s version of the Tour de France featured 147 riders from 21 teams racing 1,175km, broken into three flat stages, three hilly stages, an individual time trial stage and two mountain stages which included a first visit to Mont Ventoux. Here are some of our favourite images from nine exhilaratin",
+        "link": "https://www.theguardian.com/sport/gallery/2026/aug/09/dogs-descents-and-dehydration-the-tour-de-france-femmes-2026-in-pictures",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/97650039e8b4f2156145167c7fce3ce4d43806e3/2723_13_4824_3859/master/4824.jpg?width=140&quality=85&auto=format&fit=max&s=4a1cf4f71a729313a916c69119eb9471",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Comedian Mo Gillligan looks back: ‘Drake shared my video, Ian Wright liked a post – then I quit my job in retail’",
+        "summary": "The standup and presenter on performing at the back of the school bus, his funny aunts and uncles, and swerving a career selling perfume Born in Lambeth, south London, in 1988, Mo Gilligan is a comedian and presenter. His online sketches went viral in 2017, which led to his debut tour, Coupla Cans, and the start of his",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/aug/09/comedian-mo-gilligan-looks-back-big-chicken-fast-food-conspiracy-netflix",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/76978add60f96256a194511a6a9c1fbc5cbe1ed2/0_409_4664_3730/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=a3729ef1b1b6802407baa006f2d43669",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Waterfall diving and a scarecrow festival: photos of the weekend",
+        "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
+        "link": "https://www.theguardian.com/news/gallery/2026/aug/09/waterfall-diving-and-a-scarecrow-festival-photos-of-the-weekend",
+        "date": "2026-08-09",
+        "image": "https://i.guim.co.uk/img/media/9e9e522b191e592e090f46056f9582c4e49a7713/0_0_3250_2599/master/3250.png?width=140&quality=85&auto=format&fit=max&s=edc11ebbd16497c4ed6ba0c20f4ba878",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘You can feel the warmth of the sun’: Bertram Greenhough’s best phone picture",
+        "summary": "The Brighton-based photographer was walking along a crowded beach looking for ice-cream when he spotted this calm, minimalist scene Bertram Greenhough had promised his six-year-old daughter Audrey an ice-cream. It was a warm June day in Brighton and the pair were playing tourists in their own city, having just visited ",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/aug/08/bertram-greenhough-best-phone-picture-lifeguard-brighton-beach",
+        "date": "2026-08-08",
+        "image": "https://i.guim.co.uk/img/media/464c3bd8897becee47b25ee565cc4b5452a01616/0_342_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=1404eee13c56825b15b06f8b0438aeb3",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Sky Country: Indigenous fashion weaves culture and climate together",
+        "summary": "First Nations designers, models, artists and artisans from across Australia gathered on Larrakia Country in Darwin this week for the Country to Couture runway show and the National Indigenous Fashion awards. In between, Guardian Australia photographed several of the featured models and designers Delvene Cockatoo-Collin",
+        "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/20a5941d78e70643e0b604511935ca6242295b78/0_2696_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=52d2c84f397a0df3f4ef5db03c56f9a4",
+        "verified": true,
+        "verified_signals": [
+          "awards"
+        ]
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "The week around the world in 20 pictures",
+        "summary": "Wildfires in the US and Europe, Russian strikes in Kyiv, beekeepers in Gaza and the European Aquatics Championships – the past seven days as captured by the world’s leading photojournalists Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/the-week-around-the-world-in-20-pictures",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/881717046d05765e0a0c08aa1afbee2197406a0a/942_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ad5eb45584698471ff3874970bbf9959",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "New faces, fresh memories and a grand day out with Aardman – the week in art",
+        "summary": "Arresting portraits from Catherine Opie, exploring the past with paint and the geniuses of British animation unpack their secrets – all in your weekly dispatch Catherine Opie: To Be Seen Powerful photographs that put people before you heroically, on tour from London’s National Portrait Gallery. • Royal Scottish Academy",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/07/catherine-opie-aardman-the-week-in-art",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/f0a80f49ce0dbd66d9ffa0aa2c07b427f15e53d8/0_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=d8fcba287e0809059d5e6a1cb41848ea",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Week in wildlife: a tiger release, an Exmoor eagle and Pallas’s kittens",
+        "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+        "link": "https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens",
+        "date": "2026-08-07",
+        "image": "https://i.guim.co.uk/img/media/ee11e6a063a981520119177678717409c4658bb8/725_197_1278_1023/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=d80cca3db4a060b9c852281fbdf41b62",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Photographs of drama and emotion – the career of Chris Smith",
+        "summary": "The late photographer has left behind memorable images of many of the larger-than-life characters who peopled the last four decades of the 20th century: Muhammad Ali, Paul Gascoigne, John McEnroe, Martina Navratilova, Aretha Franklin, Seve Ballesteros and Daley Thompson Chris Smith obituary Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/06/photographs-of-drama-and-emotion-the-career-of-chris-smith",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/938b39977ed73e8ef945f10bd381ce149677bf7a/858_29_6810_5449/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=acff2184e80b51e83fd6cc7403dda4f5",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Chris Smith obituary",
+        "summary": "Sports photographer for the Observer and the Sunday Times who sought to capture human drama and emotion When the Beatles waltzed unannounced into the 5th Street Gym in Miami Beach in 1964, the sports photographer Chris Smith seized the moment. He was there to record Cassius Clay (later Muhammad Ali ) in training for hi",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/06/chris-smith-obituary",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/299a82c3ebdec943c9d140be75a2dbada5f996b2/1179_0_6077_4860/master/6077.jpg?width=140&quality=85&auto=format&fit=max&s=acf2f52ea1fadb384f0f8d79120d132e",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Samba queens to sound systems: the riotous streets of Notting Hill carnival – in pictures",
+        "summary": "Wayne Campbell and Wayne Crichlow have been photographing carnival for 15 years, capturing a blur of dancers, style icons and singalongs on the tube home Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/06/samba-queens-to-sound-systems-the-riotous-streets-of-notting-hill-carnival-in-pictures-wayne-campbell-crichlow",
+        "date": "2026-08-06",
+        "image": "https://i.guim.co.uk/img/media/1d827ac4e64af2a8abdc21fbc241fb4322d51355/1057_4_6374_5101/master/6374.jpg?width=140&quality=85&auto=format&fit=max&s=0ded384796f2f52ed75a6763ff8e3f03",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘Prisoners killed each other’s kittens. So now they’re forbidden inside’: Vladimir Karamazov’s best photograph",
+        "summary": "‘The men in this jail in Bulgaria used to adopt these stray kittens. But pets can be a problem. They get killed as punishment or for revenge’ Belene prison, in northern Bulgaria on the border with Romania, is the most heavily guarded facility of its type in my country. It is on an island, so escape is near impossible, ",
+        "link": "https://www.theguardian.com/artanddesign/2026/aug/05/bulgaria-prisoners-kittens-vladimir-karamazov-best-photograph",
+        "date": "2026-08-05",
+        "image": "https://i.guim.co.uk/img/media/14f38bc80919adff14751d790d8d4661ed956401/0_897_2656_2124/master/2656.png?width=140&quality=85&auto=format&fit=max&s=fdfcd9467c0bc52e3ffa1e65dd43aeda",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "people",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘Magic from the shadows’: the dreamlike visions of Paolo Roversi – in pictures",
+        "summary": "A new exhibition showcases the Italian fashion photographer’s technical mastery, where light, blur and even mistakes contribute to an image’s beauty Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/05/paolo-roversi-in-pictures",
+        "date": "2026-08-05",
+        "image": "https://i.guim.co.uk/img/media/e1d39d974ee845075e240b6fb49eaeda69f4b137/0_0_1181_944/master/1181.jpg?width=140&quality=85&auto=format&fit=max&s=1cfa0eb92b5c7e2ecd33f5b1fd565d8a",
         "verified": false,
         "verified_signals": []
       }
