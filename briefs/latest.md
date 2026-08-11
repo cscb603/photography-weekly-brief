@@ -1,14 +1,14 @@
 # 影像家 · 全球摄影周报 （2026-08-11）
 
-> 采集窗口：近 9 天 ｜ 成功源 19 个 ｜ 条目 208 条 ｜ 多方印证 10 组
+> 采集窗口：近 9 天 ｜ 成功源 12 个 ｜ 条目 188 条 ｜ 多方印证 10 组
 
 
 ## 🔗 本周多方印证（国内外交叉比对）
 
-- **35MM**：Amateur Photographer、Fstoppers、Photography Life、The Phoblographer
 - **FE 10**：Amateur Photographer、Fstoppers、Photography Life、摄影世界
-- **AWARDS**：Digital Camera World、PetaPixel、The Guardian · Photography
+- **35MM**：Amateur Photographer、Fstoppers、Photography Life、The Phoblographer
 - **GOPRO**：Digital Camera World、PetaPixel
+- **AWARDS**：Digital Camera World、PetaPixel
 - **AWARD**：Digital Camera World、Light Stalking
 - **DJI**：Amateur Photographer、Digital Camera World
 - **SIRUI**：Digital Camera World、The Phoblographer
@@ -16,7 +16,14 @@
 - **PHOTOSHOP**：Digital Camera World、The Phoblographer
 - **LIGHTROOM**：Digital Camera World、The Phoblographer
 
-## 📷 器材消息
+## 🇨🇳 国内摄影圈
+
+### 🔗多方印证 索尼正式发布轻巧便携全画幅超远摄变焦镜头 FE 100-400mm F5.6-8 OSS
+- 来源：摄影世界 ｜ 日期：2026-08-05 ｜ 语言：zh
+- 摘要：2026 年 8 月 4 日， 索尼（中国）有限公司正式发布轻巧便携全画幅超远摄变焦镜头 FE 100-400mm F5.6-8 OSS (SEL100400)。新镜头具备 400mm 的超远摄焦段，同时保持了紧凑轻巧的设计，重量仅约 654 克，助力用户拍摄那些难以接近的精彩瞬间。得益于 2 片 ED（低色散）镜片和 2 片非球面镜片的全新光学设计，镜头整个焦段范围内均可呈现优异画质。作为索尼原厂超远摄镜头，FE 100-400mm F5.6-8 OSS 可以充分发挥索尼微单™ 的性能，可支持 AF-C 持续对焦下最高 120 张/秒的高速连拍，内置的镜头光学防抖亦可以与索尼微单内置的五轴防抖进行协同工作，令手持拍摄更稳定。镜头同
+- 链接：https://www.photoworld.com.cn/post/181476
+
+## 📷 器材 · 行业
 
 ### 【外文】VSCO is Offering 50 Photographers the Chance to Have Their Work on a Billboard
 - 来源：PetaPixel ｜ 日期：2026-08-11 ｜ 语言：en
@@ -97,112 +104,7 @@
 - 摘要：Tamron's financial results are always interesting thanks to the company's candor in breaking down its own-brand versus OEM lens production and sales data. However, Tamron's latest results are made even more compelling by the fact Sony is actively trying to acquire the lens maker, a very interesting move with huge poten
 - 链接：https://petapixel.com/2026/08/10/tamrons-oem-lens-sales-plummet-as-company-considers-sonys-takeover/
 
-## 🧰 软件更新
-
-### 【外文】Darktable nightly build 20260811
-- 来源：darktable releases ｜ 日期：2026-08-11 ｜ 语言：en
-- 摘要：This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr
-- 链接：https://github.com/darktable-org/darktable/releases/tag/nightly
-- 图：https://avatars.githubusercontent.com/in/15368?s=60&v=4
-
-## 🎞 摄影师 · 好站 · 访谈
-
-### 【外文】A bit on the nose! The world’s longest-running photography exhibition – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-11 ｜ 语言：en
-- 摘要：Now on its 167th edition, the Royal Photographic Society’s annual show features moving explorations of kinks, visual disorders … and long-snouted clowns Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/11/worlds-longest-running-photography-exhibition-in-pictures-royal-photographic-society
-- 图：https://i.guim.co.uk/img/media/4a16143f68694b573a1411ce0299eee5b2c9521b/0_545_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4d7d111cccad57d12523dbb3d3bf56d
-
-### 【外文】An indigenous photographic history of America – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-10 ｜ 语言：en
-- 摘要：Spanning generations and multiple Indigenous societies and nations, In Light and Shadow traces the visual importance of Indigenous photographers. Representing work in different genres, the book presents more than 250 images with an accompanying exhibition at Obscura Gallery from 14 August Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/10/an-indigenous-photographic-history-of-america-in-pictures
-- 图：https://i.guim.co.uk/img/media/f3ebeecef3d5602e3af4c07def2cb49c718cf6d1/0_171_1129_903/master/1129.jpg?width=140&quality=85&auto=format&fit=max&s=c5962d40a76065cc2823903001f5f6ed
-
-### 【外文】Dogs, descents and dehydration: Tour de France Femmes 2026 – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
-- 摘要：The fifth edition of women’s version of the Tour de France featured 147 riders from 21 teams racing 1,175km, broken into three flat stages, three hilly stages, an individual time trial stage and two mountain stages which included a first visit to Mont Ventoux. Here are some of our favourite images from nine exhilaratin
-- 链接：https://www.theguardian.com/sport/gallery/2026/aug/09/dogs-descents-and-dehydration-the-tour-de-france-femmes-2026-in-pictures
-- 图：https://i.guim.co.uk/img/media/97650039e8b4f2156145167c7fce3ce4d43806e3/2723_13_4824_3859/master/4824.jpg?width=140&quality=85&auto=format&fit=max&s=4a1cf4f71a729313a916c69119eb9471
-
-### 【外文】Comedian Mo Gillligan looks back: ‘Drake shared my video, Ian Wright liked a post – then I quit my job in retail’
-- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
-- 摘要：The standup and presenter on performing at the back of the school bus, his funny aunts and uncles, and swerving a career selling perfume Born in Lambeth, south London, in 1988, Mo Gilligan is a comedian and presenter. His online sketches went viral in 2017, which led to his debut tour, Coupla Cans, and the start of his
-- 链接：https://www.theguardian.com/lifeandstyle/2026/aug/09/comedian-mo-gilligan-looks-back-big-chicken-fast-food-conspiracy-netflix
-- 图：https://i.guim.co.uk/img/media/76978add60f96256a194511a6a9c1fbc5cbe1ed2/0_409_4664_3730/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=a3729ef1b1b6802407baa006f2d43669
-
-### 【外文】Waterfall diving and a scarecrow festival: photos of the weekend
-- 来源：The Guardian · Photography ｜ 日期：2026-08-09 ｜ 语言：en
-- 摘要：The Guardian’s picture editors select photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/news/gallery/2026/aug/09/waterfall-diving-and-a-scarecrow-festival-photos-of-the-weekend
-- 图：https://i.guim.co.uk/img/media/9e9e522b191e592e090f46056f9582c4e49a7713/0_0_3250_2599/master/3250.png?width=140&quality=85&auto=format&fit=max&s=edc11ebbd16497c4ed6ba0c20f4ba878
-
-### 【外文】‘You can feel the warmth of the sun’: Bertram Greenhough’s best phone picture
-- 来源：The Guardian · Photography ｜ 日期：2026-08-08 ｜ 语言：en
-- 摘要：The Brighton-based photographer was walking along a crowded beach looking for ice-cream when he spotted this calm, minimalist scene Bertram Greenhough had promised his six-year-old daughter Audrey an ice-cream. It was a warm June day in Brighton and the pair were playing tourists in their own city, having just visited 
-- 链接：https://www.theguardian.com/lifeandstyle/2026/aug/08/bertram-greenhough-best-phone-picture-lifeguard-brighton-beach
-- 图：https://i.guim.co.uk/img/media/464c3bd8897becee47b25ee565cc4b5452a01616/0_342_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=1404eee13c56825b15b06f8b0438aeb3
-
-### 🔗多方印证 【外文】Sky Country: Indigenous fashion weaves culture and climate together
-- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
-- 摘要：First Nations designers, models, artists and artisans from across Australia gathered on Larrakia Country in Darwin this week for the Country to Couture runway show and the National Indigenous Fashion awards. In between, Guardian Australia photographed several of the featured models and designers Delvene Cockatoo-Collin
-- 链接：https://www.theguardian.com/fashion/ng-interactive/2026/aug/08/sky-country-indigenous-fashion-weaves-culture-and-climate-together
-- 图：https://i.guim.co.uk/img/media/20a5941d78e70643e0b604511935ca6242295b78/0_2696_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=52d2c84f397a0df3f4ef5db03c56f9a4
-
-### 【外文】The week around the world in 20 pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
-- 摘要：Wildfires in the US and Europe, Russian strikes in Kyiv, beekeepers in Gaza and the European Aquatics Championships – the past seven days as captured by the world’s leading photojournalists Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/07/the-week-around-the-world-in-20-pictures
-- 图：https://i.guim.co.uk/img/media/881717046d05765e0a0c08aa1afbee2197406a0a/942_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ad5eb45584698471ff3874970bbf9959
-
-### 【外文】New faces, fresh memories and a grand day out with Aardman – the week in art
-- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
-- 摘要：Arresting portraits from Catherine Opie, exploring the past with paint and the geniuses of British animation unpack their secrets – all in your weekly dispatch Catherine Opie: To Be Seen Powerful photographs that put people before you heroically, on tour from London’s National Portrait Gallery. • Royal Scottish Academy
-- 链接：https://www.theguardian.com/artanddesign/2026/aug/07/catherine-opie-aardman-the-week-in-art
-- 图：https://i.guim.co.uk/img/media/f0a80f49ce0dbd66d9ffa0aa2c07b427f15e53d8/0_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=d8fcba287e0809059d5e6a1cb41848ea
-
-### 【外文】Week in wildlife: a tiger release, an Exmoor eagle and Pallas’s kittens
-- 来源：The Guardian · Photography ｜ 日期：2026-08-07 ｜ 语言：en
-- 摘要：This week’s best wildlife photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens
-- 图：https://i.guim.co.uk/img/media/ee11e6a063a981520119177678717409c4658bb8/725_197_1278_1023/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=d80cca3db4a060b9c852281fbdf41b62
-
-### 【外文】Photographs of drama and emotion – the career of Chris Smith
-- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
-- 摘要：The late photographer has left behind memorable images of many of the larger-than-life characters who peopled the last four decades of the 20th century: Muhammad Ali, Paul Gascoigne, John McEnroe, Martina Navratilova, Aretha Franklin, Seve Ballesteros and Daley Thompson Chris Smith obituary Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/06/photographs-of-drama-and-emotion-the-career-of-chris-smith
-- 图：https://i.guim.co.uk/img/media/938b39977ed73e8ef945f10bd381ce149677bf7a/858_29_6810_5449/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=acff2184e80b51e83fd6cc7403dda4f5
-
-### 【外文】Chris Smith obituary
-- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
-- 摘要：Sports photographer for the Observer and the Sunday Times who sought to capture human drama and emotion When the Beatles waltzed unannounced into the 5th Street Gym in Miami Beach in 1964, the sports photographer Chris Smith seized the moment. He was there to record Cassius Clay (later Muhammad Ali ) in training for hi
-- 链接：https://www.theguardian.com/artanddesign/2026/aug/06/chris-smith-obituary
-- 图：https://i.guim.co.uk/img/media/299a82c3ebdec943c9d140be75a2dbada5f996b2/1179_0_6077_4860/master/6077.jpg?width=140&quality=85&auto=format&fit=max&s=acf2f52ea1fadb384f0f8d79120d132e
-
-### 【外文】Samba queens to sound systems: the riotous streets of Notting Hill carnival – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-06 ｜ 语言：en
-- 摘要：Wayne Campbell and Wayne Crichlow have been photographing carnival for 15 years, capturing a blur of dancers, style icons and singalongs on the tube home Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/06/samba-queens-to-sound-systems-the-riotous-streets-of-notting-hill-carnival-in-pictures-wayne-campbell-crichlow
-- 图：https://i.guim.co.uk/img/media/1d827ac4e64af2a8abdc21fbc241fb4322d51355/1057_4_6374_5101/master/6374.jpg?width=140&quality=85&auto=format&fit=max&s=0ded384796f2f52ed75a6763ff8e3f03
-
-### 【外文】‘Prisoners killed each other’s kittens. So now they’re forbidden inside’: Vladimir Karamazov’s best photograph
-- 来源：The Guardian · Photography ｜ 日期：2026-08-05 ｜ 语言：en
-- 摘要：‘The men in this jail in Bulgaria used to adopt these stray kittens. But pets can be a problem. They get killed as punishment or for revenge’ Belene prison, in northern Bulgaria on the border with Romania, is the most heavily guarded facility of its type in my country. It is on an island, so escape is near impossible, 
-- 链接：https://www.theguardian.com/artanddesign/2026/aug/05/bulgaria-prisoners-kittens-vladimir-karamazov-best-photograph
-- 图：https://i.guim.co.uk/img/media/14f38bc80919adff14751d790d8d4661ed956401/0_897_2656_2124/master/2656.png?width=140&quality=85&auto=format&fit=max&s=fdfcd9467c0bc52e3ffa1e65dd43aeda
-
-### 【外文】‘Magic from the shadows’: the dreamlike visions of Paolo Roversi – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-08-05 ｜ 语言：en
-- 摘要：A new exhibition showcases the Italian fashion photographer’s technical mastery, where light, blur and even mistakes contribute to an image’s beauty Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/aug/05/paolo-roversi-in-pictures
-- 图：https://i.guim.co.uk/img/media/e1d39d974ee845075e240b6fb49eaeda69f4b137/0_0_1181_944/master/1181.jpg?width=140&quality=85&auto=format&fit=max&s=1cfa0eb92b5c7e2ecd33f5b1fd565d8a
-
-## 💬 图片 · 评论 · 分享 · 访谈
-
-### 【外文】A Color Extravaganza, Emotional Palettes, and Moments Through a Dirty Windshield – The Weekly Community Roundup
-- 来源：Light Stalking ｜ 日期：2026-08-10 ｜ 语言：en
-- 摘要：It's been another fantastic week for the Light Stalking photography community and we even got our new monthly challenge underway, which we will talk about below. We should start off with the photo of the week, which was an absolute cracker from Dianne (@tersha) has been posting a string of very stylized flowers that ar
-- 链接：https://www.lightstalking.com/aaugust-10-2026-weekly-roundup/
+## 🎞 经典 · 访谈 · 作品
 
 ### 【外文】Pixieset Photo Editor: An Honest Look From a Studio That Lives in Pixieset
 - 来源：SLR Lounge ｜ 日期：2026-08-10 ｜ 语言：en
@@ -234,11 +136,6 @@
 - 摘要：With the recent release of some fairly impressive flashes, there's been a lot of talk about flash durations. I've also noticed a lot of misinformation which, at worst, could be misleading people. Read this to make sure you're not being duped by the marketing hype.
 - 链接：https://www.slrlounge.com/flash-duration-explained/
 
-### 【外文】A Guide to Photographing the Geometry Of Modern Architecture
-- 来源：Light Stalking ｜ 日期：2026-08-07 ｜ 语言：en
-- 摘要：Architectural photography is an endlessly interesting discipline. From ancient monuments, through the structures of the Industrial Revolution to the ultra-modern skyscrapers of today, the sheer variety of subject matter is astounding. Many of us, when we think of architectural photography, see high-end commercial image
-- 链接：https://www.lightstalking.com/photographing-geometry-modern-architecture/
-
 ### 【外文】7 Ideas for Passive Income in Photography
 - 来源：SLR Lounge ｜ 日期：2026-08-07 ｜ 语言：en
 - 摘要：The digital age has opened up a plethora of opportunities for photographers to generate income outside of traditional client work. The concept of “passive income” is the topic of hundreds of “financial gurus” on Youtube and a common aspiration for many households. I mean, who doesn’t want to make money without doing an
@@ -248,11 +145,6 @@
 - 来源：Adorama ALCS ｜ 日期：2026-08-07 ｜ 语言：en
 - 摘要：Commercial creators Michelangelo Corkrum and Andres McCorkle, known as The Cork Bros, are redefining mobile-first narrative series with their 72-episode vertical drama Mama’s House. Shot over four days on the Fujifilm GFX ETERNA 55, the duo bypassed traditional funding channels to build a compelling, character-driven s
 - 链接：https://www.adorama.com/alc/the-cork-bros-on-storytelling/
-
-### 🔗多方印证 【外文】July 2026 Photo Contest Winners: Urban Geometry
-- 来源：Light Stalking ｜ 日期：2026-08-06 ｜ 语言：en
-- 摘要：It's a great pleasure to announce the winners for the July photography competition “Urban Geometry“ If you're not already aware, then the monthly photography competition here at Light Stalking carries a $100 People Choice Award and a $100 overall winner award. The People's Choice Award is selected by a vote of the comm
-- 链接：https://www.lightstalking.com/july-2026-photo-contest-winners-urban-geometry/
 
 ### 【外文】How to Take Wedding Sparkler Photos
 - 来源：SLR Lounge ｜ 日期：2026-08-06 ｜ 语言：en
@@ -264,17 +156,17 @@
 - 摘要：The difference between a good photo and a great photo often comes down to its composition. A composition with multiple layers is often more complex and interesting. The three layers in a photograph, a video, or a painting are 1) the foreground, 2) middle ground, and 3) background. Understanding and visualizing these la
 - 链接：https://www.slrlounge.com/foreground-middle-ground-and-background-in-photography/
 
-### 🔗多方印证 【外文】The World’s Largest Digital Camera Just Produced an Image Containing More Than Half a Million Galaxies
-- 来源：Light Stalking ｜ 日期：2026-08-04 ｜ 语言：en
-- 摘要：The Vera C. Rubin Observatory in Chile recently released a stunning deep-space image of the cosmos apparently containing over 500,000 galaxies. Not stars, galaxies! The mind-blowing image was shot using an LSST camera, which holds the record as the world's largest digital camera and has a resolution of 3.2 gigapixels o
-- 链接：https://www.lightstalking.com/the-worlds-largest-digital-camera-just-produced-an-image-containing-more-than-half-a-million-galaxies/
+### 【外文】5 Tips For Film Photography While Traveling
+- 来源：Adorama ALCS ｜ 日期：2026-08-03 ｜ 语言：en
+- 摘要：Shooting film photography on the road should be simple. Protect your rolls from airport scanners, stick to one versatile lens, and wake up before the tourists to capture the magic. The post 5 Tips For Film Photography While Traveling appeared first on Adorama .
+- 链接：https://www.adorama.com/alc/travel-film-photography-tips/
 
-### 【外文】Natural Contrasts, Street Humour, Solitude And More – The Weekly Community Roundup
-- 来源：Light Stalking ｜ 日期：2026-08-03 ｜ 语言：en
-- 摘要：So, another great week in the Light Stalking community that deserves a bit of attention has just happened with our weekly photography challenge dominating activity, a fantastic photo of the week from Patrick as well as several other fantastic contributions from him and others, and a bunch of usual discussions that we c
-- 链接：https://www.lightstalking.com/natural-contrasts-street-humour-solitude-and-more-the-weekly-community-roundup/
+## 🛠 技巧 · 思考
 
-## 🗺 好去处 · 灵感
+### 【外文】A Color Extravaganza, Emotional Palettes, and Moments Through a Dirty Windshield – The Weekly Community Roundup
+- 来源：Light Stalking ｜ 日期：2026-08-10 ｜ 语言：en
+- 摘要：It's been another fantastic week for the Light Stalking photography community and we even got our new monthly challenge underway, which we will talk about below. We should start off with the photo of the week, which was an absolute cracker from Dianne (@tersha) has been posting a string of very stylized flowers that ar
+- 链接：https://www.lightstalking.com/aaugust-10-2026-weekly-roundup/
 
 ### 【外文】Photography News: Rumored Sony Lenses, Nikon Z8 Sale
 - 来源：Photography Life ｜ 日期：2026-08-09 ｜ 语言：en
@@ -288,6 +180,16 @@
 - 链接：https://photographylife.com/reviews/viltrox-af-35mm-f-1-8-evo
 - 图：https://photographylife.com/wp-content/uploads/2026/07/Viltrox-35mm-f1.8-LAB_Product-Image-1-650x433.jpg
 
+### 【外文】A Guide to Photographing the Geometry Of Modern Architecture
+- 来源：Light Stalking ｜ 日期：2026-08-07 ｜ 语言：en
+- 摘要：Architectural photography is an endlessly interesting discipline. From ancient monuments, through the structures of the Industrial Revolution to the ultra-modern skyscrapers of today, the sheer variety of subject matter is astounding. Many of us, when we think of architectural photography, see high-end commercial image
+- 链接：https://www.lightstalking.com/photographing-geometry-modern-architecture/
+
+### 🔗多方印证 【外文】July 2026 Photo Contest Winners: Urban Geometry
+- 来源：Light Stalking ｜ 日期：2026-08-06 ｜ 语言：en
+- 摘要：It's a great pleasure to announce the winners for the July photography competition “Urban Geometry“ If you're not already aware, then the monthly photography competition here at Light Stalking carries a $100 People Choice Award and a $100 overall winner award. The People's Choice Award is selected by a vote of the comm
+- 链接：https://www.lightstalking.com/july-2026-photo-contest-winners-urban-geometry/
+
 ### 🔗多方印证 【外文】Sony FE 100-400mm f/5.6-8 Announced
 - 来源：Photography Life ｜ 日期：2026-08-05 ｜ 语言：en
 - 摘要：Sony just unveiled a new lightweight telephoto zoom: the FE 100-400mm f/5.6-8 OSS. It’s portable and well-priced, coming in at just 654 grams and $850. Sony clearly sees it as a budget alternative to their higher-end telephotos, and that’s reflected in the lack of “G” designation. Here’s what we know so far.
@@ -300,8 +202,23 @@
 - 链接：https://photographylife.com/photographing-arctic-tern
 - 图：https://photographylife.com/wp-content/uploads/2026/08/Arctic-Tern-sunset-over-the-sea-650x433.jpg
 
+### 【外文】Westcott Expands FJ Wireless Lighting System
+- 来源：Digital Photography School ｜ 日期：2026-08-04 ｜ 语言：en
+- 摘要：The post Westcott Expands FJ Wireless Lighting System appeared first on Digital Photography School . It was authored by Sime . Westcott Expands FJ Wireless System with New FJ100 Touchscreen Strobe and FJ100 Touchscreen Speedlight Compact 100Ws lights with industry-leading battery performance and intuitive controls West
+- 链接：https://digital-photography-school.com/westcott-expands-fj-wireless-lighting-system/
+
+### 🔗多方印证 【外文】The World’s Largest Digital Camera Just Produced an Image Containing More Than Half a Million Galaxies
+- 来源：Light Stalking ｜ 日期：2026-08-04 ｜ 语言：en
+- 摘要：The Vera C. Rubin Observatory in Chile recently released a stunning deep-space image of the cosmos apparently containing over 500,000 galaxies. Not stars, galaxies! The mind-blowing image was shot using an LSST camera, which holds the record as the world's largest digital camera and has a resolution of 3.2 gigapixels o
+- 链接：https://www.lightstalking.com/the-worlds-largest-digital-camera-just-produced-an-image-containing-more-than-half-a-million-galaxies/
+
 ### 【外文】Photography News: Nikon’s Patent Woes, Sony Offers to Buy Tamron
 - 来源：Photography Life ｜ 日期：2026-08-03 ｜ 语言：en
 - 摘要：I constantly hear— and, in fact, witness firsthand—that we live in a society divided into invisible, impenetrable bubbles. Their walls are constantly strengthened by the ever-evolving algorithms of social media networks, into which we are lured and trapped like moths to a lightbulb. Sometimes, there is essentially noth
 - 链接：https://photographylife.com/news/photo-news-2026-08-02
 - 图：https://photographylife.com/wp-content/uploads/2026/07/Prague_Bubbles_LVP8012-650x433.jpg
+
+### 【外文】Natural Contrasts, Street Humour, Solitude And More – The Weekly Community Roundup
+- 来源：Light Stalking ｜ 日期：2026-08-03 ｜ 语言：en
+- 摘要：So, another great week in the Light Stalking community that deserves a bit of attention has just happened with our weekly photography challenge dominating activity, a fantastic photo of the week from Patrick as well as several other fantastic contributions from him and others, and a bunch of usual discussions that we c
+- 链接：https://www.lightstalking.com/natural-contrasts-street-humour-solitude-and-more-the-weekly-community-roundup/

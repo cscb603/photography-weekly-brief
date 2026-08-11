@@ -1,39 +1,52 @@
 {
-  "_comment": "全球+国内摄影资讯源。lang=源语言(zh/en)，best_effort=true 表示个别网络环境下可能超时，抓取失败自动跳过。GitHub Actions 机房网络与本地不同，best_effort 源在云端常能成功。",
+  "_comment": "全球+国内摄影资讯源，按用户需求重排：国内为主、深度/技巧补强、器材降权、全球点缀。lang=源语言(zh/en)；best_effort=true 表示个别网络环境下可能超时，抓取失败自动跳过（GitHub 云端机房网络常与本地不同，常能成功）。local_seeds 供每周自动化做合肥/安徽本地搜索种子，fetch.py 不读取。",
   "categories": {
-    "gear": "📷 器材消息",
+    "domestic": "🇨🇳 国内摄影圈",
+    "gear": "📷 器材 · 行业",
     "software": "🧰 软件更新",
-    "people": "🎞 摄影师 · 好站 · 访谈",
-    "talk": "💬 图片 · 评论 · 分享 · 访谈",
-    "place": "🗺 好去处 · 灵感"
+    "classic": "🎞 经典 · 访谈 · 作品",
+    "technique": "🛠 技巧 · 思考",
+    "global": "🌍 全球视野"
   },
+  "local_seeds": [
+    "合肥市摄影家协会 征稿 摄影展",
+    "安徽省摄影家协会 征稿 摄影展",
+    "安徽画报 一拍即合 摄影专栏",
+    "合肥 摄影展 展览 2026",
+    "环巢湖 摄影大展 合肥",
+    "合肥 出片 打卡 拍照 好看的地方",
+    "安徽 摄影 比赛 截稿"
+  ],
   "feeds": [
+    {"cat": "domestic", "name": "摄影世界", "lang": "zh", "url": "https://www.photoworld.com.cn/rss/"},
+
     {"cat": "gear", "name": "PetaPixel", "lang": "en", "url": "https://petapixel.com/feed/"},
     {"cat": "gear", "name": "Fstoppers", "lang": "en", "url": "https://fstoppers.com/rss"},
     {"cat": "gear", "name": "Digital Camera World", "lang": "en", "url": "https://www.digitalcameraworld.com/rss"},
     {"cat": "gear", "name": "Amateur Photographer", "lang": "en", "url": "https://www.amateurphotographer.co.uk/feed/"},
     {"cat": "gear", "name": "The Phoblographer", "lang": "en", "url": "https://www.thephoblographer.com/feed/"},
-    {"cat": "gear", "name": "色影无忌", "lang": "zh", "url": "https://www.xitek.com/rss/"},
-    {"cat": "gear", "name": "摄影世界", "lang": "zh", "url": "https://www.photoworld.com.cn/rss/"},
 
-    {"cat": "software", "name": "darktable releases", "lang": "en", "url": "https://github.com/darktable-org/darktable/releases.atom"},
-    {"cat": "software", "name": "RawTherapee releases", "lang": "en", "url": "https://github.com/RawTherapee/RawTherapee/releases.atom"},
-    {"cat": "software", "name": "GIMP releases", "lang": "en", "url": "https://github.com/GNOME/gimp/releases.atom"},
-    {"cat": "software", "name": "Krita releases", "lang": "en", "url": "https://github.com/KDE/krita/releases.atom"},
-    {"cat": "software", "name": "PhotoPrism releases", "lang": "en", "url": "https://github.com/photoprism/photoprism/releases.atom"},
-    {"cat": "software", "name": "ExifTool releases", "lang": "en", "url": "https://github.com/exiftool/exiftool/releases.atom"},
+    {"cat": "software", "name": "darktable releases", "lang": "en", "best_effort": true, "url": "https://github.com/darktable-org/darktable/releases.atom"},
+    {"cat": "software", "name": "RawTherapee releases", "lang": "en", "best_effort": true, "url": "https://github.com/RawTherapee/RawTherapee/releases.atom"},
+    {"cat": "software", "name": "GIMP releases", "lang": "en", "best_effort": true, "url": "https://github.com/GNOME/gimp/releases.atom"},
+    {"cat": "software", "name": "Krita releases", "lang": "en", "best_effort": true, "url": "https://github.com/KDE/krita/releases.atom"},
+    {"cat": "software", "name": "PhotoPrism releases", "lang": "en", "best_effort": true, "url": "https://github.com/photoprism/photoprism/releases.atom"},
+    {"cat": "software", "name": "ExifTool releases", "lang": "en", "best_effort": true, "url": "https://github.com/exiftool/exiftool/releases.atom"},
 
-    {"cat": "people", "name": "Magnum Photos", "lang": "en", "url": "https://www.magnumphotos.com/feed/"},
-    {"cat": "people", "name": "The Guardian · Photography", "lang": "en", "best_effort": true, "url": "https://www.theguardian.com/artanddesign/photography/rss"},
-    {"cat": "people", "name": "LensCulture", "lang": "en", "best_effort": true, "url": "https://www.lensculture.com/feed"},
-    {"cat": "people", "name": "The Eye of Photography", "lang": "en", "best_effort": true, "url": "https://www.theeyeofphotography.com/rss/"},
+    {"cat": "classic", "name": "Magnum Photos", "lang": "en", "best_effort": true, "url": "https://www.magnumphotos.com/feed/"},
+    {"cat": "classic", "name": "British Journal of Photography", "lang": "en", "url": "https://www.1854.photography/rss"},
+    {"cat": "classic", "name": "All About Photo", "lang": "en", "url": "https://www.all-about-photo.com/feed"},
+    {"cat": "classic", "name": "LensCulture", "lang": "en", "best_effort": true, "url": "https://www.lensculture.com/feed"},
+    {"cat": "classic", "name": "The Eye of Photography", "lang": "en", "best_effort": true, "url": "https://www.theeyeofphotography.com/rss/"},
+    {"cat": "classic", "name": "Feature Shoot", "lang": "en", "best_effort": true, "url": "https://www.featureshoot.com/feed"},
+    {"cat": "classic", "name": "SLR Lounge", "lang": "en", "url": "https://www.slrlounge.com/feed/"},
+    {"cat": "classic", "name": "Adorama ALCS", "lang": "en", "url": "https://www.adorama.com/alc/feed/"},
 
-    {"cat": "talk", "name": "Light Stalking", "lang": "en", "url": "https://lightstalking.com/feed/"},
-    {"cat": "talk", "name": "SLR Lounge", "lang": "en", "url": "https://www.slrlounge.com/feed/"},
-    {"cat": "talk", "name": "Adorama ALCS", "lang": "en", "url": "https://www.adorama.com/alc/feed/"},
-    {"cat": "talk", "name": "Feature Shoot", "lang": "en", "best_effort": true, "url": "https://www.featureshoot.com/feed/"},
+    {"cat": "technique", "name": "Photography Life", "lang": "en", "url": "https://photographylife.com/rss"},
+    {"cat": "technique", "name": "Digital Photography School", "lang": "en", "url": "https://digital-photography-school.com/feed/"},
+    {"cat": "technique", "name": "Light Stalking", "lang": "en", "url": "https://lightstalking.com/feed/"},
 
-    {"cat": "place", "name": "Photography Life", "lang": "en", "url": "https://photographylife.com/feed"},
-    {"cat": "place", "name": "National Geographic · Photography", "lang": "en", "best_effort": true, "url": "https://www.nationalgeographic.com/photography/feed/"}
+    {"cat": "global", "name": "The Guardian · Photography", "lang": "en", "best_effort": true, "url": "https://www.theguardian.com/artanddesign/photography/rss"},
+    {"cat": "global", "name": "World Press Photo", "lang": "en", "best_effort": true, "url": "https://www.worldpressphoto.org/rss.xml"}
   ]
 }
