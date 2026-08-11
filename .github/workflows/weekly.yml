@@ -1,0 +1,43 @@
+name: Weekly Photo Brief
+
+on:
+  schedule:
+    # 周日 22:00 UTC = 周一 06:00 北京时间，保证周一前简报已就绪
+    - cron: '0 22 * * SUN'
+  workflow_dispatch: {}   # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install --quiet feedparser requests
+
+      - name: Fetch & build brief
+        run: python fetch.py
+
+      - name: Commit results
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "github-actions[bot]"
+          git add briefs docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "brief: $(date +%F)"
+            git push
+          fi

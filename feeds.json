@@ -1,0 +1,82 @@
+{
+  "window_days": 7,
+  "feeds": [
+    {
+      "name": "PetaPixel",
+      "url": "https://petapixel.com/feed/",
+      "category": "gear_industry",
+      "lang": "en",
+      "max": 10
+    },
+    {
+      "name": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/rss",
+      "category": "gear_industry",
+      "lang": "en",
+      "max": 8
+    },
+    {
+      "name": "The Phoblographer",
+      "url": "https://www.thephoblographer.com/feed/",
+      "category": "gear_industry",
+      "lang": "en",
+      "max": 8
+    },
+    {
+      "name": "SLR Lounge",
+      "url": "https://www.slrlounge.com/feed/",
+      "category": "gear_industry",
+      "lang": "en",
+      "max": 6
+    },
+    {
+      "name": "Digital Photography School",
+      "url": "https://digital-photography-school.com/feed/",
+      "category": "gear_industry",
+      "lang": "en",
+      "max": 6
+    },
+    {
+      "name": "Photography Life",
+      "url": "https://photographylife.com/feed",
+      "category": "reading_depth",
+      "lang": "en",
+      "max": 6
+    },
+    {
+      "name": "Magnum Photos",
+      "url": "https://www.magnumphotos.com/feed/",
+      "category": "global_eye",
+      "lang": "en",
+      "max": 6
+    },
+    {
+      "name": "The Eye of Photography",
+      "url": "https://www.theeyeofphotography.com/feed/",
+      "category": "global_eye",
+      "lang": "en",
+      "max": 8
+    },
+    {
+      "name": "British Journal of Photography",
+      "url": "https://www.bjp-online.com/feed/",
+      "category": "global_eye",
+      "lang": "en",
+      "max": 6
+    },
+    {
+      "name": "LensCulture",
+      "url": "https://www.lensculture.com/articles.atom",
+      "category": "global_eye",
+      "lang": "en",
+      "max": 8
+    },
+    {
+      "name": "Fstoppers",
+      "url": "https://fstoppers.com/rss.xml",
+      "category": "interviews",
+      "lang": "en",
+      "max": 8
+    }
+  ]
+}
