@@ -1,0 +1,618 @@
+{
+  "generated_at": "2026-08-11T09:26:06.423541+00:00",
+  "window_days": 9,
+  "source_counts": {
+    "ok": [
+      "PetaPixel",
+      "Fstoppers",
+      "Digital Camera World",
+      "Amateur Photographer",
+      "The Phoblographer",
+      "色影无忌",
+      "摄影世界",
+      "darktable releases",
+      "RawTherapee releases",
+      "GIMP releases",
+      "Krita releases",
+      "PhotoPrism releases",
+      "ExifTool releases",
+      "Magnum Photos",
+      "Light Stalking",
+      "SLR Lounge",
+      "Adorama ALCS",
+      "Photography Life"
+    ],
+    "failed": [
+      "The Guardian · Photography",
+      "LensCulture",
+      "The Eye of Photography",
+      "Feature Shoot",
+      "National Geographic · Photography"
+    ]
+  },
+  "total_items": 188,
+  "cross_verified": [
+    {
+      "signal": "gopro",
+      "sources": [
+        "Digital Camera World",
+        "PetaPixel"
+      ],
+      "titles": [
+        "GoPro Searches for a Lifeline as It Lost $51 Million Last Quarter",
+        "GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer",
+        "BREAKING: GoPro’s first mirrorless camera will debut in September – and GoPro has just revealed new details about the Mission 1 Pro ILS",
+        "EXCLUSIVE: GoPro has been dreaming of swappable lenses since the Hero4, and now a mirrorless GoPro is finally happening.The brand talks ILS prototypes and who the upcoming camera is really for"
+      ]
+    },
+    {
+      "signal": "awards",
+      "sources": [
+        "Digital Camera World",
+        "PetaPixel"
+      ],
+      "titles": [
+        "Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners",
+        "Photo of hungry pelican snapped in the act at 1/1,400 sec with a Nikon Z9 gets major awards recognition",
+        "This cinematic photo of Australian drovers is honored at a major awards – and it’s a masterclass in visual storytelling",
+        "\"Street photography begins with honesty. It doesn't wait for perfection or performance. It asks us to notice what everyone else walked past\""
+      ]
+    },
+    {
+      "signal": "35mm",
+      "sources": [
+        "Amateur Photographer",
+        "Fstoppers",
+        "Photography Life",
+        "The Phoblographer"
+      ],
+      "titles": [
+        "3 Reasons To Pick Up The Nikon NIKKOR Z 28-135mm f/4 PZ Lens",
+        "How the Canon AE-1 Turned Photography Into a Mass-Market Hobby",
+        "This photographer pairs images of jellyfish and erotic dancers – once you see the resemblance, you’ll never unsee it [NSFW]",
+        "110 film cameras from the 1970s and 80s were horrid. So why is the format being revived decades later?"
+      ]
+    },
+    {
+      "signal": "fe 10",
+      "sources": [
+        "Amateur Photographer",
+        "Fstoppers",
+        "Photography Life",
+        "摄影世界"
+      ],
+      "titles": [
+        "Bird and Wildlife Reach on a Budget: A Review of the Sony FE 100-400 f/5.6-8",
+        "Want to shoot garden wildlife or your kids’ sports days? Sony’s new affordable zoom lens has you covered",
+        "索尼正式发布轻巧便携全画幅超远摄变焦镜头 FE 100-400mm F5.6-8 OSS",
+        "Sony FE 100-400mm f/5.6-8 Announced"
+      ]
+    },
+    {
+      "signal": "award",
+      "sources": [
+        "Digital Camera World",
+        "Light Stalking"
+      ],
+      "titles": [
+        "Award-winning compact cameras rarely come at a discount, but this 61MP full-frame model just got a rare price cut",
+        "\"A cultural legacy passed down from generation to generation. At the heart of the Lambe Sujo and Caboclinhos Festival in Sergipe, a boy looks out at the world through the lens of his heritage,\" says photographer about multi-award-winning street shot",
+        "\"This image captures something deeply human – the need for connection after moments of reflection and duty. Just hours earlier, these young submariners had marched with solemnity and precision, paying tribute to those who had gone before them\"",
+        "\"Street photography begins with honesty. It doesn't wait for perfection or performance. It asks us to notice what everyone else walked past\""
+      ]
+    },
+    {
+      "signal": "dji",
+      "sources": [
+        "Amateur Photographer",
+        "Digital Camera World"
+      ],
+      "titles": [
+        "I’m an American drone pilot. The US drone ban may be about to get worse, as the FCC’s definition of “military-grade” could remove popular drones like the DJI Mini 5 Pro",
+        "DJI Osmo 360 II camera teased with imminent August 13 launch in China (at least)",
+        "New DJI Mic Mini 2S lands with 28 hours of internal recording"
+      ]
+    },
+    {
+      "signal": "sirui",
+      "sources": [
+        "Digital Camera World",
+        "The Phoblographer"
+      ],
+      "titles": [
+        "These new Sirui anamorphic lenses could be perfect for the content creation generation",
+        "Sirui 35mm f1.4 Aurora Review: Japanese Quality for 1/4 of the Price"
+      ]
+    },
+    {
+      "signal": "osmo",
+      "sources": [
+        "Digital Camera World",
+        "Light Stalking"
+      ],
+      "titles": [
+        "DJI Osmo 360 II camera teased with imminent August 13 launch in China (at least)",
+        "The World’s Largest Digital Camera Just Produced an Image Containing More Than Half a Million Galaxies"
+      ]
+    },
+    {
+      "signal": "lightroom",
+      "sources": [
+        "Digital Camera World",
+        "The Phoblographer"
+      ],
+      "titles": [
+        "“Adobe, polish my pics.” Adobe’s new ChatGPT plug-in gives the chatbot access to 70+ tools, including Photoshop and Lightroom favorites",
+        "How to Edit Your Photos Without Lightroom or Photoshop"
+      ]
+    },
+    {
+      "signal": "photoshop",
+      "sources": [
+        "Digital Camera World",
+        "The Phoblographer"
+      ],
+      "titles": [
+        "“Adobe, polish my pics.” Adobe’s new ChatGPT plug-in gives the chatbot access to 70+ tools, including Photoshop and Lightroom favorites",
+        "How to Edit Your Photos Without Lightroom or Photoshop"
+      ]
+    }
+  ],
+  "categories": {
+    "gear": [
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "Award-winning compact cameras rarely come at a discount, but this 61MP full-frame model just got a rare price cut",
+        "summary": "Perfect as an everyday or travel camera, the Sony RX1R III is \"the most compelling compact camera on the market\" and is now available for £300 less",
+        "link": "https://www.digitalcameraworld.com/cameras/compact-cameras/award-winning-compact-cameras-rarely-come-at-a-discount-but-this-61mp-full-frame-model-just-got-a-rare-price-cut",
+        "date": "2026-08-11",
+        "image": "https://cdn.mos.cms.futurecdn.net/QST9AjooD2mAMTsG7VoXsT-1280-80.jpg",
+        "verified": true,
+        "verified_signals": [
+          "award"
+        ]
+      },
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "This \"very good entry-level full-frame camera\" is now cheaper and comes in bundles for every need",
+        "summary": "The Nikon Z5 is a capable, attractive and affordable full-frame mirrorless – and an especially great pick for anyone moving from DSLR",
+        "link": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/this-very-good-entry-level-full-frame-camera-is-now-cheaper-and-comes-in-bundles-for-every-need",
+        "date": "2026-08-11",
+        "image": "https://cdn.mos.cms.futurecdn.net/nG7XH3x4tddAF3y3mQt5pm-1280-80.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "Analog photography is back with a vengeance, but what are the most popular film looks right now? This list has some big hints",
+        "summary": "B&H has shared a list of the top trending film stocks right now, offering insight into what film analog photographers are drawn to the most right now",
+        "link": "https://www.digitalcameraworld.com/cameras/film-cameras/analog-photography-is-back-with-a-vengeance-but-what-are-the-most-popular-film-looks-right-now-this-list-has-some-big-hints",
+        "date": "2026-08-11",
+        "image": "https://cdn.mos.cms.futurecdn.net/xd2EqgNJ9rzDN7d9d7TCXL-1280-80.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "These 10 cameras are getting more expensive on the used market – the biggest hike is 24.1% and it's a DSLR!",
+        "summary": "Used camera prices are rising across the Japanese market, with 88% of the models tracked by Minna Cameras increasing in price during the first half of 2026 – here are the 10 cameras that saw the biggest rises",
+        "link": "https://www.digitalcameraworld.com/cameras/these-10-cameras-are-getting-more-expensive-on-the-used-market-the-biggest-hike-is-24-1-percent-and-its-a-dslr",
+        "date": "2026-08-11",
+        "image": "https://cdn.mos.cms.futurecdn.net/X8AfJ3jK7Rsx2eJGEQiaAh-1280-80.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "The Phoblographer",
+        "lang": "en",
+        "title": "Sirui 35mm f1.4 Aurora Review: Japanese Quality for 1/4 of the Price",
+        "summary": "The other day when taking the Sirui 35mm f1.4 Aurora out for a photowalk with a new friend, he asked me what made it special and unique vs every other 35mm f1.4 lens out there. And that question has been in my head for the entire time that it's been mounted to my Leica SL2s. This camera, more than my Panasonic S1R II, ",
+        "link": "https://www.thephoblographer.com/2026/08/11/sirui-35mm-f1-4-aurora-review-japanese-quality-for-1-4-of-the-price/",
+        "date": "2026-08-11",
+        "image": "",
+        "verified": true,
+        "verified_signals": [
+          "35mm",
+          "sirui"
+        ]
+      },
+      {
+        "cat": "gear",
+        "source": "The Phoblographer",
+        "lang": "en",
+        "title": "The Tamron 25-200mm is Essentially a Macro Lens Now",
+        "summary": "Even though it seems like they're going to be sold to Sony, Tamron is still not done doing some really good stuff. Just recently, the company announced their latest 3.0 firmware update for the Tamron 25-200mm f2.8-5.6 G2 lens. The new update promised to make the close focusing capabilities even better. So in traditiona",
+        "link": "https://www.thephoblographer.com/2026/08/11/the-tamron-25-200mm-is-essentially-a-macro-lens-now/",
+        "date": "2026-08-11",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Webb Space Telescope Helps a Cosmic Lion Roar Life",
+        "summary": "The James Webb Space Telescope (JWST) has captured beautiful new photos of the Lion Nebula, NGC 2392, demonstrating its imaging prowess compared to the venerable Hubble Space Telescope.",
+        "link": "https://petapixel.com/2026/08/10/webb-space-telescope-helps-a-cosmic-lion-roar-life/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "GoPro Searches for a Lifeline as It Lost $51 Million Last Quarter",
+        "summary": "GoPro has announced its second-quarter financial results and some of the core numbers are dire.",
+        "link": "https://petapixel.com/2026/08/10/gopro-searches-for-a-lifeline-as-it-lost-51-million-last-quarter/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": true,
+        "verified_signals": [
+          "gopro"
+        ]
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "The Sharge Disk Pro 2 Aims Fix Every Pain Point of the Original",
+        "summary": "Sharge is just a few days away from wrapping up its crowdfunding campaign for the follow-up to the Sharge Disk Pro with a few nice upgrades, including a way to toggle off its obnoxiously loud fan.",
+        "link": "https://petapixel.com/2026/08/10/the-sharge-disk-pro-2-aims-fix-every-pain-point-of-the-original/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Sony and TSMC Are Spending Billions to Make Next-Gen Image Sensors",
+        "summary": "Sony Group and chip giant Taiwan Semiconductor Manufacturing Co. (TSMC) are planning to begin mass production of next-generation image sensors in southwestern Japan as soon as 2029, per Nikkei Asia.",
+        "link": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Fujifilm Says the Quiet Part Out Loud: The Memory Crisis Is Coming for Cameras",
+        "summary": "While PetaPixel already covered the big-picture information from Fujifilm's latest financial results, including that the company's Imaging business is a huge moneymaker, there is another part of the company's results well worth discussing: the impact of increased memory prices on expected operational costs and what Fuj",
+        "link": "https://petapixel.com/2026/08/10/fujifilm-says-the-quiet-part-out-loud-the-memory-crisis-is-coming-for-cameras/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Did Apple Just Spoil an Upcoming Nikon Camera?",
+        "summary": "Apple seemed to leak an unannounced Nikon camera over the weekend on a ProRes support page. It's a very strange way for a camera to be leaked.",
+        "link": "https://petapixel.com/2026/08/10/did-apple-just-spoil-an-upcoming-nikon-camera/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Blackmagic Cinema Camera 6K Gets Phase Detect AF and Object Tracking via Firmware",
+        "summary": "Nearly three years after it launched, Blackmagic has added phase detect autofocus (PDAF) and a set of object detection tracking modes to the Cinema Camera 6K, which significantly ups the value of the video camera.",
+        "link": "https://petapixel.com/2026/08/10/blackmagic-cinema-camera-6k-gets-phase-detect-af-and-object-tracking-via-firmware/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Tamron’s OEM Lens Sales Plummet As Company Considers Sony’s Takeover",
+        "summary": "Tamron's financial results are always interesting thanks to the company's candor in breaking down its own-brand versus OEM lens production and sales data. However, Tamron's latest results are made even more compelling by the fact Sony is actively trying to acquire the lens maker, a very interesting move with huge poten",
+        "link": "https://petapixel.com/2026/08/10/tamrons-oem-lens-sales-plummet-as-company-considers-sonys-takeover/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "How to Film a Simple Music Video, From Start to Finish",
+        "summary": "I've been thinking lately that it had been a while since I filmed a short form project. As in, actually directed the story, actors, and visuals. Right on cue, my buddy and amazing musician, Sam Plecker, reached out and said he wanted to film a music video for his upcoming track.",
+        "link": "https://petapixel.com/2026/08/10/how-to-film-a-simple-music-video-from-start-to-finish/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
+    "software": [
+      {
+        "cat": "software",
+        "source": "darktable releases",
+        "lang": "en",
+        "title": "Darktable nightly build 20260811",
+        "summary": "This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr",
+        "link": "https://github.com/darktable-org/darktable/releases/tag/nightly",
+        "date": "2026-08-11",
+        "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
+    "talk": [
+      {
+        "cat": "talk",
+        "source": "Light Stalking",
+        "lang": "en",
+        "title": "A Color Extravaganza, Emotional Palettes, and Moments Through a Dirty Windshield – The Weekly Community Roundup",
+        "summary": "It's been another fantastic week for the Light Stalking photography community and we even got our new monthly challenge underway, which we will talk about below. We should start off with the photo of the week, which was an absolute cracker from Dianne (@tersha) has been posting a string of very stylized flowers that ar",
+        "link": "https://www.lightstalking.com/aaugust-10-2026-weekly-roundup/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "Pixieset Photo Editor: An Honest Look From a Studio That Lives in Pixieset",
+        "summary": "At Lin & Jirsa, we photograph well over 100 weddings a year. That scale changes how we think about editing. It isn’t just about saving time on a single gallery. It’s about consistency across thousands of images, multiple photographers, and a team that has to deliver the same look every single time. A typical wedding ..",
+        "link": "https://www.slrlounge.com/pixieset-photo-editor-an-honest-look-from-a-studio-that-lives-in-pixieset/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "Best Flash and Light Stands for Photographers (Updated)",
+        "summary": "Choosing the right light stand for your needs can be confusing. Thankfully we've put together a list of the best rated and top selling light stands for a variety of uses and situations to help keep the guess work out of it for you.",
+        "link": "https://www.slrlounge.com/best-flash-stands-for-photographers/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "How This Image Enhancer Rescues High-ISO and Low-Resolution Photos with Natural Details",
+        "summary": "Even with today’s advanced cameras, photographers still run into situations where a great image needs a little extra help. Whether you’re shooting with a Sony A7C II, Fujifilm X-T50, Nikon Z50, Canon EOS R, or a high-resolution Sony A7R body, challenges like high ISO noise, heavy crops, limited resolution, and aggressi",
+        "link": "https://www.slrlounge.com/how-this-image-enhancer-rescues-high-iso-and-low-resolution-photos-with-natural-details/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "Adorama ALCS",
+        "lang": "en",
+        "title": "Shimoda Action X70 HD 70L Backpack – The Deep-Dive Review (Field Tested)",
+        "summary": "After 1½ hours of uphill walking, I don’t know whether I was soaked from the outside or the inside. Was it the rain that began just as I closed the car door, or was it from sweating from carrying the 20kg of photography gear, tent, sleeping bag, food, cooking gear, and other necessary gear I […] The post Shimoda Action",
+        "link": "https://www.adorama.com/alc/shimoda-action-x70-hd-70l-backpack-review/",
+        "date": "2026-08-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "HDR Versus Flash In Real Estate Photography",
+        "summary": "Which is better for real estate photography, HDR or flash? It's probably best to master both!",
+        "link": "https://www.slrlounge.com/hdr-versus-flash-in-real-estate-photography/",
+        "date": "2026-08-09",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "What is Flash Duration and Why Does It Matter?",
+        "summary": "With the recent release of some fairly impressive flashes, there's been a lot of talk about flash durations. I've also noticed a lot of misinformation which, at worst, could be misleading people. Read this to make sure you're not being duped by the marketing hype.",
+        "link": "https://www.slrlounge.com/flash-duration-explained/",
+        "date": "2026-08-08",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "Light Stalking",
+        "lang": "en",
+        "title": "A Guide to Photographing the Geometry Of Modern Architecture",
+        "summary": "Architectural photography is an endlessly interesting discipline. From ancient monuments, through the structures of the Industrial Revolution to the ultra-modern skyscrapers of today, the sheer variety of subject matter is astounding. Many of us, when we think of architectural photography, see high-end commercial image",
+        "link": "https://www.lightstalking.com/photographing-geometry-modern-architecture/",
+        "date": "2026-08-07",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "7 Ideas for Passive Income in Photography",
+        "summary": "The digital age has opened up a plethora of opportunities for photographers to generate income outside of traditional client work. The concept of “passive income” is the topic of hundreds of “financial gurus” on Youtube and a common aspiration for many households. I mean, who doesn’t want to make money without doing an",
+        "link": "https://www.slrlounge.com/passive-income-photography/",
+        "date": "2026-08-07",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "Adorama ALCS",
+        "lang": "en",
+        "title": "The Cork Bros on the Future of Storytelling, One Vertical Frame at a Time",
+        "summary": "Commercial creators Michelangelo Corkrum and Andres McCorkle, known as The Cork Bros, are redefining mobile-first narrative series with their 72-episode vertical drama Mama’s House. Shot over four days on the Fujifilm GFX ETERNA 55, the duo bypassed traditional funding channels to build a compelling, character-driven s",
+        "link": "https://www.adorama.com/alc/the-cork-bros-on-storytelling/",
+        "date": "2026-08-07",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "Light Stalking",
+        "lang": "en",
+        "title": "July 2026 Photo Contest Winners: Urban Geometry",
+        "summary": "It's a great pleasure to announce the winners for the July photography competition “Urban Geometry“ If you're not already aware, then the monthly photography competition here at Light Stalking carries a $100 People Choice Award and a $100 overall winner award. The People's Choice Award is selected by a vote of the comm",
+        "link": "https://www.lightstalking.com/july-2026-photo-contest-winners-urban-geometry/",
+        "date": "2026-08-06",
+        "image": "",
+        "verified": true,
+        "verified_signals": [
+          "award"
+        ]
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "How to Take Wedding Sparkler Photos",
+        "summary": "Although it's the subjects in the photo who bask in the light during sparkler entrances or exits, these pictures truly give photographers a chance to shine.",
+        "link": "https://www.slrlounge.com/how-to-take-sparkler-pictures-basic-wedding-and-engagement-photography-tips/",
+        "date": "2026-08-06",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "Foreground, Middle Ground, and Background in Photography",
+        "summary": "The difference between a good photo and a great photo often comes down to its composition. A composition with multiple layers is often more complex and interesting. The three layers in a photograph, a video, or a painting are 1) the foreground, 2) middle ground, and 3) background. Understanding and visualizing these la",
+        "link": "https://www.slrlounge.com/foreground-middle-ground-and-background-in-photography/",
+        "date": "2026-08-05",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "talk",
+        "source": "Light Stalking",
+        "lang": "en",
+        "title": "The World’s Largest Digital Camera Just Produced an Image Containing More Than Half a Million Galaxies",
+        "summary": "The Vera C. Rubin Observatory in Chile recently released a stunning deep-space image of the cosmos apparently containing over 500,000 galaxies. Not stars, galaxies! The mind-blowing image was shot using an LSST camera, which holds the record as the world's largest digital camera and has a resolution of 3.2 gigapixels o",
+        "link": "https://www.lightstalking.com/the-worlds-largest-digital-camera-just-produced-an-image-containing-more-than-half-a-million-galaxies/",
+        "date": "2026-08-04",
+        "image": "",
+        "verified": true,
+        "verified_signals": [
+          "osmo"
+        ]
+      },
+      {
+        "cat": "talk",
+        "source": "Light Stalking",
+        "lang": "en",
+        "title": "Natural Contrasts, Street Humour, Solitude And More – The Weekly Community Roundup",
+        "summary": "So, another great week in the Light Stalking community that deserves a bit of attention has just happened with our weekly photography challenge dominating activity, a fantastic photo of the week from Patrick as well as several other fantastic contributions from him and others, and a bunch of usual discussions that we c",
+        "link": "https://www.lightstalking.com/natural-contrasts-street-humour-solitude-and-more-the-weekly-community-roundup/",
+        "date": "2026-08-03",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      }
+    ],
+    "place": [
+      {
+        "cat": "place",
+        "source": "Photography Life",
+        "lang": "en",
+        "title": "Photography News: Rumored Sony Lenses, Nikon Z8 Sale",
+        "summary": "Yesterday, while selecting photos for an upcoming article, I came across one that caught my eye with its simple symmetry and, let’s say, an unconventional angle. Judge for yourselves: Instead of the usual front view or side view of a bird, what popped out at me on the monitor was a perfectly sharp (please forgive me) c",
+        "link": "https://photographylife.com/news/photo-news-2026-08-09",
+        "date": "2026-08-09",
+        "image": "https://photographylife.com/wp-content/uploads/2026/08/Norway_Nikon-400mm__LVP9359-650x433.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "place",
+        "source": "Photography Life",
+        "lang": "en",
+        "title": "Viltrox AF 35mm f/1.8 EVO Field Review",
+        "summary": "It has been less than three years since we tested the first version of Viltrox’s 35mm f/1.8 lens here at Photography Life. To be honest, we weren’t particularly impressed by its optical performance at the time. It was not a serious match for Nikon’s equivalent, and was even beaten by some good zoom lenses. Back then, V",
+        "link": "https://photographylife.com/reviews/viltrox-af-35mm-f-1-8-evo",
+        "date": "2026-08-07",
+        "image": "https://photographylife.com/wp-content/uploads/2026/07/Viltrox-35mm-f1.8-LAB_Product-Image-1-650x433.jpg",
+        "verified": true,
+        "verified_signals": [
+          "35mm"
+        ]
+      },
+      {
+        "cat": "place",
+        "source": "Photography Life",
+        "lang": "en",
+        "title": "Sony FE 100-400mm f/5.6-8 Announced",
+        "summary": "Sony just unveiled a new lightweight telephoto zoom: the FE 100-400mm f/5.6-8 OSS. It’s portable and well-priced, coming in at just 654 grams and $850. Sony clearly sees it as a budget alternative to their higher-end telephotos, and that’s reflected in the lack of “G” designation. Here’s what we know so far.",
+        "link": "https://photographylife.com/news/sony-fe-100-400mm-f-5-6-8-announced",
+        "date": "2026-08-05",
+        "image": "https://photographylife.com/wp-content/uploads/2026/08/Sony-100-400mm-f5.6-8-Real-World-Product-Photo-1-650x430.jpg",
+        "verified": true,
+        "verified_signals": [
+          "fe 10"
+        ]
+      },
+      {
+        "cat": "place",
+        "source": "Photography Life",
+        "lang": "en",
+        "title": "The Angel of the North: Photographing the Arctic Tern",
+        "summary": "The first time I saw an Arctic tern was during my first trip up north, to the Shetland Islands. I didn’t manage to bring home anything significant—just a couple of documentary-style reportage shots. Years later, I tried again in Iceland, and a spark was ignited. But it was only during my expeditions to Svalbard, as I g",
+        "link": "https://photographylife.com/photographing-arctic-tern",
+        "date": "2026-08-04",
+        "image": "https://photographylife.com/wp-content/uploads/2026/08/Arctic-Tern-sunset-over-the-sea-650x433.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "place",
+        "source": "Photography Life",
+        "lang": "en",
+        "title": "Photography News: Nikon’s Patent Woes, Sony Offers to Buy Tamron",
+        "summary": "I constantly hear— and, in fact, witness firsthand—that we live in a society divided into invisible, impenetrable bubbles. Their walls are constantly strengthened by the ever-evolving algorithms of social media networks, into which we are lured and trapped like moths to a lightbulb. Sometimes, there is essentially noth",
+        "link": "https://photographylife.com/news/photo-news-2026-08-02",
+        "date": "2026-08-03",
+        "image": "https://photographylife.com/wp-content/uploads/2026/07/Prague_Bubbles_LVP8012-650x433.jpg",
+        "verified": false,
+        "verified_signals": []
+      }
+    ]
+  }
+}

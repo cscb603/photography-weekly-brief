@@ -1,299 +1,281 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-摄影周报采集器
-- 读取 feeds.json 中的全球摄影 RSS/Atom 源
-- 拉取 -> 过滤近 N 天 -> 去重 -> 按板块生成
-  * briefs/YYYY-MM-DD.md   （给策展/人工阅读）
-  * docs/index.html        （GitHub Pages 公开展示页）
-- 图片只收录 URL，不下载（省出站、省存储）
-- 每个源独立容错，单个失败不影响整体
+摄影周报采集器 v2
+- 拉取全球 + 国内摄影 RSS/Atom 源
+- 过滤近 WINDOW_DAYS 天
+- 跨源关键词聚类 -> 标记「多方印证」(交叉比对)
+- 语言标记(zh/en)，外文进入 latest.json 供本地翻译加工
+- 输出: briefs/YYYY-MM-DD.md  +  docs/index.html (GitHub Pages)  +  briefs/latest.json
+不依赖任何 API Key；图片只存 URL 不下载（省出站流量）。
 """
-import json
-import os
-import re
-import sys
-import calendar
-from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
+import json, os, sys, io, re, html, ssl, urllib.request, datetime, traceback
 
-import feedparser
+WINDOW_DAYS = int(os.environ.get("WINDOW_DAYS", 9))
+SKIP_BEST_EFFORT = os.environ.get("SKIP_BEST_EFFORT") == "1"
+ROOT = os.path.dirname(os.path.abspath(__file__))
+BRIEFS = os.path.join(ROOT, "briefs")
+DOCS = os.path.join(ROOT, "docs")
+os.makedirs(BRIEFS, exist_ok=True)
+os.makedirs(DOCS, exist_ok=True)
 
-REPO_ROOT = os.path.dirname(os.path.abspath(__file__))
-FEEDS_PATH = os.path.join(REPO_ROOT, "feeds.json")
-BRIEFS_DIR = os.path.join(REPO_ROOT, "briefs")
-DOCS_DIR = os.path.join(REPO_ROOT, "docs")
+import feedparser  # noqa: E402
 
-CATEGORY_TITLES = {
-    "gear_industry": "\U0001F4F0 本周新鲜事（器材 / 行业）",
-    "global_eye": "\U0001F30D 全球开眼（摄影师 / 展览 / 经典）",
-    "reading_depth": "\U0001F4DA 共读 / 深度",
-    "contests": "\U0001F3C6 赛事 / 征稿",
-    "interviews": "\U0001F399 访谈 / 幕后",
-}
-CATEGORY_ORDER = ["gear_industry", "global_eye", "reading_depth", "contests", "interviews"]
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+UA = "Mozilla/5.0 (compatible; PhotoBriefBot/1.0)"
 
-UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-      "Chrome/120.0.0.0 Safari/537.36")
+# ---- 交叉比对信号词：仅用「具体型号/赛事/软件名」，避免泛品牌词噪声 ----
+SIGNAL_PATTERNS = [
+    # 相机具体型号
+    r"A7R\s?VI", r"A7\s?V", r"A1\s?II", r"Z9", r"Z8", r"Z5\b", r"Z6\s?III", r"X-T5", r"X100V?I?",
+    r"X-H2", r"X\s?Pro\d?", r"EOS\s?R\d", r"R5\s?II", r"R1\b", r"OM-1", r"M11", r"Q3", r"SL3",
+    r"S5\s?II", r"GH6", r"GFX\d+", r"iPhone\s?1[5-9]", r"Pocket\s?3",
+    # 镜头/具体产品
+    r"G\s?Master", r"100-400", r"24-70", r"25-200mm", r"35mm", r"50mm", r"85mm", r"14mm",
+    r"RF\s?\d{2}", r"FE\s?\d{2}", r"X300\s?Ultra", r"Sirui", r"Tamron\s?\d",
+    # 运动/影像设备
+    r"Insta360", r"GoPro", r"Hero\s?\d", r"DJI", r"Mavic", r"Osmo",
+    # 软件（具体名）
+    r"darktable", r"GIMP", r"Lightroom", r"Capture\s?One", r"Luminar", r"Photoshop",
+    r"RawTherapee", r"Krita", r"DxO", r"Affinity", r"PhotoPrism", r"ExifTool", r"Skylum", r"Topaz",
+    # 赛事/活动
+    r"Photokina", r"CP\+", r"World\s?Press\s?Photo", r"FIAP", r"Prix", r"Awards?",
+    r"Olympic", r"Photo\s?Award",
+]
+SIGNAL_RE = re.compile("|".join(SIGNAL_PATTERNS), re.IGNORECASE)
+CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 
-TAG_RE = re.compile(r"<[^>]+>")
-WS_RE = re.compile(r"\s+")
-CTRL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+CAT_TITLES = {}
+with open(os.path.join(ROOT, "feeds.json"), encoding="utf-8") as f:
+    CFG = json.load(f)
+CAT_TITLES = CFG.get("categories", {})
 
 
-def strip_tags(s):
-    if not s:
+def stage(msg):
+    with open(os.path.join(ROOT, "_stage.log"), "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
+        f.flush()
+
+
+def extract_signals(text):
+    return {m.group(0).strip().lower() for m in SIGNAL_RE.finditer(text or "") if m.group(0).strip()}
+
+
+def detect_lang(text):
+    return "zh" if CJK_RE.search(text or "") else "en"
+
+
+def clean(text):
+    if not text:
         return ""
-    s = TAG_RE.sub(" ", s)
-    s = s.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
-    s = s.replace("&quot;", '"').replace("&#39;", "'").replace("&nbsp;", " ")
-    s = CTRL_RE.sub("", s)
-    return WS_RE.sub(" ", s).strip()
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(text)
+    text = re.sub(r"\[\s*Read\s*More\s*\]", "", text, flags=re.I)
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 
-def parse_date(entry):
-    for key in ("published_parsed", "updated_parsed", "created_parsed"):
-        val = entry.get(key)
-        if val:
-            try:
-                return datetime.fromtimestamp(calendar.timegm(val), tz=timezone.utc)
-            except Exception:
-                pass
-    for key in ("published", "updated", "created"):
-        s = entry.get(key)
-        if s:
-            try:
-                dt = parsedate_to_datetime(s)
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt
-            except Exception:
-                pass
-    return None
-
-
-def fetch_feed(src):
-    name = src.get("name", src.get("url"))
-    try:
-        d = feedparser.parse(src["url"], agent=UA)
-        if d.bozo and not d.entries:
-            import requests
-            r = requests.get(src["url"], headers={"User-Agent": UA}, timeout=25)
-            r.raise_for_status()
-            d = feedparser.parse(r.content)
-        return d
-    except Exception as e:
-        print(f"[WARN] feed failed {name}: {e}", file=sys.stderr)
-        return None
+def fetch_feed(feed):
+    req = urllib.request.Request(feed["url"], headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=25, context=ctx) as r:
+        data = r.read()
+    return feedparser.parse(data)
 
 
 def main():
-    with open(FEEDS_PATH, encoding="utf-8") as f:
-        config = json.load(f)
-    window = int(config.get("window_days", 7))
-    feeds = config.get("feeds", [])
+    now = datetime.datetime.now(datetime.timezone.utc)
+    cutoff = now - datetime.timedelta(days=WINDOW_DAYS)
+    items = []
+    src_ok, src_fail = [], []
+    stage(f"[stage] start window={WINDOW_DAYS} feeds={len(CFG['feeds'])}")
 
-    now_utc = datetime.now(timezone.utc)
-    # 北京日期，用于文件名与标题（用户在中国时区）
-    now_cst = now_utc + timedelta(hours=8)
-    date_str = now_cst.strftime("%Y-%m-%d")
-    cutoff = now_utc - timedelta(days=window)
-
-    collected = {cat: [] for cat in CATEGORY_ORDER}
-    seen = set()
-    per_feed_count = {}
-
-    for src in feeds:
-        cat = src.get("category", "gear_industry")
-        if cat not in collected:
-            cat = "gear_industry"
-        d = fetch_feed(src)
-        if not d:
+    for feed in CFG["feeds"]:
+        if feed.get("best_effort") and SKIP_BEST_EFFORT:
             continue
-        cap = int(src.get("max", 10))
-        n = 0
-        for e in d.entries:
-            link = (e.get("link") or "").strip()
-            if not link:
+        stage(f"[fetch] -> {feed['name']} ({feed['url'][:60]})")
+        try:
+            parsed = fetch_feed(feed)
+            entries = parsed.entries or []
+            src_ok.append(feed["name"])
+            stage(f"[ok] {feed['name']} entries={len(entries)}")
+        except Exception as e:
+            src_fail.append((feed["name"], str(e)[:50]))
+            stage(f"[fail] {feed['name']}: {str(e)[:50]}")
+            continue
+        for e in entries:
+            title = clean(e.get("title", ""))
+            link = e.get("link", "")
+            if not title or not link:
                 continue
-            if link in seen:
-                continue
-            date = parse_date(e)
-
-            # 时间窗过滤：有日期且早于 cutoff 则跳过；无日期的保留（兜底）
-            if date and date < cutoff:
-                continue
-
-            title = strip_tags(e.get("title", "(无标题)")).strip() or "(无标题)"
-            summary = ""
-            for k in ("summary", "description", "content"):
-                v = e.get(k)
-                if isinstance(v, list):
-                    v = " ".join(x.get("value", "") for x in v if isinstance(x, dict))
-                if v:
-                    summary = strip_tags(v)
-                    break
-            summary = summary[:300]
-            summary = re.sub(r"\[\s*Read More\s*\]", "", summary, flags=re.I)
-            summary = re.sub(r"\s+", " ", summary).strip().rstrip(".…")
-
+            summary = clean(e.get("summary", e.get("description", "")))[:320]
+            dp = e.get("published_parsed") or e.get("updated_parsed")
+            if dp:
+                pub = datetime.datetime(*dp[:6], tzinfo=datetime.timezone.utc)
+                if pub < cutoff:
+                    continue
+                date_str = pub.strftime("%Y-%m-%d")
+            else:
+                date_str = now.strftime("%Y-%m-%d")
             img = ""
-            for k in ("media_content", "media_thumbnail"):
-                m = e.get(k)
-                if isinstance(m, list) and m and isinstance(m[0], dict) and m[0].get("url"):
-                    img = m[0]["url"]
-                    break
-            if not img:
-                m = e.get("enclosure")
-                if isinstance(m, list):
-                    for x in m:
-                        if isinstance(x, dict) and x.get("type", "").startswith("image"):
-                            img = x.get("url", "")
-                            break
-
-            collected[cat].append({
+            if e.get("media_thumbnail"):
+                img = e["media_thumbnail"][0].get("url", "")
+            elif e.get("media_content"):
+                img = e["media_content"][0].get("url", "")
+            items.append({
+                "cat": feed["cat"],
+                "source": feed["name"],
+                "lang": detect_lang(title + " " + summary),
                 "title": title,
-                "link": link,
-                "source": src.get("name", ""),
-                "lang": src.get("lang", "en"),
-                "date": date.strftime("%Y-%m-%d") if date else "",
                 "summary": summary,
-                "img": img,
+                "link": link,
+                "date": date_str,
+                "image": img,
+                "signals": extract_signals(title + " " + summary),
             })
-            seen.add(link)
-            n += 1
-            if n >= cap:
-                break
-        per_feed_count[src.get("name", src["url"])] = n
 
-    for cat in collected:
-        collected[cat].sort(key=lambda x: x["date"] or "0000-00-00", reverse=True)
-
-    os.makedirs(BRIEFS_DIR, exist_ok=True)
-    os.makedirs(DOCS_DIR, exist_ok=True)
-
-    md = render_markdown(collected, date_str, now_utc, window)
-    md_path = os.path.join(BRIEFS_DIR, f"{date_str}.md")
-    with open(md_path, "w", encoding="utf-8") as f:
-        f.write(md)
-
-    html = render_html(collected, date_str, now_utc, window)
-    html_path = os.path.join(DOCS_DIR, "index.html")
-    with open(html_path, "w", encoding="utf-8") as f:
-        f.write(html)
-
-    # 同时写一份 latest.json 供程序读取
-    with open(os.path.join(DOCS_DIR, "latest.json"), "w", encoding="utf-8") as f:
-        json.dump({
-            "date": date_str,
-            "generated_utc": now_utc.strftime("%Y-%m-%d %H:%M UTC"),
-            "sections": {c: collected[c] for c in CATEGORY_ORDER},
-        }, f, ensure_ascii=False, indent=2)
-
-    total = sum(len(v) for v in collected.values())
-    print(f"[OK] brief {date_str}: {total} items across {len(feeds)} feeds")
-    for src, c in per_feed_count.items():
-        print(f"     - {src}: {c}")
-
-
-def render_markdown(collected, date_str, now_utc, window):
-    lines = []
-    lines.append(f"# 摄影周报 · {date_str}")
-    lines.append("")
-    lines.append(f"> 自动采集自全球摄影媒体，汇总近 **{window} 天**动态。链接均直达原文，图片仅收录地址不下载。")
-    lines.append(f"> 生成时间（UTC）：{now_utc.strftime('%Y-%m-%d %H:%M')}")
-    lines.append("")
-    for cat in CATEGORY_ORDER:
-        items = collected[cat]
-        if not items:
+    # 去重（同链接）
+    seen, uniq = set(), []
+    for it in items:
+        if it["link"] in seen:
             continue
-        lines.append(f"## {CATEGORY_TITLES[cat]}")
-        lines.append("")
-        for it in items:
-            meta = it["source"]
-            if it["date"]:
-                meta += f" · {it['date']}"
-            if it["lang"] == "zh":
-                meta += " · 中文"
-            lines.append(f"- **[{it['title']}]({it['link']})** — {meta}")
+        seen.add(it["link"])
+        uniq.append(it)
+    items = uniq
+
+    # ---- 交叉比对：同一信号被 >=2 个不同来源命中 -> 多方印证 ----
+    sig_map = {}
+    for idx, it in enumerate(items):
+        for s in it["signals"]:
+            sig_map.setdefault(s, []).append(idx)
+    verified_clusters = []
+    for sig, idxs in sig_map.items():
+        srcs = {items[i]["source"] for i in idxs}
+        if len(srcs) >= 2:
+            verified_clusters.append({"signal": sig, "sources": sorted(srcs),
+                                      "titles": [items[i]["title"] for i in idxs][:4]})
+            for i in idxs:
+                items[i].setdefault("verified_by", set()).add(sig)
+    for it in items:
+        it["verified"] = bool(it.get("verified_by"))
+        it["verified_signals"] = sorted(it.get("verified_by", set()))
+        it.pop("verified_by", None)
+        it.pop("signals", None)
+
+    # 按分类聚合，每类取最近 15 条
+    by_cat = {}
+    for it in items:
+        by_cat.setdefault(it["cat"], []).append(it)
+    for c in by_cat:
+        by_cat[c].sort(key=lambda x: x["date"], reverse=True)
+        by_cat[c] = by_cat[c][:15]
+
+    today = now.strftime("%Y-%m-%d")
+    stage(f"[stage] items={len(items)} verified={len(verified_clusters)} writing files...")
+    out_md = []
+    out_md.append(f"# 影像家 · 全球摄影周报 （{today}）\n")
+    out_md.append(f"> 采集窗口：近 {WINDOW_DAYS} 天 ｜ 成功源 {len(src_ok)} 个 ｜ 条目 {len(items)} 条 ｜ "
+                  f"多方印证 {len(verified_clusters)} 组\n")
+    if verified_clusters:
+        out_md.append("\n## 🔗 本周多方印证（国内外交叉比对）\n")
+        for cl in sorted(verified_clusters, key=lambda x: -len(x["sources"])):
+            out_md.append(f"- **{cl['signal'].upper()}**：{ '、'.join(cl['sources']) }")
+    out_md.append("")
+
+    for cat, title in CAT_TITLES.items():
+        lst = by_cat.get(cat)
+        if not lst:
+            continue
+        out_md.append(f"## {title}\n")
+        for it in lst:
+            flag = "🔗多方印证 " if it["verified"] else ""
+            lang_tag = "【外文】" if it["lang"] == "en" else ""
+            out_md.append(f"### {flag}{lang_tag}{it['title']}")
+            out_md.append(f"- 来源：{it['source']} ｜ 日期：{it['date']} ｜ 语言：{it['lang']}")
             if it["summary"]:
-                lines.append(f"  {it['summary']}")
-            lines.append("")
-    return "\n".join(lines)
+                out_md.append(f"- 摘要：{it['summary']}")
+            out_md.append(f"- 链接：{it['link']}")
+            if it["image"]:
+                out_md.append(f"- 图：{it['image']}")
+            out_md.append("")
+
+    md_path = os.path.join(BRIEFS, f"{today}.md")
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(out_md))
+    # 也写 latest.md 方便 Pages 直接读
+    with open(os.path.join(BRIEFS, "latest.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(out_md))
+
+    # ---- latest.json：供本地自动化翻译/加工 ----
+    payload = {
+        "generated_at": now.isoformat(),
+        "window_days": WINDOW_DAYS,
+        "source_counts": {"ok": src_ok, "failed": [s[0] for s in src_fail]},
+        "total_items": len(items),
+        "cross_verified": verified_clusters,
+        "categories": by_cat,
+    }
+    with open(os.path.join(BRIEFS, "latest.json"), "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    # ---- docs/index.html：GitHub Pages 展示页 ----
+    html_out = render_html(today, len(items), src_ok, verified_clusters, by_cat)
+    with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
+        f.write(html_out)
+
+    print(f"[OK] items={len(items)} sources_ok={len(src_ok)} verified={len(verified_clusters)}")
+    print(f"[OK] wrote {md_path}")
+    print(f"[FAIL] sources: {src_fail}")
 
 
-def render_html(collected, date_str, now_utc, window):
-    sections = []
-    total = 0
-    for cat in CATEGORY_ORDER:
-        items = collected[cat]
-        total += len(items)
-        if not items:
+def render_html(today, total, src_ok, clusters, by_cat):
+    rows = ""
+    if clusters:
+        rows += "<h2>🔗 本周多方印证（国内外交叉比对）</h2><ul>"
+        for cl in sorted(clusters, key=lambda x: -len(x["sources"])):
+            rows += f"<li><b>{html.escape(cl['signal'].upper())}</b>：{html.escape('、'.join(cl['sources']))}</li>"
+        rows += "</ul>"
+    for cat, title in CAT_TITLES.items():
+        lst = by_cat.get(cat)
+        if not lst:
             continue
-        cards = []
-        for it in items:
-            img_html = (f'<div class="thumb"><a href="{it["link"]}" target="_blank" '
-                        f'rel="noopener"><img loading="lazy" src="{it["img"]}" alt=""></a></div>'
-                        ) if it["img"] else ""
-            meta = it["source"]
-            if it["date"]:
-                meta += f" · {it['date']}"
-            cards.append(f"""
-      <article class="card">
-        {img_html}
-        <div class="body">
-          <h3><a href="{it['link']}" target="_blank" rel="noopener">{it['title']}</a></h3>
-          <div class="meta">{meta}</div>
-          <p>{it['summary']}</p>
-        </div>
-      </article>""")
-        sections.append(f"""
-    <section>
-      <h2>{CATEGORY_TITLES[cat]}</h2>
-      <div class="grid">{''.join(cards)}</div>
-    </section>""")
-    body = "".join(sections) if sections else '<p class="empty">本周暂无近 %d 天内容。</p>' % window
-    return f"""<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>摄影周报 · {date_str}</title>
+        rows += f"<h2>{html.escape(title)}</h2><div class='grid'>"
+        for it in lst:
+            badge = "<span class='v'>🔗多方印证</span>" if it["verified"] else ""
+            lang = "<span class='en'>外文</span>" if it["lang"] == "en" else ""
+            img = f"<img src='{html.escape(it['image'])}'/>" if it["image"] else ""
+            rows += (f"<div class='card'>{img}<div class='t'>{badge}{lang}{html.escape(it['title'])}</div>"
+                     f"<div class='m'>{html.escape(it['source'])} · {html.escape(it['date'])}</div>"
+                     f"<div class='s'>{html.escape(it['summary'])}</div>"
+                     f"<a href='{html.escape(it['link'])}' target='_blank'>阅读原文 ↗</a></div>")
+        rows += "</div>"
+    return f"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>影像家 · 全球摄影周报 {today}</title>
 <style>
-  :root {{ --bg:#0f1115; --card:#171a21; --fg:#e8eaed; --mut:#9aa0a6; --acc:#f5a623; }}
-  * {{ box-sizing:border-box; }}
-  body {{ margin:0; background:var(--bg); color:var(--fg);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
-    line-height:1.6; }}
-  header {{ padding:28px 20px 8px; max-width:980px; margin:0 auto; }}
-  header h1 {{ margin:0 0 6px; font-size:26px; }}
-  header .sub {{ color:var(--mut); font-size:13px; }}
-  main {{ max-width:980px; margin:0 auto; padding:12px 20px 60px; }}
-  section {{ margin-top:30px; }}
-  h2 {{ font-size:19px; border-left:4px solid var(--acc); padding-left:10px; margin:0 0 14px; }}
-  .grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:16px; }}
-  .card {{ background:var(--card); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }}
-  .thumb img {{ width:100%; height:160px; object-fit:cover; display:block; background:#222; }}
-  .body {{ padding:12px 14px 16px; }}
-  .body h3 {{ margin:0 0 6px; font-size:15px; line-height:1.4; }}
-  .body h3 a {{ color:var(--fg); text-decoration:none; }}
-  .body h3 a:hover {{ color:var(--acc); }}
-  .meta {{ color:var(--mut); font-size:12px; margin-bottom:6px; }}
-  .body p {{ margin:0; font-size:13px; color:#cfd3d8; }}
-  .empty {{ color:var(--mut); }}
-  footer {{ max-width:980px; margin:0 auto; padding:20px; color:var(--mut); font-size:12px; }}
-</style>
-</head>
-<body>
-<header>
-  <h1>摄影周报 · {date_str}</h1>
-  <div class="sub">自动采集自全球摄影媒体 · 近 {window} 天 · 共 {total} 条 · 生成于 {now_utc.strftime('%Y-%m-%d %H:%M UTC')}</div>
-</header>
-<main>{body}</main>
-<footer>由 GitHub Actions 每周自动生成 · 图片版权归原作者所有，仅作索引。</footer>
-</body>
-</html>"""
+body{{font-family:-apple-system,Segoe UI,Roboto,'PingFang SC','Microsoft YaHei',sans-serif;max-width:1080px;margin:0 auto;padding:24px;background:#0f1115;color:#e8eaed}}
+h1{{font-size:26px}}h2{{font-size:20px;margin-top:32px;border-left:4px solid #4f8cff;padding-left:10px}}
+.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-top:14px}}
+.card{{background:#1a1d23;border:1px solid #2a2e36;border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:6px}}
+.card img{{width:100%;height:160px;object-fit:cover;border-radius:8px;background:#000}}
+.t{{font-weight:600;font-size:15px}} .m{{color:#9aa0a6;font-size:12px}} .s{{color:#c4c7cc;font-size:13px;line-height:1.5}}
+a{{color:#4f8cff;text-decoration:none;font-size:13px}} .v{{color:#ffb74d;font-size:12px;margin-right:6px}} .en{{color:#7ee787;font-size:12px;margin-right:6px}}
+.meta{{color:#9aa0a6;font-size:13px}}
+</style></head><body>
+<h1>📸 影像家 · 全球摄影周报</h1>
+<p class="meta">更新日期 {today} ｜ 共 {total} 条 ｜ 成功源 {len(src_ok)} 个 ｜ 多方印证 {len(clusters)} 组 ｜ 数据来自公开 RSS，自动采集</p>
+{rows}
+<footer class="meta" style="margin-top:40px;border-top:1px solid #2a2e36;padding-top:14px">
+由 GitHub Actions 每周自动采集全球摄影资讯；外文条目将在社群分享前翻译为中文。影像家摄影俱乐部 · x-tap.cloud</footer>
+</body></html>"""
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:
+        with open(os.path.join(ROOT, "_run_error.log"), "w", encoding="utf-8") as _f:
+            _f.write(traceback.format_exc())
+        raise

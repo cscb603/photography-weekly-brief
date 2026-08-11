@@ -1,82 +1,39 @@
 {
-  "window_days": 7,
+  "_comment": "全球+国内摄影资讯源。lang=源语言(zh/en)，best_effort=true 表示个别网络环境下可能超时，抓取失败自动跳过。GitHub Actions 机房网络与本地不同，best_effort 源在云端常能成功。",
+  "categories": {
+    "gear": "📷 器材消息",
+    "software": "🧰 软件更新",
+    "people": "🎞 摄影师 · 好站 · 访谈",
+    "talk": "💬 图片 · 评论 · 分享 · 访谈",
+    "place": "🗺 好去处 · 灵感"
+  },
   "feeds": [
-    {
-      "name": "PetaPixel",
-      "url": "https://petapixel.com/feed/",
-      "category": "gear_industry",
-      "lang": "en",
-      "max": 10
-    },
-    {
-      "name": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/rss",
-      "category": "gear_industry",
-      "lang": "en",
-      "max": 8
-    },
-    {
-      "name": "The Phoblographer",
-      "url": "https://www.thephoblographer.com/feed/",
-      "category": "gear_industry",
-      "lang": "en",
-      "max": 8
-    },
-    {
-      "name": "SLR Lounge",
-      "url": "https://www.slrlounge.com/feed/",
-      "category": "gear_industry",
-      "lang": "en",
-      "max": 6
-    },
-    {
-      "name": "Digital Photography School",
-      "url": "https://digital-photography-school.com/feed/",
-      "category": "gear_industry",
-      "lang": "en",
-      "max": 6
-    },
-    {
-      "name": "Photography Life",
-      "url": "https://photographylife.com/feed",
-      "category": "reading_depth",
-      "lang": "en",
-      "max": 6
-    },
-    {
-      "name": "Magnum Photos",
-      "url": "https://www.magnumphotos.com/feed/",
-      "category": "global_eye",
-      "lang": "en",
-      "max": 6
-    },
-    {
-      "name": "The Eye of Photography",
-      "url": "https://www.theeyeofphotography.com/feed/",
-      "category": "global_eye",
-      "lang": "en",
-      "max": 8
-    },
-    {
-      "name": "British Journal of Photography",
-      "url": "https://www.bjp-online.com/feed/",
-      "category": "global_eye",
-      "lang": "en",
-      "max": 6
-    },
-    {
-      "name": "LensCulture",
-      "url": "https://www.lensculture.com/articles.atom",
-      "category": "global_eye",
-      "lang": "en",
-      "max": 8
-    },
-    {
-      "name": "Fstoppers",
-      "url": "https://fstoppers.com/rss.xml",
-      "category": "interviews",
-      "lang": "en",
-      "max": 8
-    }
+    {"cat": "gear", "name": "PetaPixel", "lang": "en", "url": "https://petapixel.com/feed/"},
+    {"cat": "gear", "name": "Fstoppers", "lang": "en", "url": "https://fstoppers.com/rss"},
+    {"cat": "gear", "name": "Digital Camera World", "lang": "en", "url": "https://www.digitalcameraworld.com/rss"},
+    {"cat": "gear", "name": "Amateur Photographer", "lang": "en", "url": "https://www.amateurphotographer.co.uk/feed/"},
+    {"cat": "gear", "name": "The Phoblographer", "lang": "en", "url": "https://www.thephoblographer.com/feed/"},
+    {"cat": "gear", "name": "色影无忌", "lang": "zh", "url": "https://www.xitek.com/rss/"},
+    {"cat": "gear", "name": "摄影世界", "lang": "zh", "url": "https://www.photoworld.com.cn/rss/"},
+
+    {"cat": "software", "name": "darktable releases", "lang": "en", "url": "https://github.com/darktable-org/darktable/releases.atom"},
+    {"cat": "software", "name": "RawTherapee releases", "lang": "en", "url": "https://github.com/RawTherapee/RawTherapee/releases.atom"},
+    {"cat": "software", "name": "GIMP releases", "lang": "en", "url": "https://github.com/GNOME/gimp/releases.atom"},
+    {"cat": "software", "name": "Krita releases", "lang": "en", "url": "https://github.com/KDE/krita/releases.atom"},
+    {"cat": "software", "name": "PhotoPrism releases", "lang": "en", "url": "https://github.com/photoprism/photoprism/releases.atom"},
+    {"cat": "software", "name": "ExifTool releases", "lang": "en", "url": "https://github.com/exiftool/exiftool/releases.atom"},
+
+    {"cat": "people", "name": "Magnum Photos", "lang": "en", "url": "https://www.magnumphotos.com/feed/"},
+    {"cat": "people", "name": "The Guardian · Photography", "lang": "en", "best_effort": true, "url": "https://www.theguardian.com/artanddesign/photography/rss"},
+    {"cat": "people", "name": "LensCulture", "lang": "en", "best_effort": true, "url": "https://www.lensculture.com/feed"},
+    {"cat": "people", "name": "The Eye of Photography", "lang": "en", "best_effort": true, "url": "https://www.theeyeofphotography.com/rss/"},
+
+    {"cat": "talk", "name": "Light Stalking", "lang": "en", "url": "https://lightstalking.com/feed/"},
+    {"cat": "talk", "name": "SLR Lounge", "lang": "en", "url": "https://www.slrlounge.com/feed/"},
+    {"cat": "talk", "name": "Adorama ALCS", "lang": "en", "url": "https://www.adorama.com/alc/feed/"},
+    {"cat": "talk", "name": "Feature Shoot", "lang": "en", "best_effort": true, "url": "https://www.featureshoot.com/feed/"},
+
+    {"cat": "place", "name": "Photography Life", "lang": "en", "url": "https://photographylife.com/feed"},
+    {"cat": "place", "name": "National Geographic · Photography", "lang": "en", "best_effort": true, "url": "https://www.nationalgeographic.com/photography/feed/"}
   ]
 }
