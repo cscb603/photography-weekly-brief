@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:05:32.464432+00:00",
+  "generated_at": "2026-09-14T06:15:56.451588+00:00",
   "window_days": 9,
   "source_counts": {
     "ok": [
@@ -32,80 +32,111 @@
       "World Press Photo"
     ]
   },
-  "total_items": 197,
+  "total_items": 203,
   "cross_verified": [
     {
-      "signal": "gopro",
+      "signal": "14mm",
+      "sources": [
+        "Amateur Photographer",
+        "摄影世界"
+      ],
+      "titles": [
+        "索尼正式发布首款全画幅鱼眼变焦 G 镜头 FE 8-14mm F3.5 Fisheye G",
+        "Sony’s new 8-14mm fisheye lens is the result of “many, many requests” – I’ve already used it and loved it!",
+        "Sony FE 8-14mm F3.5 G Fisheye zoom lens review: It’s expensive and niche, but I really want one"
+      ]
+    },
+    {
+      "signal": "50mm",
+      "sources": [
+        "Fstoppers",
+        "PetaPixel"
+      ],
+      "titles": [
+        "The Best Deals on Portrait Lenses for Full-Frame Mirrorless Cameras",
+        "The Cheapest 50mm f/1.8 for Nikon Z, Tested in the Real World",
+        "Sigma's 85mm f/1.2 Undercuts Sony's G Master by a Wide Margin"
+      ]
+    },
+    {
+      "signal": "85mm",
+      "sources": [
+        "Amateur Photographer",
+        "Fstoppers",
+        "PetaPixel",
+        "The Phoblographer"
+      ],
+      "titles": [
+        "The Best Deals on Portrait Lenses for Full-Frame Mirrorless Cameras",
+        "Sigma's 85mm f/1.2 Undercuts Sony's G Master by a Wide Margin",
+        "Sigma's 85mm f/1.2: Beautiful Bokeh, One Real Weakness",
+        "Sigma 85mm F1.2 DG Art review – Sony portrait photographers NEED this lens"
+      ]
+    },
+    {
+      "signal": "award",
       "sources": [
         "Amateur Photographer",
         "Digital Camera World",
         "PetaPixel"
       ],
       "titles": [
-        "GoPro’s Founder Promises It Isn’t Done Making Consumer Cameras",
-        "These are the best lenses for the GoPro Mission 1 Pro ILS –because GoPro’s mirrorless camera isn't compatible with every Micro Four Thirds lens…",
-        "\"Making amazing cameras for all of you is our core DNA… and that will never change!\" says GoPro CEO, as merger brings diversification to the American brand",
-        "GoPro merges with obscure AI data-centre supplier to save it from collapse – but what next for the troubled action-camera maker?"
+        "40 Award-Winning Photos From Ocean Photographer of the Year 2026",
+        "\"For three years, I had tried many times to get a decent photo of this species, but I hadn't yet succeeded. What you see before you is a dream fulfilled\" –Young wildlife photographer scoops top youth prize in major bird photography competition",
+        "\"I spotted a female Common Merganser with a flatfish take to the air to protect her catch from other mergansers. I was thrilled to snap this frame, but I worried it wouldn’t be tack sharp. It was!\" says award-winning photographer",
+        "Photo of tiny seahorses gathered around their 'father' after being released into the world wins prestigious award. \"We spent countless hours searching in difficult conditions, with no guarantee of finding a single seahorse,\" says photographer"
       ]
     },
     {
       "signal": "35mm",
       "sources": [
-        "Amateur Photographer",
-        "Fstoppers"
+        "Digital Camera World",
+        "Fstoppers",
+        "The Phoblographer"
       ],
       "titles": [
-        "10 Technologies Photographers Inherited From the Military",
-        "How Long Exposures Erase People: The Math of Making Crowds Vanish",
-        "I took the Kodak EC35 on a summer trip – here’s why I do (and don’t) think it’s a brilliant 35mm travel camera"
+        "Why 28mm Beats 35mm for Honest Street Photography",
+        "Inside the Mexican Suitcase: The Spanish Civil War Negatives Lost for 68 Years",
+        "The Leica 35mm Summilux has become the one lens I never want to take off my Leica M",
+        "“That belongs in a museum!” Photographer tries out Indiana Jones’ real-world compact film camera"
       ]
     },
     {
-      "signal": "photoshop",
+      "signal": "iphone 18",
       "sources": [
+        "Amateur Photographer",
         "Digital Camera World",
         "Fstoppers"
       ],
       "titles": [
-        "Delete Someone From a Group Photo Without Ever Opening Photoshop",
-        "20 Photoshop and Camera Raw Updates You Probably Missed",
-        "Photoshop Just Replaced Brightness and Contrast With Something Better",
-        "I got to try Camera Intelligence's Caira, the camera to replace all cameras. Is this Nano Banana-filled AI mirrorless camera the brave new world that'll destroy editing as we know it?"
+        "Apple Gives Photographers More Control With the iPhone 18 Pro",
+        "The iPhone 18 Pro has a variable aperture camera lens - why don't all phones?",
+        "Best iPhone 18 Pro Max case in 2026: keep your Apple iPhone 18 Pro Max safe",
+        "I’m a smartphone expert and this is the iPhone I’d buy – it might be the perfect camera phone for pro photographers"
       ]
     },
     {
-      "signal": "x100vi",
+      "signal": "awards",
       "sources": [
         "Amateur Photographer",
         "Digital Camera World"
       ],
       "titles": [
-        "When is Nikon going to announce a retro-styled fixed lens compact camera that will act as a Fuji X100VI killer? I believe it’s missing a BIG trick",
-        "A new OM System camera’s being teased – I believe if it did make a true Olympus Trip 35 in digital form, it could be a Fujifilm X100VI killer"
+        "Hunt for the greatest sports imagery begins: World Sports Photography Awards 2027 is officially open",
+        "This camera manufacturer’s DSLR market share has increased by 8%, but that doesn’t necessarily mean DSLRs are getting any more popular",
+        "Oasis, Kendrick Lamar, Charli xcx and more feature in the best music photos of 2026",
+        "The world’s best sport photography competition is open for entries! Find out how to win big with my insider advice"
       ]
     },
     {
-      "signal": "dji",
+      "signal": "sirui",
       "sources": [
-        "Amateur Photographer",
-        "Digital Camera World"
+        "Digital Camera World",
+        "The Phoblographer"
       ],
       "titles": [
-        "The DJI Neo drone drops down to just £109 – that's that's what I call a low-cost flight!",
-        "A major gimbal maker just unveiled its first-ever camera – and the Hohem Eyepic looks like a cross between the viral DJI Pocket and a waterproof action cam",
-        "DJI Osmo 360 II review –hands on with the latest 360° camera to enter the battle",
-        "Tough new DJI Osmo 360 II camera can be frozen, dunked, ridden hard and more"
-      ]
-    },
-    {
-      "signal": "osmo",
-      "sources": [
-        "Amateur Photographer",
-        "Digital Camera World"
-      ],
-      "titles": [
-        "DJI Osmo 360 II review –hands on with the latest 360° camera to enter the battle",
-        "Tough new DJI Osmo 360 II camera can be frozen, dunked, ridden hard and more"
+        "Anamorphic lenses typically can’t shoot vertical – but these new multi-mount lenses have a literal twist for cinematic vertical shots. Meet the Sirui Saturn V2 lens trio",
+        "Sirui 85mm f1.4 Aurora Review: Beautiful Bokeh at Under $700"
       ]
     }
   ],
@@ -115,10 +146,24 @@
         "cat": "domestic",
         "source": "摄影世界",
         "lang": "zh",
-        "title": "“国社之镜·世纪光影——人民城市·幸福图景” 城市主题展征稿启事",
-        "summary": "大国之治，始于城邑；社稷之安，归于幸福。城市是现代化的重要载体，承载着人民对美好生活的向往。新中国成立以来，我国的城镇化建设不断推进，城市规模不断扩大，综合实力显著增强，基础设施持续改善，城市更加宜业宜居。党的十八大以来，以人为核心的新型城镇化迈入高质量发展新阶段，城市群一体化发展扎实推进，城市对外开放站上新起点，城乡融合发展初见成效，为实现中国式现代化打下坚实基础。 在 “十五五” 开局之年，新华社遴选近 200 幅摄影作品，拟于 2026 年 9 月下旬开展 “国社之镜·世纪光影——人民城市·幸福图景” 城市主题展，用镜头丈量百姓生活的幸福刻度，记录波澜壮阔中的岁月安好。现面向广大市民开放征稿，该图片可以是反映城市变迁、人间烟火",
-        "link": "https://www.photoworld.com.cn/post/181505",
-        "date": "2026-08-31",
+        "title": "索尼正式发布首款全画幅鱼眼变焦 G 镜头 FE 8-14mm F3.5 Fisheye G",
+        "summary": "2026 年 9 月 8 日，索尼（中国）有限公司正式发布首款全画幅鱼眼变焦 G 镜头 FE 8-14mm F3.5 Fisheye G（SEL814G）。一支镜头可呈现两种不同类型的鱼眼视角：8mm 端圆形鱼眼视角，变焦至 14mm 则切换为对角线鱼眼视角；在约 314 克的紧凑镜身中实现索尼 G 镜头的高分辨率影像表现，具备双线性马达的快速精准自动对焦以及专业镜身操控设计，适用于风光、建筑、人像及水下摄影等多元题材。还可搭配索尼电影摄影机 CineAltaV 2 分体拓展系统组成双镜头配置，支持 3D VR 内容创作。 FE 8-14mm F3.5 Fisheye G 镜头将 E 卡口原厂镜头群的广角端拓展至 8mm，填补了索尼",
+        "link": "https://www.photoworld.com.cn/post/181536",
+        "date": "2026-09-10",
+        "image": "",
+        "verified": true,
+        "verified_signals": [
+          "14mm"
+        ]
+      },
+      {
+        "cat": "domestic",
+        "source": "摄影世界",
+        "lang": "zh",
+        "title": "小米澎程 N70、N90 系列、小米 18 Fold 重磅发布，小米自研技术全面落地 “人车家全生态”",
+        "summary": "9 月 7 日，小米秋季旗舰新品发布会在京举办，小米集团创始人、董事长兼 CEO 雷军正式发布小米澎程 N70 Pro、N70 Max、N90 Max 及全新 N90 Max 探索版四款新车。同场发布的还有两款搭载玄戒 O3 的旗舰新品：全新折叠屏旗舰小米 18 Fold、小米平板 9 Pro Max。 本次发布会的新品，是小米底层自研技术的集大成之作：小米澎程系列基于小米昆仑技术架构三大核心技术打造，在业内首创 “智能可变大空间”，开创了由中国品牌自主提出、面向智能出行时代的全新品类；两款玄戒新品首发搭载 AI 旗舰处理器玄戒 O3，这是目前市面上性能最强的移动处理器，其中小米 18 Fold 首次集结了玄戒 O3、澎湃 OS 4",
+        "link": "https://www.photoworld.com.cn/post/181513",
+        "date": "2026-09-08",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -127,12 +172,120 @@
     "gear": [
       {
         "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "Svbony SV28Plus HD Spotting Scope review: it’s one of the most inexpensive spotting scopes on the market, but is it any good?",
+        "summary": "The Svbony SV28Plus HD Spotting Scope delivers powerful reach with a zoom facility, some neat features, and a few extras, all at a rock-bottom price",
+        "link": "https://www.digitalcameraworld.com/optics/spotting-scopes/svbony-sv28plus-hd-spotting-scope-review",
+        "date": "2026-09-14",
+        "image": "https://cdn.mos.cms.futurecdn.net/NEiq6bXbVPTit3HzTp6Vg5-1280-80.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
         "source": "PetaPixel",
         "lang": "en",
-        "title": "Tecno’s Ultra-Slim Smartphone Borrows its Style From Famous Artists",
-        "summary": "The Tecno Camon Slim 5G is an ultra-slim phone that heavily emphasizes style.",
-        "link": "https://petapixel.com/2026/09/06/tecnos-ultra-slim-smartphone-borrows-its-style-from-famous-artists/",
-        "date": "2026-09-07",
+        "title": "How I Got the Xtra Muse 2 Pro Even Though It’s Banned",
+        "summary": "Xtra’s Muse 2 Pro isn’t currently available in the U.S., but I have one. Here’s how I got it and my first impressions.",
+        "link": "https://petapixel.com/2026/09/13/how-i-got-an-xtra-muse-2-pro-even-though-they-are-banned/",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "A New Super-Resolution Microscopy Technique Lets Scientists Study Cells In Real Time",
+        "summary": "A new fluorescence microscopy technique promises to create super-resolution images from a single exposure and give scientists a remarkable look inside cells.",
+        "link": "https://petapixel.com/2026/09/13/a-new-super-resolution-microscopy-technique-lets-scientists-study-cells-in-real-time/",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "PetaPixel",
+        "lang": "en",
+        "title": "Nicolas Rachline’s Haunting Photos Capture the Solitude and Beauty of Modern Life",
+        "summary": "A photographer’s cinematic, Edward Hopper-esque photographs capture the solitude of contemporary life as well as its fragile beauty.",
+        "link": "https://petapixel.com/2026/09/13/nicolas-rachlines-haunting-photos-capture-the-solitude-and-beauty-of-modern-life/",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "How Photographs Helped Create Yellowstone, the World's First National Park",
+        "summary": "The 1872 law that created Yellowstone runs only a few hundred words and never mentions a photograph. By the time President Ulysses S. Grant signed it on March 1, prints of the region and a painter's field watercolors had reached Washington and were being used to sell the idea. The pictures entered the campaign before t",
+        "link": "https://fstoppers.com/originals/how-photographs-helped-create-yellowstone-worlds-first-national-park-903911?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "Why Your Rushed Photos Are More Than Just Snapshots",
+        "summary": "We’ve all been there. You’re out somewhere, with a camera in tow, but the purpose isn’t photography. Maybe you’re walking with family or friends. Maybe you’re running to an appointment. You don’t have the luxury of setting up a tripod or spending fifteen minutes working a composition. You take some extra frames from va",
+        "link": "https://fstoppers.com/originals/why-your-rushed-photos-are-more-just-snapshots-904428?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "The Habits That Separate Working Photographers From the Rest",
+        "summary": "Talent gets discussed constantly, but the photographers who keep landing work tend to share a set of habits that have nothing to do with raw skill. The difference shows up in how they practice, prepare, and handle the people around them.",
+        "link": "https://fstoppers.com/education/habits-separate-working-photographers-rest-904611?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "Photoshop's Light Layer Looks Like Lightroom. It Doesn't Act Like It.",
+        "summary": "Adobe quietly slipped a Light adjustment layer into the main Photoshop interface, and it looks almost identical to the tone and exposure controls you already know from Lightroom and Camera Raw. That resemblance is the whole problem, because now people can't tell where they should actually be making these edits.",
+        "link": "https://fstoppers.com/lightroom/photoshops-light-layer-looks-lightroom-it-doesnt-act-it-904610?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "Nine Simple Controls That Change How Photos Feel",
+        "summary": "Better photos rarely come from a more interesting subject. They come from motion, perspective, camera height, and depth, the controls sitting in front of you that decide how an image feels before anyone thinks about what's in it.",
+        "link": "https://fstoppers.com/education/nine-simple-controls-change-how-photos-feel-904609?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Fstoppers",
+        "lang": "en",
+        "title": "The Words That Stopped One Photographer for Years",
+        "summary": "A respected photographer once told a teenager she wasn't good enough to make it, and that single sentence kept her from picking up a camera for decades. Those words carry a weight far heavier than the person who said them ever intended, and most creative people have heard some version of them, either out loud or in the",
+        "link": "https://fstoppers.com/education/words-stopped-one-photographer-years-904608?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+        "date": "2026-09-13",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -141,159 +294,25 @@
         "cat": "gear",
         "source": "Digital Camera World",
         "lang": "en",
-        "title": "Spypoint Flex-S-Dark trail camera review: Winning solar and cellular convenience, middling image performance",
-        "summary": "With a built-in solar panel, dual-SIM cellular connectivity, and zero subscription fees for basic use, Spypoint’s Flex-S-Dark flagship trail camera promises set-and-forget simplicity – does it deliver?",
-        "link": "https://www.digitalcameraworld.com/cameras/trail-cameras/spypoint-flex-s-dark-review",
-        "date": "2026-09-07",
-        "image": "https://cdn.mos.cms.futurecdn.net/MXWJ5Y4kJnjjHgrii6xjJB-1280-80.jpg",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Digital Camera World",
-        "lang": "en",
-        "title": "Why are cameras and photo apps seeking to deliver a ‘film experience’ when we couldn’t wait to get rid of film in the first place?",
-        "summary": "An increasing number of products are very pleased with themselves for delivering a facsimile of shooting on film –but I can’t see the appeal",
-        "link": "https://www.digitalcameraworld.com/cameras/why-are-cameras-and-photo-apps-seeking-to-deliver-a-film-experience-when-we-couldnt-wait-to-get-rid-of-film-in-the-first-place",
-        "date": "2026-09-07",
-        "image": "https://cdn.mos.cms.futurecdn.net/2a93GmTmg7Msqsb3fKRGG5-1280-80.jpg",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "PetaPixel",
-        "lang": "en",
-        "title": "10 Great Vintage Lenses for Portrait Photography",
-        "summary": "Vintage lenses are often talked about as if their only value is “character.” That usually means lots of flare, low contrast, possibly swirly bokeh, spherical aberration, or some other charming defect that gives digital images a little analog grit. There is nothing wrong with that, of course. A flawed lens can be a wond",
-        "link": "https://petapixel.com/2026/09/06/10-great-vintage-lenses-for-portrait-photography/",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "PetaPixel",
-        "lang": "en",
-        "title": "Apparently ‘Photography Is All Fake Anyway’",
-        "summary": "A short while ago I was reading the comments on a restaurant's Facebook group post. The post was a set of dodgy AI-generated food images, and they had that giveaway look. Too glossy, sauce behaving strangely, and bread that somehow looked like a sponge.",
-        "link": "https://petapixel.com/2026/09/06/apparently-photography-is-all-fake-anyway/",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "PetaPixel",
-        "lang": "en",
-        "title": "Photographer Captured California Life in the 1980s From Behind the Wheel",
-        "summary": "A photographer whose fascinating images of everyday life in California -- taken from behind the wheel of his car on his daily drive to work -- are the focus of a new exhibition.",
-        "link": "https://petapixel.com/2026/09/06/photographer-captured-everyday-california-life-in-1980s-from-behind-the-wheel/",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "PetaPixel",
-        "lang": "en",
-        "title": "How This Photographer Turned Drone Photography Into a Creative Advantage",
-        "summary": "As photography becomes an increasingly competitive and crowded field, adding new skills can give photographers an important edge. In this exclusive PetaPixel interview, photographer and filmmaker Megan Zabel Holmes shares how becoming a commercial drone pilot has helped her stand out, attract new clients, and turn aeri",
-        "link": "https://petapixel.com/2026/09/06/how-this-photographer-turned-drone-photography-into-a-creative-advantage/",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "10 Technologies Photographers Inherited From the Military",
-        "summary": "The zoom ring on a modern 70-200mm traces back to a viewfinder accessory the US Army Signal Corps clipped onto its 35mm combat movie cameras. Frank Back, the Austrian-born engineer who designed it, spent the war improving cameras and lenses for the Signal Corps and then turned the same optical trick into the first zoom",
-        "link": "https://fstoppers.com/originals/10-technologies-photographers-inherited-military-903837?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
+        "title": "The iPhone 18 Pro has a variable aperture camera lens - why don't all phones?",
+        "summary": "Spoiler alert: because it's not necessary!",
+        "link": "https://www.digitalcameraworld.com/tech/iphones/the-iphone-18-pro-has-a-variable-aperture-camera-lens-why-dont-all-phones",
+        "date": "2026-09-13",
+        "image": "https://cdn.mos.cms.futurecdn.net/QPuqL7bVZ3Z73g7mqFszZf-1280-80.png",
         "verified": true,
         "verified_signals": [
-          "35mm"
-        ]
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "How the Leica M EV1 Strikes the Perfect Balance of Old and New",
-        "summary": "Leica is in a tricky position when it comes to creating a new M camera. The fanbase welcomes new models, but Leica knows that if they stray too far from the essence of the M, users may reject the new model. The M5, introduced in 1972, made dramatic changes from the design of the previous M4 model and met relatively wea",
-        "link": "https://fstoppers.com/originals/how-leica-m-ev1-strikes-perfect-balance-old-and-new-904211?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "Stop Judging Light as Good or Bad and Start Using It",
-        "summary": "Light gets talked about like it comes in two flavors, good and bad, and that framing quietly limits what you shoot. Treating every kind of light as workable, rather than sorting it into keepers and mistakes, opens up scenes most people walk past.",
-        "link": "https://fstoppers.com/education/stop-judging-light-good-or-bad-and-start-using-it-904486?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "Why Time Blending Beats a Single Long Exposure",
-        "summary": "Light trails on a road can turn a flat night shot into something with real energy, but capturing them all in one clean frame is harder than it looks. Time blending lets you combine several exposures so the streaks flow together the way a single long exposure rarely manages.",
-        "link": "https://fstoppers.com/landscapes/why-time-blending-beats-single-long-exposure-904485?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "Turning Yosemite's Chaos Into Clean, Minimal Landscape Shots",
-        "summary": "Yosemite gives you waterfalls, granite walls, and postcard viewpoints that practically shoot themselves. The harder task is walking away with something nobody else made, and that starts with subtraction rather than addition.",
-        "link": "https://fstoppers.com/education/turning-yosemites-chaos-clean-minimal-landscape-shots-904487?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "gear",
-        "source": "Fstoppers",
-        "lang": "en",
-        "title": "Delete Someone From a Group Photo Without Ever Opening Photoshop",
-        "summary": "Remove a person from the middle of a group photo, close the gap as if they were never there, and do it all without touching Photoshop. That option is now sitting inside Lightroom for anyone who has never gotten comfortable with layers and masks.",
-        "link": "https://fstoppers.com/education/delete-someone-group-photo-without-ever-opening-photoshop-904484?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-        "date": "2026-09-06",
-        "image": "",
-        "verified": true,
-        "verified_signals": [
-          "photoshop"
+          "iphone 18"
         ]
       },
       {
         "cat": "gear",
         "source": "Digital Camera World",
         "lang": "en",
-        "title": "The Nikon ZR proves that video-first cameras might actually save mirrorless stills photography",
-        "summary": "Video-driven camera design is actually good news for still photographers",
-        "link": "https://www.digitalcameraworld.com/cameras/video-cameras/the-nikon-zr-proves-that-video-first-cameras-might-actually-save-mirrorless-stills-photography",
-        "date": "2026-09-06",
-        "image": "https://cdn.mos.cms.futurecdn.net/cvuZ6vZ68amSQTgWoUx6AR-1280-80.jpg",
+        "title": "I thought action cameras were still press-and-play toys – the Insta360 Ace Pro 2 proved me very wrong!",
+        "summary": "I hadn't owned an action camera since 2014 – I can't believe how advanced they've become",
+        "link": "https://www.digitalcameraworld.com/cameras/action-cameras/i-thought-action-cameras-were-still-press-and-play-toys-the-insta360-ace-pro-2-proved-me-very-wrong",
+        "date": "2026-09-13",
+        "image": "https://cdn.mos.cms.futurecdn.net/wUdThGthwgdsjdZbJqgwek-1280-80.jpg",
         "verified": false,
         "verified_signals": []
       },
@@ -301,11 +320,37 @@
         "cat": "gear",
         "source": "Digital Camera World",
         "lang": "en",
-        "title": "Have you heard of the “Wellieflex” –a pinhole camera made from a rain boot? This exhibition delves into history of children as photographers, some using homemade cameras",
-        "summary": "Snap Happy! How Children Became Photographers explores how photography went from an elite pastime to an accessible and, sometimes, even a DIY hobby for youngsters",
-        "link": "https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/have-you-heard-of-the-wellieflex-a-pinhole-camera-made-from-a-rain-boot-this-exhibition-delves-into-history-of-children-as-photographers-some-using-homemade-cameras",
-        "date": "2026-09-06",
-        "image": "https://cdn.mos.cms.futurecdn.net/2Raws3mgTsFvdCZGKgqSAe-1280-80.jpg",
+        "title": "New film 'The Girl with the Leica' reminds the world that photographer \"Robert Capa\" wasn't a real person, but a shared byline that almost erased Gerda Taro's name from history",
+        "summary": "Premiering at Venice Bienale, the movie retells the story of a real-life female photographer whose shots were credited to someone else.",
+        "link": "https://www.digitalcameraworld.com/photography/new-film-the-girl-with-the-leica-reminds-the-world-that-photographer-robert-capa-wasnt-a-real-person-but-a-shared-byline-that-almost-erased-gerda-taros-name-from-history",
+        "date": "2026-09-13",
+        "image": "https://cdn.mos.cms.futurecdn.net/H3nYuhF2Wz9o2fyGwSn5EP-1280-80.jpg",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "\"For three years, I had tried many times to get a decent photo of this species, but I hadn't yet succeeded. What you see before you is a dream fulfilled\" –Young wildlife photographer scoops top youth prize in major bird photography competition",
+        "summary": "After spotting a Plain-backed Antpitta in El Queremal, Colombia, this young photographer discovered a true treasure of a bird in the woods and a detail that made this award-winning Canada Warbler photo even more special",
+        "link": "https://www.digitalcameraworld.com/photography/awards-and-competitions/for-three-years-i-had-tried-many-times-to-get-a-decent-photo-of-this-species-but-i-hadnt-yet-succeeded-what-you-see-before-you-is-a-dream-fulfilled-young-wildlife-photographer-scoops-top-youth-prize-in-major-bird-photography-competition",
+        "date": "2026-09-13",
+        "image": "https://cdn.mos.cms.futurecdn.net/HofpE3v7s9PDgvkcKYWq2K-1280-80.jpg",
+        "verified": true,
+        "verified_signals": [
+          "award"
+        ]
+      },
+      {
+        "cat": "gear",
+        "source": "Digital Camera World",
+        "lang": "en",
+        "title": "This bird's fearsome, wide-open beak looks like it's picking a fight – but actually it's just a chick asking for food",
+        "summary": "Philipp Egger spent years returning to the same nest, working unseen, until he captured this dramatic shot.",
+        "link": "https://www.digitalcameraworld.com/photography/nature-and-wildlife-photography/this-birds-fearsome-wide-open-beak-looks-like-its-picking-a-fight-but-actually-its-just-a-chick-asking-for-food",
+        "date": "2026-09-13",
+        "image": "https://cdn.mos.cms.futurecdn.net/D8CURjBoNPGsok6HyLhnE6-1280-80.jpg",
         "verified": false,
         "verified_signals": []
       }
@@ -315,11 +360,35 @@
         "cat": "software",
         "source": "darktable releases",
         "lang": "en",
-        "title": "Darktable nightly build 20260906",
+        "title": "Darktable nightly build 20260914",
         "summary": "This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr",
         "link": "https://github.com/darktable-org/darktable/releases/tag/nightly",
-        "date": "2026-09-06",
+        "date": "2026-09-14",
         "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "software",
+        "source": "GIMP releases",
+        "lang": "en",
+        "title": "GIMP_3_2_6",
+        "summary": "Release GIMP 3.2.6.",
+        "link": "https://github.com/GNOME/gimp/releases/tag/GIMP_3_2_6",
+        "date": "2026-09-10",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "software",
+        "source": "Krita releases",
+        "lang": "en",
+        "title": "v6.0.4",
+        "summary": "Krita 6.0.4",
+        "link": "https://github.com/KDE/krita/releases/tag/v6.0.4",
+        "date": "2026-09-10",
+        "image": "https://avatars.githubusercontent.com/u/454873?s=60&v=4",
         "verified": false,
         "verified_signals": []
       }
@@ -327,12 +396,12 @@
     "classic": [
       {
         "cat": "classic",
-        "source": "SLR Lounge",
+        "source": "Feature Shoot",
         "lang": "en",
-        "title": "DxO PhotoLab 10 Review | Harnessing New AI Tools: Depth Masking, People Selection, & More!",
-        "summary": "For all types of photographers, the cutting-edge tools that AI has brought to us have been a game-changer. Even if you’re opposed to generative AI and/or data centers, we’ve seen what is possible when we add “machine learning” to things like our cameras’ autofocus systems. The ability to recognize subjects in any scene",
-        "link": "https://www.slrlounge.com/dxo-photolab-10-review-harnessing-new-ai-tools-depth-masking-people-selection-more/",
-        "date": "2026-09-06",
+        "title": "Wellcome Photography Prize Returns with £52,000 ($70,000) for Images Exploring Health",
+        "summary": "The Wellcome Photography Prize 2027 is now accepting submissions from photographers and image-makers around the world that “sparks curiosity, offers fresh perspectives and starts important conversations.” The competition, which is… The post Wellcome Photography Prize Returns with £52,000 ($70,000) for Images Exploring ",
+        "link": "https://www.featureshoot.com/2026/09/wellcome-photography-prize-returns-with-52000-70000-for-images-exploring-health/",
+        "date": "2026-09-14",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -341,10 +410,10 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "Official Couples Posing Guide – Tips, Cues, & More!",
-        "summary": "Struggling with couples posing? We've got the perfect guide to master couples poses, cues, expressions and more!",
-        "link": "https://www.slrlounge.com/couples-posing-guide/",
-        "date": "2026-09-05",
+        "title": "Guide to first look wedding photos",
+        "summary": "Welcome to part four of our official Wedding Photography Guide, a series of weekly articles designed to teach you the fundamentals of wedding photography.",
+        "link": "https://www.slrlounge.com/how-to-master-the-bride-and-grooms-first-look-wedding-photography-guide-pt-4/",
+        "date": "2026-09-13",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -353,10 +422,34 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "20+ Content Ideas for Photography Websites",
-        "summary": "High-quality content is one of the most important aspects of SEO. Great content gets shared and linked to, which boosts overall rankings. Furthermore, great content keeps users on your site, answers questions, and provides an overall good user experience. In this article, we’ll provide you with content ideas for photog",
-        "link": "https://www.slrlounge.com/20-content-ideas-for-photography-websites/",
-        "date": "2026-09-04",
+        "title": "How To Master Group Portraits | Wedding Photography Guide, Pt. 7",
+        "summary": "Welcome to part seven of our official Wedding Photography Guide, a series of weekly articles designed to teach you the fundamentals of wedding photography. In our previous article we covered how to photograph the ceremony, which includes everything from the bride’s walk down the aisle to the newlywed couple’s first kis",
+        "link": "https://www.slrlounge.com/how-to-master-group-portraits-wedding-photography-guide-pt-7/",
+        "date": "2026-09-12",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "classic",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "Which Camera Strap is Right for You?",
+        "summary": "I’ve been on the hunt for the perfect camera strap. There are so many different types that work for different photographers. Here’s the bulk of my research. You can decide for yourself which camera strap is right for you…",
+        "link": "https://www.slrlounge.com/choosing-camera-strap/",
+        "date": "2026-09-11",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "classic",
+        "source": "SLR Lounge",
+        "lang": "en",
+        "title": "Creating Artistic Portraits Using A Tilt-Shift Lens",
+        "summary": "Simply put, a tilt-shift lens is a lens that tilts and shifts, and throws the focus plane off. Sounds interesting, but what is the purpose, and how, or why would you use a lens like that?",
+        "link": "https://www.slrlounge.com/creating-artistic-portraits-using-tilt-shift-lens/",
+        "date": "2026-09-11",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -365,10 +458,10 @@
         "cat": "classic",
         "source": "Adorama ALCS",
         "lang": "en",
-        "title": "Mastering The Hyperlapse: Why 360 Cameras Are Changing The Game",
-        "summary": "On a cold winter day in Rawalpindi, Pakistan, a mosque caretaker watches me with growing suspicion. Instead of taking normal photos, I take a single step, aim my 360 camera at the central dome, snap a frame, lower it, and repeat — slowly pacing the entire length of the veranda like a human metronome. Oblivious to his [",
-        "link": "https://www.adorama.com/alc/why-360-cameras-are-changing-the-game/",
-        "date": "2026-09-04",
+        "title": "How Professional Photographers Seem to See Photos Everywhere",
+        "summary": "When I first got into photography, I used to sit there flipping through the photobooks of my favorite professional photographers and thinking, how do they always find these unbelievable shots? Every page felt like a masterpiece. Just relentless quality. One incredible image after another. And then I’d look at my own wo",
+        "link": "https://www.adorama.com/alc/how-professional-photographers-see-photos/",
+        "date": "2026-09-11",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -377,10 +470,10 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "9 Key Mistakes To Avoid When Handling SD Cards to Minimize Data Loss",
-        "summary": "There are some steps you can take to best protect SD card data and prevent catastrophic loss.",
-        "link": "https://www.slrlounge.com/handle-sd-cards-to-minimize-data-loss/",
-        "date": "2026-09-03",
+        "title": "20+ Best Friend Picture Ideas to Celebrate Your Friendship",
+        "summary": "It’s a fact of life that friends come and go, including some of our best friends, but we can always immortalize our friendship in pictures while we’re together. With access to advanced smartphone cameras that we carry in our pockets (or handbags) daily, capturing laughter and love is only one slide and tap away. Or, ..",
+        "link": "https://www.slrlounge.com/best-friend-picture-ideas/",
+        "date": "2026-09-10",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -389,10 +482,10 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "10 Tips For Wedding Reception Lighting",
-        "summary": "Here are 10 lighting tips to get you through some tricky wedding reception lighting issues.",
-        "link": "https://www.slrlounge.com/10-lighting-tips-wedding-receptions/",
-        "date": "2026-09-02",
+        "title": "Pass+ Is Shutting Down: What Photographers Need to Do Now",
+        "summary": "If you deliver client galleries through Pass+, you have until October 31 to get your work off the platform. Pass+ started notifying photographers in early September by email and with a banner across the dashboard, and it’s offering a free automatic migration to Pic-Time. The r/WeddingPhotography thread that broke the n",
+        "link": "https://www.slrlounge.com/pass-is-shutting-down-what-photographers-need-to-do-now/",
+        "date": "2026-09-09",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -401,10 +494,10 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "PhotoCuller Review | What Is PhotoCuller?",
-        "summary": "If you’re an Apple user looking for a seamless photo editing workflow that works across your Mac, iPad, and/or iPhone, pay attention! In this PhotoCuller review, you’ll find out just how much easier your workflow could get. We’ve all been there before: downloading files from a memory card in Finder, trying to keep doze",
-        "link": "https://www.slrlounge.com/photoculler-review-what-is-photoculler/",
-        "date": "2026-09-02",
+        "title": "10 Tips for Better Water Reflection Photography",
+        "summary": "This is one technique you should absolutely keep in your toolbox to boost your creativity.",
+        "link": "https://www.slrlounge.com/10-tips-for-better-water-reflection-photography/",
+        "date": "2026-09-09",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -413,22 +506,10 @@
         "cat": "classic",
         "source": "SLR Lounge",
         "lang": "en",
-        "title": "ShootProof Launches Slideshows: Music-Backed Reels Built Right Into Your Client Galleries",
-        "summary": "ShootProof has launched Slideshows, a new gallery feature that lets photographers turn their best selects into a music-backed highlight video without leaving the platform or opening a separate editing app. The feature went live August 18, 2026, and comes bundled with a rebuilt music library through Triple Scoop Music, ",
-        "link": "https://www.slrlounge.com/shootproof-launches-slideshows-music-backed-reels-built-right-into-your-client-galleries/",
-        "date": "2026-09-02",
-        "image": "",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "classic",
-        "source": "SLR Lounge",
-        "lang": "en",
-        "title": "Photo Editing Styles: A Comprehensive Overview",
-        "summary": "Photo editing is an essential part of the photography process that involves adjusting, stylizing, enhancing, and retouching images to make them look their best and match a consistent style. There are many different approaches to photo editing, each with its unique techniques and approaches. Furthermore, an editing styl",
-        "link": "https://www.slrlounge.com/photo-editing-styles-a-comprehensive-overview/",
-        "date": "2026-09-01",
+        "title": "Light Feathering | What is it and How to Use It",
+        "summary": "In the following tutorial, Jay P. Morgan from The Slanted Lens shows us a technique called, \"feathering\" with a softbox.",
+        "link": "https://www.slrlounge.com/light-feathering-what-is-it-and-how-to-use-it/",
+        "date": "2026-09-09",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -437,10 +518,10 @@
         "cat": "classic",
         "source": "Adorama ALCS",
         "lang": "en",
-        "title": "Choosing the Right Travel Backpack for Adventure and Photography",
-        "summary": "Planning my recent wildlife photography expedition in the Norwegian Fjell raised a couple of technical issues of a different nature from those I’m used to. I had no problem deciding what photo equipment to bring; I was quite okay with camping life. What I wasn’t prepared for was carrying a huge amount of heavy stuff […",
-        "link": "https://www.adorama.com/alc/choosing-a-travel-camera-backpacks/",
-        "date": "2026-08-31",
+        "title": "How to Take Photos in Harsh Midday Light",
+        "summary": "Golden hour is easy. But learning to shoot in harsh midday sun is what makes you a truly versatile photographer. Instead of putting your camera away when the light gets tough, discover the \"secret sauce\" for nailing your shots in bright daylight, from finding the right shadows for portraits to framing tight details and",
+        "link": "https://www.adorama.com/alc/how-to-take-photos-in-harsh-light/",
+        "date": "2026-09-09",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -451,10 +532,22 @@
         "cat": "technique",
         "source": "Light Stalking",
         "lang": "en",
-        "title": "The Megapixel Myth",
-        "summary": "My Sony has 61 million pixels. I could buy a Fuji with 100 million pixels. I could even buy a Samsung phone with 200 million pixels. All of this sounds very impressive until you realise that 99% of us never need that many pixels 99% of the time. The reason these high megapixel counts sound […] The post The Megapixel My",
-        "link": "https://www.lightstalking.com/megapixel-myth/",
-        "date": "2026-09-04",
+        "title": "Meta Sued Over Using People’s Photos for AI and Facial Recognition",
+        "summary": "There's a new proposed class action lawsuit against Meta that alleges they harvested Facebook and Instagram photographs for biometric information that was used to train image generation models and develop an, as yet, unreleased facial recognition feature called Nametag for smart glasses. Meta says that the lawsuit has ",
+        "link": "https://www.lightstalking.com/meta-sued-over-using-peoples-photos-for-ai-and-facial-recognition/",
+        "date": "2026-09-14",
+        "image": "",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "technique",
+        "source": "Digital Photography School",
+        "lang": "en",
+        "title": "Introducing James and Jason, New Tripods from 3 Legged Thing",
+        "summary": "The post Introducing James and Jason, New Tripods from 3 Legged Thing appeared first on Digital Photography School . It was authored by Sime . As one of the esteemed (ok, maybe that’s a bit much) pro team members for the 3 Legged Thing brand, I’m excited to introduce you to the new kids, James and Jason! And, if it’s n",
+        "link": "https://digital-photography-school.com/introducing-james-and-jason-new-tripods-from-3-legged-thing/",
+        "date": "2026-09-09",
         "image": "",
         "verified": false,
         "verified_signals": []
@@ -465,11 +558,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Visa pour l’image: Perpignan festival of photojournalism 2026 – in pictures",
-        "summary": "A selection of the powerful photojournalism being shown at this year’s Visa pour l’image exhibition in France Continue reading...",
-        "link": "https://www.theguardian.com/media/gallery/2026/sep/07/visa-pour-limage-perpignan-festival-of-photojournalism-2026-in-pictures",
-        "date": "2026-09-07",
-        "image": "https://i.guim.co.uk/img/media/fbabb661dc6892b6b8a564311759b2a3cc8f40f4/265_0_1772_1418/master/1772.jpg?width=140&quality=85&auto=format&fit=max&s=25acd2d9e588de58a8317e69f96e9400",
+        "title": "We Are Family: photography from Images Vevey 2026 – picture essay",
+        "summary": "We visited the idyllic Swiss lakeside town of Vevey for its 10th Biennale of photography. Global head of photography Fiona Shields picks out some of her favourite projects on display Discover the 50 artworks on display at the 10th edition of the Biennale Images Vevey , 5-27 September 2026 Every two years, on the shores",
+        "link": "https://www.theguardian.com/artanddesign/2026/sep/14/we-are-family-photography-from-images-vevey-2026-picture-essay",
+        "date": "2026-09-14",
+        "image": "https://i.guim.co.uk/img/media/2395adef1a234915e2be6e12dc3262ff86709c0f/246_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=797f5c7c1d7ae7387718671f660df437",
         "verified": false,
         "verified_signals": []
       },
@@ -477,11 +570,71 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Minecraft cosplay and Oasis in Venice: photos of the weekend",
+        "title": "Festival of the Winds 2026: splashes of colour in the sky and on the sand – in pictures",
+        "summary": "Under bright blue skies Bondi beach is transformed into a kaleidoscope of hues for the annual event. Founded in 1978, the Festival of the Winds is celebrated on the second Sunday of September Blankets of colour: Western Australia’s wildflower season bursts to life – in pictures Continue reading...",
+        "link": "https://www.theguardian.com/australia-news/gallery/2026/sep/14/festival-of-the-winds-2026-splashes-of-colour-in-the-sky-and-on-the-sand-in-pictures",
+        "date": "2026-09-14",
+        "image": "https://i.guim.co.uk/img/media/fc1b4500800ec7376d1382ab11bd0a08a2e4819c/225_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1a21b92050691b8e1f5cfedf0090a190",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘He would have been the center of everything’: the art exhibition imagining if Emmett Till lived",
+        "summary": "Dedicated to the boy whose lynching partially ignited the US civil rights movement, the new exhibition celebrates Black creativity and invites audiences to reckon with racism in America Seventy-one years after the brutal murder of Emmett Till, the way that the US as a country honors his memory is still being contested.",
+        "link": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago",
+        "date": "2026-09-13",
+        "image": "https://i.guim.co.uk/img/media/90e84b49567e5e201fc2c649d97fc5a0db5812b3/0_317_1837_1469/master/1837.jpg?width=140&quality=85&auto=format&fit=max&s=00123622aeacba54e3296612d5a877e6",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Elkie Brooks looks back: ‘Before I went on stage I used to drink Guinness and a few shots of brandy’",
+        "summary": "The singer-songwriter on her rock’n’roll past, playing second fiddle to the Beatles, and the key to being an energetic performer in your 80s Born Elaine Bookbinder in Salford in 1945, Elkie Brooks is a rock, blues and jazz singer known as the British Queen of Blues. She spent much of the 1960s on the cabaret circuit, d",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/sep/13/elkie-brooks-looks-back-interview-singer-the-long-farewell-tour",
+        "date": "2026-09-13",
+        "image": "https://i.guim.co.uk/img/media/62a170f8a836adff0e4a70ede137af439a555c58/0_1009_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=ac9c4612ef4a45c3a8978cb496132d42",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘The balloons made me smile but his expression made me stop’: Harivansh Verma’s best phone picture",
+        "summary": "While celebrating a religious festival on the banks of the Ganges, the Indian photographer captured the everyday struggle of a street vendor It had been a sacred day for Harivansh Verma. It was the evening of Ganga Dussehra, the major Hindu celebration and gathering along the banks of the Ganges. He was in the city of ",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/sep/12/harivansh-verma-best-phone-picture-balloons",
+        "date": "2026-09-12",
+        "image": "https://i.guim.co.uk/img/media/0013d5bebab72b67719be3725eed67284da69105/0_946_1894_1514/master/1894.jpg?width=140&quality=85&auto=format&fit=max&s=f1b02020264541d101105a285b7f60f5",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "The week around the world in 20 pictures",
+        "summary": "The 25th anniversary of 9/11, Russian strikes in Kyiv, wildfires in Indonesia and Sabalenka at the US Open – the past seven days as captured by the world’s leading photojournalists Warning: this gallery contains images some readers may find distressing Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/the-week-around-the-world-in-20-pictures",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/79d990467a58ac56c16fd038acb82dcd37256f14/0_212_6721_5381/master/6721.jpg?width=140&quality=85&auto=format&fit=max&s=faff93e52a2711fa65f61030615db456",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Swimming pigs and a flying scarecrow: photos of the day – Friday",
         "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
-        "link": "https://www.theguardian.com/news/gallery/2026/sep/06/anime-cosplay-and-oasis-in-venice-photos-of-the-weekend",
-        "date": "2026-09-06",
-        "image": "https://i.guim.co.uk/img/media/fe813d7cccef94451f3d4fd1d8fb3268b0ccfb5f/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=0e334e1d47928667f16323c0ea7beac8",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/swimming-pigs-flying-scarecrow-photos-of-the-day-friday",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/d4fe8d8f6083d084f2e5fb49a65589403e04d50c/0_0_2113_1690/master/2113.png?width=140&quality=85&auto=format&fit=max&s=a2af6ffea394b9c5cedaa497e593c575",
         "verified": false,
         "verified_signals": []
       },
@@ -489,11 +642,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Meera Syal looks back: ‘South Asians weren’t seen as funny. We sold you fags or served you curry’",
-        "summary": "The actor, comedian and writer on idolising Victoria Wood, being fuelled by rage and injustice after a sexual assault, and ​t​he life-changing impact of Goodness Gracious Me Born in Wolverhampton in 1961 and raised in Bloxwich, also in the West Midlands, Meera Syal is an actor, comedian, novelist and playwright who was",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/sep/06/meera-syal-looks-back-interview-actor-comedian-writer-the-children-lyric-hammersmith",
-        "date": "2026-09-06",
-        "image": "https://i.guim.co.uk/img/media/a1d12e0c80ebafd7e697c8459cc9f63bbf65a24b/1447_156_2246_1796/master/2246.jpg?width=140&quality=85&auto=format&fit=max&s=a1995fd5b84dacf263f7452e303f8a50",
+        "title": "A rollicking statue, Beryl’s buddies and a swimming pool in a roundabout – the week in art",
+        "summary": "A blue lady strides across the fourth plinth, Beryl Cook and friends gather in Bicester, and Spain repurposes a traffic junction – all in your weekly dispatch Tschabalala Self A rollicking triumph of a statue that spreads good feelings and smiles in the heart of the capital. Saucy genius. • Fourth plinth, Trafalgar Squ",
+        "link": "https://www.theguardian.com/artanddesign/2026/sep/11/a-rollicking-statue-beryls-buddies-and-a-swimming-pool-in-a-roundabout-the-week-in-art",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/806081ccfdf14486c681d5b16cfe797327429b0f/305_0_4727_3781/master/4727.jpg?width=140&quality=85&auto=format&fit=max&s=6cd8c11a25fc49f23539e9e221dd480b",
         "verified": false,
         "verified_signals": []
       },
@@ -501,59 +654,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Fashion, form and the beach: the photography of Max Dupain – in pictures",
-        "summary": "Photographer Max Dupain’s diverse and creative output helped shape Australia’s visual identity in the mid to late 20th century. A major retrospective, Definitive Dupain , runs at the State Library of New South Wales until July 2027 • Sydney Dance Company’s 40 years at the Wharf – in pictures Continue reading...",
-        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/06/photography-of-max-dupain-in-pictures",
-        "date": "2026-09-05",
-        "image": "https://i.guim.co.uk/img/media/9574e19d18cb20b5431b8029089af61eace8ff57/83_70_1946_1557/master/1946.jpg?width=140&quality=85&auto=format&fit=max&s=15f3c8d01b64bab0ed757214edebf623",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "‘It struck me as a minimalist tableau’: Henk Stam’s best phone picture",
-        "summary": "The Dutch photographer was pleased to capture this suitably orange scene in some toilets in Rotterdam ‘I must admit I was very sceptical of phone photography at first,” Henk Stam says. Sixty years ago, he received his first camera for his 11th birthday. The advent of a newer technology initially stumped him. “My first ",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/sep/05/henk-stam-best-phone-picture-portlantis-orange-rotterdam",
-        "date": "2026-09-05",
-        "image": "https://i.guim.co.uk/img/media/315c18135f5cc35594a04b84cb221c03630ad05a/0_596_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=38fd2a9a17789dd6f185e3647c64f664",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "A tunnel rescue and a flooded wedding: photos of the day – Friday",
-        "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
-        "link": "https://www.theguardian.com/news/gallery/2026/sep/04/tunnel-rescue-flooded-wedding-photos-of-the-day-friday",
-        "date": "2026-09-04",
-        "image": "https://i.guim.co.uk/img/media/c1efd98dcc73855ffba2d93421dd8bf1f65ac9d5/0_0_2113_1690/master/2113.png?width=140&quality=85&auto=format&fit=max&s=f42c785563d0d87f23ecbf87f2a04780",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "The must-see Bayeux masterpiece, Colombia’s chronicler and a Manchester odyssey – the week in art",
-        "summary": "The Bayeux tapestry arrives, the Americas go mainstream and modern, and Manchester threads its way to Korea and India – all in your weekly dispatch The Bayeux tapestry Blood and thunder, friendship and betrayal, marginal monsters and raw sex – all human life and more is depicted in this medieval artistic masterpiece th",
-        "link": "https://www.theguardian.com/artanddesign/2026/sep/04/the-must-see-bayeux-masterpiece-colombias-chronicler-and-a-manchester-odyssey-the-week-in-art",
-        "date": "2026-09-04",
-        "image": "https://i.guim.co.uk/img/media/6630095a4c8605c0965d5051b3c9954ee9794d71/574_0_3997_3199/master/3997.jpg?width=140&quality=85&auto=format&fit=max&s=6a8d4f6a9bc438713ba1f00671fc2ba7",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "Week in wildlife: a hitchhiking crab, a shy wallaby and penguins in little jackets",
+        "title": "Week in wildlife: a sea turtle hatchling, baby orangutans and flying ibises",
         "summary": "This week’s best wildlife photographs from around the world Continue reading...",
-        "link": "https://www.theguardian.com/environment/gallery/2026/sep/04/week-in-wildlife-a-hitchhiking-crab-a-shy-wallaby-and-penguins-in-little-jackets",
-        "date": "2026-09-04",
-        "image": "https://i.guim.co.uk/img/media/c3f23f237fed48e3d2f304eaaf9d8664e3784658/1101_319_2484_1987/master/2484.jpg?width=140&quality=85&auto=format&fit=max&s=43fd41048ef912b458c29d7065ce0f8c",
+        "link": "https://www.theguardian.com/environment/gallery/2026/sep/11/week-in-wildlife-sea-turtle-hatchling-baby-orangutans-and-flying-ibises",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/ffe8fa938fcb6a7bcccba9bd65d9143c79c7d6dd/470_0_4030_3224/master/4030.jpg?width=140&quality=85&auto=format&fit=max&s=ae0b9d491196c1103b00d1060997e737",
         "verified": false,
         "verified_signals": []
       },
@@ -561,11 +666,35 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Tango championships and a downed drone: photos of the day – Thursday",
+        "title": "BredaPhoto Festival – in pictures",
+        "summary": "The 12th edition of the BredaPhoto Festival opens on 11 September 2026. Under the title Our Songs Came Through, the festival in the Dutch city of Breda brings together stories of comfort and resilience BredaPhoto Festival 2026: Our Songs Came Through 11 September – 25 October 2026 Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/9220bc1530c164a8ce0bd1c63c8d2c57e29166a7/0_105_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=a8b59572d02f8915c60f926a1ab9f7d9",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "‘A fierce need to be independent’: Gerda Taro biopic pulls photographer out of lover Robert Capa’s shadow",
+        "summary": "Film premieres at Venice as researchers question who took famous Spanish civil war shot of ‘falling soldier’, credited to the pair’s Robert Capa alias She was one of the most fearless female photojournalists of the 20th century, and the first known to have been killed while covering a war. But in life and in death, the",
+        "link": "https://www.theguardian.com/artanddesign/2026/sep/11/gerda-taro-biopic-robert-capa-spain-photography-venice-film-festival",
+        "date": "2026-09-11",
+        "image": "https://i.guim.co.uk/img/media/87755c4e85a66845f72b30a1f7ee2f7c62c680d2/38_0_5083_4065/master/5083.jpg?width=140&quality=85&auto=format&fit=max&s=1f0004ace4cedc1b7da8d6502b89e45b",
+        "verified": false,
+        "verified_signals": []
+      },
+      {
+        "cat": "global",
+        "source": "The Guardian · Photography",
+        "lang": "en",
+        "title": "Bayeux wonder, Bertie the bulldog and the Lady in Blue: photos of the day – Thursday",
         "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
-        "link": "https://www.theguardian.com/news/gallery/2026/sep/03/tango-championships-floods-and-a-downed-drone-photos-of-the-day-thursday",
-        "date": "2026-09-03",
-        "image": "https://i.guim.co.uk/img/media/06a031a84e4cbbb663319948cc44b006d83d5019/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=107defc2ee1e94e223a8a9f513bb653c",
+        "link": "https://www.theguardian.com/news/gallery/2026/sep/10/bayeux-wonder-a-blue-giant-and-an-mps-bulldog-photos-of-the-day-thursday",
+        "date": "2026-09-10",
+        "image": "https://i.guim.co.uk/img/media/2a12c7863a9f1afecb5e76e08f4e461e166a96a1/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=aac567ee9efeaf42ddc1b8611268b80e",
         "verified": false,
         "verified_signals": []
       },
@@ -573,11 +702,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "The plastic waste overtaking New York – and the people trying to curb it",
-        "summary": "From New York to Quebec, photographer Bryan Anselm spent months capturing spaces overrun with plastic and the actions individuals and groups are taking to reduce waste In New York City, the plastic we discard has a way of remaining in plain sight. There are few alleys to hide residents’ refuse, and the clear recycling ",
-        "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/03/plastic-waste-new-york-environment",
-        "date": "2026-09-03",
-        "image": "https://i.guim.co.uk/img/media/18abee39684776af60fc39ce2e7a894bc97e962a/245_0_5863_4691/master/5863.jpg?width=140&quality=85&auto=format&fit=max&s=00f67d1b0d5d608e27b576eadffe19c3",
+        "title": "World Tango Championships finals in pictures",
+        "summary": "Tango is an art form which, as the competitors themselves described, serves as a deeply personal means of expression, communication and connection between people beyond cultural and geographical borders. The final featured dancers from several countries including Russia, Turkey, Japan, Indonesia and Kazakhstan, underli",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/10/world-tango-championships-finals-in-pictures",
+        "date": "2026-09-10",
+        "image": "https://i.guim.co.uk/img/media/939cf8de1cf180c7fb7abc6fc7097185bee8353a/777_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=b1f283e59172ec33797b41c0835a16ba",
         "verified": false,
         "verified_signals": []
       },
@@ -585,11 +714,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "‘I show how energetic it can be’: the photographer capturing Britain’s golden age of jazz",
-        "summary": "Temi Adegbayibi started out taking pictures of the Ezra Collective and other British musicians as a hobby, then found his work exhibited at the Royal Albert Hall. He discusses Black joy and the movement and stillness of jazz When I speak to Temi Adegbayibi on the phone, the 26-year-old photographer is on the move. He i",
-        "link": "https://www.theguardian.com/artanddesign/2026/sep/03/temi-adegbayibi-photographs-uk-jazz-musicians",
-        "date": "2026-09-03",
-        "image": "https://i.guim.co.uk/img/media/bc0522d520c45201bdcf80f135a2e3a04008d57e/715_0_8773_7016/master/8773.jpg?width=140&quality=85&auto=format&fit=max&s=d0faec73ae762c65b9b8b606e8b0b763",
+        "title": "‘I thought a devil was about to appear from the smoke’: Jerry Hsu’s best photograph",
+        "summary": "‘The black cloud emerged from a grate in the street. I guess something underground was on fire. It was hilariously cinematic – just one of those eerie, spontaneous things that happen in a city’ This image was taken in 2011 or 2012, just after I had moved to Los Angeles. I was downtown, an area I don’t go to that much, ",
+        "link": "https://www.theguardian.com/artanddesign/2026/sep/09/devil-smoke-fire-downtown-la-jerry-hsu-best-photograph",
+        "date": "2026-09-09",
+        "image": "https://i.guim.co.uk/img/media/f0041683b6ceee70b2f2d80eeb98912c66f219da/294_0_2955_2365/master/2955.png?width=140&quality=85&auto=format&fit=max&s=7bf3a42dd2e9173f7c758918408a874a",
         "verified": false,
         "verified_signals": []
       },
@@ -597,47 +726,11 @@
         "cat": "global",
         "source": "The Guardian · Photography",
         "lang": "en",
-        "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
-        "summary": "For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on",
-        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures",
-        "date": "2026-09-03",
-        "image": "https://i.guim.co.uk/img/media/963d4f9681eae0044c024363fef5aa8029f4026c/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=483aef1e3445de28f603ac09b3a958bb",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "Celebrity impersonators fill the frame in Deepfake: what does it mean to be seen? – in pictures",
-        "summary": "Cybele Malinowski has spent 20 years photographing the icons of contemporary culture. Deepfake – shot over two years in Las Vegas and Los Angeles – is what happens when she turns that camera on the people who have chosen to become someone else entirely. The exhibit is on until 6 September at Carriageworks as part of Sy",
-        "link": "https://www.theguardian.com/lifeandstyle/gallery/2026/sep/03/celebrity-impersonators-fill-the-frame-in-deepfake-cybele-malinowski-photograpy-exhibit-sydney",
-        "date": "2026-09-02",
-        "image": "https://i.guim.co.uk/img/media/1848644ba2df1417d92e92f0668bb21a54add415/167_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=1e4ffd700a864c8d8a6130cff56f5dc1",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "Joey Ramone smiling! And having fun! At the beach! Roberta Bayley’s best photograph",
-        "summary": "‘Joey didn’t surf. And he didn’t like this photo. He said, “You made my legs look thin.” Like it was my fault he had skinny legs’ The first band I ever saw were the Beatles, on 19 August 1964 at the Cow Palace Arena near San Francisco. I was 13. I remember every 29 minutes of it: 17,000 screaming girls making a deafeni",
-        "link": "https://www.theguardian.com/artanddesign/2026/sep/02/joey-ramone-smiling-roberta-bayley-my-best-shot-surf",
-        "date": "2026-09-02",
-        "image": "https://i.guim.co.uk/img/media/2d2d3a2bff86fe506cbf03ce9bc583e2348378f4/232_370_1002_801/master/1002.jpg?width=140&quality=85&auto=format&fit=max&s=6564989d4f9ed9012211c26b4e9df6a6",
-        "verified": false,
-        "verified_signals": []
-      },
-      {
-        "cat": "global",
-        "source": "The Guardian · Photography",
-        "lang": "en",
-        "title": "Back to school in Cuba and a volcanic eruption: photos of the day – Wednesday",
-        "summary": "The Guardian’s picture editors select photographs from around the world Continue reading...",
-        "link": "https://www.theguardian.com/news/gallery/2026/sep/02/back-to-school-in-cuba-and-a-volcanic-eruption-photos-of-the-day-wednesday",
-        "date": "2026-09-02",
-        "image": "https://i.guim.co.uk/img/media/071d19d9e0661b5c9f2132acee5d37f60d4430b7/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=a277c0cc5eaaa8f8cad0d103d6018e97",
+        "title": "Strong, silent types? Meet the puesteros of Chile – in pictures",
+        "summary": "Pie Aerts’s striking images of horsemen who live an extremely solitary existence reveal hidden stories of loneliness, alcoholism and a fading heritage Continue reading...",
+        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/09/strong-silent-types-meet-the-puesteros-of-chile-in-pictures",
+        "date": "2026-09-09",
+        "image": "https://i.guim.co.uk/img/media/38327419a6a016690dcf4c39a8e6074479011a90/378_303_5687_4549/master/5687.jpg?width=140&quality=85&auto=format&fit=max&s=f099de278aceb3255bcc466be69eda4d",
         "verified": false,
         "verified_signals": []
       }
