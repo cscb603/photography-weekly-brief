@@ -1,269 +1,273 @@
-# 影像家 · 全球摄影周报 （2026-10-05）
+# 影像家 · 全球摄影周报 （2026-10-12）
 
-> 采集窗口：近 9 天 ｜ 成功源 18 个 ｜ 条目 199 条 ｜ 多方印证 7 组
+> 采集窗口：近 9 天 ｜ 成功源 18 个 ｜ 条目 199 条 ｜ 多方印证 12 组
 
 
 ## 🔗 本周多方印证（国内外交叉比对）
 
-- **AWARDS**：Amateur Photographer、Digital Camera World、PetaPixel、The Guardian · Photography
-- **35MM**：Amateur Photographer、Digital Camera World、Fstoppers
-- **AWARD**：Amateur Photographer、Digital Camera World、The Guardian · Photography
-- **IPHONE 18**：Amateur Photographer、PetaPixel
-- **50MM**：Amateur Photographer、Fstoppers
-- **85MM**：Fstoppers、The Phoblographer
-- **DJI**：Amateur Photographer、Digital Camera World
-
-## 🇨🇳 国内摄影圈
-
-### 当头部团播走向电影感创作：索尼 FX5 助力梦华录打造古风团播新风尚
-- 来源：摄影世界 ｜ 日期：2026-09-29 ｜ 语言：zh
-- 摘要：随着大型团播内容不断向舞台化、精品化发展，摄影机的任务已经不再局限于单一的画面捕捉。画面风格需要在直播前端成立，人物要在连续运动中被稳定跟随，运动机位、多路信号与长时间运行也要共同进入实时制作流程。这些变化，对直播解决方案提出了更具体的要求。索尼 FX5 电影摄影机又会带来哪些新的惊喜？今天围绕索尼 FX5 如何参与大型团播的实时制作流程以及在古风直播现场的实际表现，影视工业网采访了擅长古风直播的梦华录负责人庄成及其团队成员。 索尼 FX5 助力「梦华录」打造古风团播新风尚 索尼 FX5 在「梦华录」直播间现场 梦华录目前拥有 40 余名主播、5 至 6 个直播团体和多个大型直播场景。从水舞台、“繁花” 横向舞台，到鱼灯、扎染、敦煌
-- 链接：https://www.photoworld.com.cn/post/181609
-
-### 索尼电影感讯道方案规模化落地，CineAltaB 客户交付
-- 来源：摄影世界 ｜ 日期：2026-09-28 ｜ 语言：zh
-- 摘要：近日，索尼将 8 套 CineAltaB 讯道方案，联合合作伙伴广州易达影视器材有限公司交付上海卓视文化，助力卓视组建电影感讯道系统、实现专业讯道体系整体升级。索尼 (中国) 有限公司影像方案市场部专业摄影机部总监谭永鸿表示：“我们从市场走访中了解到，专业用户认为长期以来广播讯道与电影感画质各有所长、难以兼顾。索尼从用户痛点出发，推出这套影像方案，将 CineAlta 系列电影级画质接入既有的现场讯道调度体系，在保障实时安全播出的同时、留存院线级素材，为大型直转播项目打通了从 LIVE 直出到后期精修的全链路电影感交付体系，使专业讯道体系的实战表现力得到了进一步的提升。” 交付现场合影 索尼市场部高级经理 庄怡辰（左 1），广州易达
-- 链接：https://www.photoworld.com.cn/post/181599
+- **AWARD**：Amateur Photographer、Digital Camera World、PetaPixel
+- **INSTA360**：Amateur Photographer、PetaPixel
+- **DJI**：Amateur Photographer、PetaPixel
+- **OSMO**：Amateur Photographer、PetaPixel
+- **AWARDS**：Digital Camera World、PetaPixel
+- **LIGHTROOM**：Amateur Photographer、Fstoppers
+- **PHOTOSHOP**：Amateur Photographer、Fstoppers
+- **35MM**：Digital Camera World、Fstoppers
+- **PHOTOKINA**：Digital Camera World、The Phoblographer
+- **TAMRON 2**：Digital Camera World、The Phoblographer
+- **Z8**：Amateur Photographer、Digital Camera World
+- **50MM**：Amateur Photographer、The Phoblographer
 
 ## 📷 器材 · 行业
 
-### 【外文】The Historic Practice of the Hidden Mother in Photography
-- 来源：PetaPixel ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：The “Hidden Mother” is a genre of photography that has been practiced since the infancy of the photographic process. Many examples date back to 1839 and the daguerreotype. A shroud or sheet would be thrown over the adult in the composition, or the mother hid behind a cloaked chair. They used varied methods and had vary
-- 链接：https://petapixel.com/2026/10/04/the-historic-practice-of-the-hidden-mother-in-photography/
+### 【外文】Photo Book Reveals the Stories Behind China’s Giant Pandas
+- 来源：PetaPixel ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：A stunning photo book explores the giant pandas of China and the country’s efforts to protect the endangered species.
+- 链接：https://petapixel.com/2026/10/11/photo-book-reveals-the-stories-behind-chinas-giant-pandas/
 
-### 【外文】Powerful Portraits of People Whose Lives Have Been Forever Changed Due to School Shootings
-- 来源：PetaPixel ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Photographer Kathy Shorr has spent 13 years documenting the devastating effects of gun violence in the United States.
-- 链接：https://petapixel.com/2026/10/04/powerful-portraits-of-people-whose-lives-have-been-forever-changed-due-to-school-shootings/
+### 【外文】The Fujifilm X half Makes Composition Harder to Avoid
+- 来源：PetaPixel ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：For several months, the most interesting thing about the Fujifilm X half to me was not its image quality, its Type 1 sensor or its resemblance to an old half-frame camera. It was the number of times it made me stop before taking a photograph.
+- 链接：https://petapixel.com/2026/10/11/the-fujifilm-x-half-makes-composition-harder-to-avoid/
 
-### 【外文】NiSi 16mm f/2.8 ASPH G-Mount Review: There Might Be Such a Thing As Too Wide
-- 来源：PetaPixel ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：The Fujifilm GFX system has been around for nearly a decade, and it's safe to say it's been a great success for Fujifilm. A good indicator of the GFX's success is that third-party lens makers are getting in on the fun, including NiSi.
-- 链接：https://petapixel.com/2026/10/04/nisi-16mm-f-2-8-asph-g-mount-review-there-might-be-such-a-thing-as-too-wide/
+### 【外文】How X-Ray Photographer Jim Wehtje Sees Beneath the Surface of Seashells
+- 来源：PetaPixel ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Jim Wehtje is an American photographer and radiographic artist known for using X-rays to reveal the hidden internal structures of natural objects, particularly plants, flowers, and seashells.
+- 链接：https://petapixel.com/2026/10/11/how-x-ray-photographer-jim-wehtje-sees-beneath-the-surface-of-seashells/
 
-### 【外文】The Photographer Who Captured the Glamor of Hollywood’s Golden Age
-- 来源：PetaPixel ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：An exhibition celebrates the work of George Hurrell, the defining portrait photographer of Hollywood’s 1930s and early 1940s, whose photographs still epitomize what we think of today as Hollywood glamor.
-- 链接：https://petapixel.com/2026/10/04/the-photographer-who-captured-the-glamor-of-hollywoods-golden-age/
+### 【外文】The Strange Story of the Kodak Disc, the Worst Camera Kodak Ever Shipped
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：In 1982, Kodak sold roughly 8 million disc cameras in a single year, and its president told shareholders the disc system would be "the new engine that will drive this industry forward." Inside those flat little bodies sat a genuine engineering triumph, including the first mass-produced molded glass aspheric lens elemen
+- 链接：https://fstoppers.com/film/strange-story-kodak-disc-worst-camera-kodak-ever-shipped-904187?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Nearly Every JPEG on Earth Runs on Math a Reviewer Called Too Simple to Fund in 1972
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：In early 1972, a Kansas State University professor named Nasir Ahmed sent the National Science Foundation a proposal to study a cosine transform built out of Chebyshev polynomials. NSF declined to fund it, and in his own written account of what happened, Ahmed recalled one reviewer's comment coming down to the whole id
-- 链接：https://fstoppers.com/historical/nearly-every-jpeg-earth-runs-math-reviewer-called-too-simple-fund-1972-904107?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 【外文】Night Photography: Turn Everyday Places Into Art
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：We have all driven past the same location a hundred times during the day and never once pulled over to reach for the camera: the gas station, the empty parking lots, a small business on Main Street. Travel through there at night, and these locations stop us in our tracks. Daylight documents a place; night light transfo
+- 链接：https://fstoppers.com/education/night-photography-turn-everyday-places-art-904777?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Five Poses for When Your Couple Starts Looking Posed
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：I want to start by defending the thing this article might look like it is against. Static posing in wedding and portrait photography is the backbone of every couples session I shoot. The five foundations I teach are all static positions, and they are static for good reasons. They are fast. They are repeatable. They are
-- 链接：https://fstoppers.com/education/five-poses-when-your-couple-starts-looking-posed-904865?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 【外文】What Separates a $2,500 Wedding Photographer From a $25,000 One?
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：A $2,500 wedding photographer and a $25,000 one are separated by a tenfold price gap, and most people assume that tracks a tenfold gap in talent. If you want to raise your rates at any level, from $500 to $2,000 or well beyond, knowing what that gap is actually made of tells you where to spend your effort.
+- 链接：https://fstoppers.com/education/what-separates-2500-wedding-photographer-25000-one-905016?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Is It Time to Upgrade Your Camera?
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：A shelf full of older camera bodies brings its own kind of guilt: they still work, they still make good pictures, and they almost never leave the house. Choosing whether to keep shooting a camera like the Fujifilm X-H1 or sell it for something faster affects your wallet, your hit rate, and how much you enjoy the time y
-- 链接：https://fstoppers.com/gear/it-time-upgrade-your-camera-904923?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 🔗多方印证 【外文】Why Raising the Blacks Can Make a Lightroom Sunset Glow
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Sunset photos often come out of the camera with crushed shadows and a sky that looks cooler than the moment felt. Lightroom can fix both, and how you lift the dark areas decides whether the scene ends up soft and glowing or just muddy.
+- 链接：https://fstoppers.com/landscapes/why-raising-blacks-can-make-lightroom-sunset-glow-905015?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Why Leaving Your Camera at Home Can Train Your Eye
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Finding a photograph inside a crowded street or a wide-open landscape is the part of the craft that decides whether you come home with a handful of keepers or a card full of near misses. Settings and gear can be learned in a weekend, while knowing where to point the camera takes years, and few people explain how to pra
-- 链接：https://fstoppers.com/education/why-leaving-your-camera-home-can-train-your-eye-904922?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 🔗多方印证 【外文】Photoshop, Capture One, or Evoto: Which Handles Blemishes Best?
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Photoshop, Capture One, and Evoto can now all remove blemishes with a slider, so the first pass of portrait skin cleanup no longer has to happen one spot at a time. Which one you trust on a client's face comes down to how each app decides what counts as a blemish and how much real skin it leaves alone.
+- 链接：https://fstoppers.com/photoshop/photoshop-capture-one-or-evoto-which-handles-blemishes-best-905014?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Can a Better Process Lead to Better Landscape Photos?
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Two hours of loading sheet film at camp after a long day in the field can make large format feel like a job. How you handle the dull, repetitive parts of photography shapes how much you enjoy the rest of it, and often how the pictures turn out.
-- 链接：https://fstoppers.com/film/can-better-process-lead-better-landscape-photos-904921?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 【外文】How to Tell a Beauty Dish From a Softbox Just by Looking at the Photo
+- 来源：Fstoppers ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Every portrait carries evidence of how it was lit, from the edge of the shadow under the chin to the bright spot on the tip of the nose, and once you can read that evidence, you can tell a beauty dish from a softbox without ever seeing the set. That skill turns any image you admire into a lighting diagram you can rebui
+- 链接：https://fstoppers.com/education/how-tell-beauty-dish-softbox-just-looking-photo-905013?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
 
-### 【外文】Photoshop Can Now Move the Light in Your Photo
-- 来源：Fstoppers ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Flat window light or a harsh shadow across a face used to mean a reshoot or an evening of dodging and burning. Photoshop's new Relight feature, currently in the beta, lets you reposition, soften, and recolor the light in a finished image with a handful of sliders.
-- 链接：https://fstoppers.com/photoshop/photoshop-can-now-move-light-your-photo-904920?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles
+### 🔗多方印证 【外文】"Winning makes all the hard work of being a photographer worthwhile, and it's even harder for photographers to stand out these days because of AI. So when genuine photography wins awards it's absolutely fantastic!"
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：British photographer Jack Boskett wins the Christmas Parties & Seasonal Events category in the Event Photography Awards 2026
+- 链接：https://www.digitalcameraworld.com/photography/awards-and-competitions/winning-makes-all-the-hard-work-of-being-a-photographer-worthwhile-and-its-even-harder-for-photographers-to-stand-out-these-days-because-of-ai-so-when-genuine-photography-wins-awards-its-absolutely-fantastic
+- 图：https://cdn.mos.cms.futurecdn.net/HR3mmanDKs4psK3Jss43ui-1920-80.jpg
 
-### 【外文】A policeman directs traffic from a metal bin, Harrow boys queue for sweets in straw boaters, and men on stilts tend the Kent hops: new photo book opens a fascinating window on 1930s Britain
-- 来源：Digital Camera World ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：This 616-page hardback gathers together hundreds of archive photographs, many never seen before, of a nation caught between tradition and modernity.
-- 链接：https://www.digitalcameraworld.com/photography/books/a-policeman-directs-traffic-from-a-metal-bin-harrow-boys-queue-for-sweets-in-straw-boaters-and-men-on-stilts-tend-the-kent-hops-new-photo-book-opens-a-fascinating-window-on-1930s-britain
-- 图：https://cdn.mos.cms.futurecdn.net/Z6Dpp8AwS2hSL7YQEzVvRQ-1920-80.jpg
+### 【外文】Stop grumbling about the lack of a viewfinder on the Nikon Z5IIC camera. My teenage niece doesn’t care – and maybe she’s right!
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Long-term photographers may decry that omitting a viewfinder from its Z5IIc means Nikon has scuppered its chances of serious appeal. But that may have opened it up to a whole new photographic generation
+- 链接：https://www.digitalcameraworld.com/cameras/mirrorless-cameras/stop-grumbling-about-the-lack-of-a-viewfinder-on-the-nikon-z5iic-camera-my-teenage-niece-doesnt-care-and-maybe-shes-right
+- 图：https://cdn.mos.cms.futurecdn.net/rbRyNRciFJTR6YG78pCKCd-1920-80.jpg
 
-### 【外文】Venus Optics doesn’t really do ‘ordinary’, and it’s latest Laowa 24mm f/2 Zero-D Tilt-Shift camera lens is anything but…
-- 来源：Digital Camera World ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：This new multi-function lens offers full tilt and shift functions with a fast f/2 aperture and zero distortion
-- 链接：https://www.digitalcameraworld.com/cameras/lenses/venus-optics-doesnt-really-do-ordinary-and-its-latest-laowa-24mm-f-2-zero-d-tilt-shift-camera-lens-is-anything-but
-- 图：https://cdn.mos.cms.futurecdn.net/Jsc8LKQ3yUJTbkmaZ92UZc-1920-80.jpg
+### 【外文】Can a camera see past skintone? Angélica Dass, the artist who matched thousands of faces to Pantone colors, is shooting 100 portraits to find out
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：This five-country project raises questions about how cameras depicts people with different skin tones
+- 链接：https://www.digitalcameraworld.com/photography/portrait-photography/can-a-camera-see-past-skintone-angelica-dass-the-artist-who-matched-thousands-of-faces-to-pantone-colors-is-shooting-100-portraits-to-find-out
+- 图：https://cdn.mos.cms.futurecdn.net/nwuz5g5L3nB7MtGAXhBmFR-1920-80.jpg
 
-### 🔗多方印证 【外文】"I visited this magical yet desolate mountain landscape. Some of the country’s last wax palm forests survive here" – Award-winning photographer captures threatened Yellow-eared Parrot in Colombia
-- 来源：Digital Camera World ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：The capture of a Yellow-eared Parrot in Colombia's natural valley in the Cañón del Río Anaime, Tolima, wins a major award, shining a spotlight on wildlife conservation
-- 链接：https://www.digitalcameraworld.com/photography/awards-and-competitions/i-visited-this-magical-yet-desolate-mountain-landscape-some-of-the-countrys-last-wax-palm-forests-survive-here-award-winning-photographer-captures-threatened-yellow-eared-parrot-in-colombia
-- 图：https://cdn.mos.cms.futurecdn.net/XnwYbMuWRx8CDev4jrx9iC-1920-80.jpg
+### 🔗多方印证 【外文】Under a fiery nocturnal lamp, a lifesaving beach rescue of exhausted turtle earns Spanish photographer major award
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Spanish photographer Miguel Serrano Ruiz spent a month documenting vital turtle conservation efforts in Baja California, Mexico, winning an Ocean Photographer of the Year award
+- 链接：https://www.digitalcameraworld.com/photography/awards-and-competitions/under-a-fiery-nocturnal-lamp-a-lifesaving-beach-rescue-of-exhausted-turtle-earns-spanish-photographer-major-award
+- 图：https://cdn.mos.cms.futurecdn.net/rcCGfVnFMDX6thLqcbK3ce-1920-80.jpg
 
-### 🔗多方印证 【外文】Does this pitbull look “dangerous” to you? “No” says 2026 International Dog Photographer of the Year
-- 来源：Digital Camera World ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Katie Brockman was this year’s overall Dog Photography Awards winner with a thought-provoking shot of her pitbull, Caldwell, questioning the “dangerous” narrative that often defines this breed
-- 链接：https://www.digitalcameraworld.com/photography/awards-and-competitions/does-this-pitbull-look-dangerous-to-you-no-says-2026-international-dog-photographer-of-the-year
-- 图：https://cdn.mos.cms.futurecdn.net/74jpMgqbdkuPjUP8sn7o-1920-80.jpg
+### 【外文】Long before Hollywood made this camera into a spy icon, this sub-minature photographic gadget was just a crazy idea that had nothing to do with espionage
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：How the world-famous Minox spy camera survived World War II and Soviet occupation
+- 链接：https://www.digitalcameraworld.com/cameras/film-cameras/long-before-hollywood-made-this-camera-into-a-spy-icon-this-sub-minature-photographic-gadget-was-just-a-crazy-idea-that-had-nothing-to-do-with-espionage
+- 图：https://cdn.mos.cms.futurecdn.net/5hrYngo3EfXbZ6YfPv3HND-1920-80.jpg
 
-### 【外文】Apparently, photography is a “granny hobby” –and I’m not sure how I feel about that
-- 来源：Digital Camera World ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Some lists put photography among the growing trend of "granny hobbies." But is photography REALLY a granny hobby?
-- 链接：https://www.digitalcameraworld.com/photography/apparently-photography-is-a-granny-hobby-and-im-not-sure-how-i-feel-about-that
-- 图：https://cdn.mos.cms.futurecdn.net/JY3zdQewZsk9noF4wGoPu4-1920-80.jpg
+### 【外文】The Polaroid Mod is the most exciting instant print camera since my Grandad’s and brings back the magic of 1970s family gatherings
+- 来源：Digital Camera World ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：For the past 30 years Fujifilm Instax has stolen the original Polaroid camera and chemistry’s thunder. I believe the latter’s new Mod camera could, however, start turning all that around
+- 链接：https://www.digitalcameraworld.com/cameras/instant-cameras/the-polaroid-mod-is-the-most-exciting-instant-print-camera-since-my-grandads-and-brings-back-the-magic-of-1970s-family-gatherings
+- 图：https://cdn.mos.cms.futurecdn.net/Vt3FxGu5utGXToLuiovtxG-1920-80.png
 
 ## 🧰 软件更新
 
-### 【外文】Darktable nightly build 20261005
-- 来源：darktable releases ｜ 日期：2026-10-05 ｜ 语言：en
+### 【外文】Darktable nightly build 20261012
+- 来源：darktable releases ｜ 日期：2026-10-12 ｜ 语言：en
 - 摘要：This is a nightly build of Darktable. You can use this if you want to try new features without waiting for releases. From time to time, in development builds, old difficult-to-reproduce bugs are fixed, but it is also true that in the development process with the introduction of new complex code, the stability of the pr
 - 链接：https://github.com/darktable-org/darktable/releases/tag/nightly
 - 图：https://avatars.githubusercontent.com/in/15368?s=60&v=4
 
+### 【外文】October 7, 2026
+- 来源：PhotoPrism releases ｜ 日期：2026-10-07 ｜ 语言：en
+- 摘要：This release brings major improvements to PhotoPrism's built-in AI features, including more accurate image classification and NSFW detection . Image classification now takes more of the entire picture into account, improving results especially for wide photos where important visual content is not centered. If you have 
+- 链接：https://github.com/photoprism/photoprism/releases/tag/261007-65faaae5d
+- 图：https://avatars.githubusercontent.com/u/301686?s=60&v=4
+
 ### 【外文】release 5.6.2
-- 来源：darktable releases ｜ 日期：2026-10-04 ｜ 语言：en
+- 来源：darktable releases ｜ 日期：2026-10-06 ｜ 语言：en
 - 摘要：We're proud to announce the bug-fix release of darktable, 5.6.2! The github release is here: . To build from source, do not use the autogenerated tarball provided by GitHub on the release page, download our tar.xz file instead. If you're just building for yourself without creating a package for some distribution, then 
 - 链接：https://github.com/darktable-org/darktable/releases/tag/release-5.6.2
 - 图：https://avatars.githubusercontent.com/in/15368?s=60&v=4
 
-### 【外文】v6.0.4.1: Krita 6.0.4.1
-- 来源：Krita releases ｜ 日期：2026-10-01 ｜ 语言：en
-- 摘要：An critical bigfix release to fix a regression in making impossible to change an ICC profile attached to a display
-- 链接：https://github.com/KDE/krita/releases/tag/v6.0.4.1
-- 图：https://avatars.githubusercontent.com/u/454873?s=60&v=4
-
 ## 🎞 经典 · 访谈 · 作品
 
-### 【外文】Fake Golden Hour | How To Re-Create Natural Sunlight
-- 来源：SLR Lounge ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Lost that golden light and looking to recreate it? Here is how do it convincingly with some high powered strobes!
-- 链接：https://www.slrlounge.com/fake-golden-hour-photography/
+### 【外文】Get a Chiseled Jawline in Three Simple Steps
+- 来源：SLR Lounge ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：In just 60 seconds, we are going to show you how to give men a chiseled jawline in three simple steps.
+- 链接：https://www.slrlounge.com/give-men-a-chiseled-jawline-in-three-simple-steps-minute-photography/
 
-### 【外文】7 Steps to Branding For Photographers
-- 来源：SLR Lounge ｜ 日期：2026-10-03 ｜ 语言：en
-- 摘要：Small businesses like photography studios can build a solid brand that consistently attracts loyal customers. We can still speak to our target audience, build hype, and stand out in our local markets; and in this article, we'll review how.
-- 链接：https://www.slrlounge.com/7-steps-for-building-a-unique-brand-for-your-photography-business/
+### 【外文】12 Creative Photography Ideas & Techniques to Try
+- 来源：SLR Lounge ｜ 日期：2026-10-10 ｜ 语言：en
+- 摘要：Stuck in a creative rut? Try these 10 Creative Photography Ideas from our team at SLR Lounge.
+- 链接：https://www.slrlounge.com/creative-photography-ideas/
 
-### 【外文】Hugging Poses Guide in Couples Photography
-- 来源：SLR Lounge ｜ 日期：2026-10-02 ｜ 语言：en
-- 摘要：Couples photography is all about capturing the love, fun and intimacy between two people. And what better way to convey that emotion than through a hug? Whether you’re photographing an engagement session or a wedding, mastering a variety of hugging poses can give you the tools you need to tell the couples’ story. In th
-- 链接：https://www.slrlounge.com/hugging-poses/
+### 【外文】Emotional Photography Tips and Inspiration
+- 来源：SLR Lounge ｜ 日期：2026-10-09 ｜ 语言：en
+- 摘要：I got into this industry because of the power a single image could hold. Powerful images can cause us to evoke emotion, to feel, and empathize with the subject matter as we relate it to our own lives.
+- 链接：https://www.slrlounge.com/20-photographers-share-their-most-emotionally-significant-images-part-1/
 
-### 【外文】Beauty & Fashion Photography | The Specifics That Divide The Great From The Mediocre
-- 来源：SLR Lounge ｜ 日期：2026-10-01 ｜ 语言：en
-- 摘要：These are the kind of specific pieces of information and advice you typically aren't taught by anything but experience.
-- 链接：https://www.slrlounge.com/beauty-fashion-photography-specifics-divide-great-mediocre/
+### 【外文】How To Get The Best Photos In Autumn Light
+- 来源：Adorama ALCS ｜ 日期：2026-10-09 ｜ 语言：en
+- 摘要：Don't let grey skies or rain keep your camera at home. Fall offers some of the best lighting for photography — from soft overcast shadows to atmospheric mist and rich wet colors. Here is how to use unpredictable autumn weather to create cleaner compositions and embrace moody light. The post How To Get The Best Photos I
+- 链接：https://www.adorama.com/alc/how-to-get-the-best-photos-in-autumn-light/
 
-### 【外文】Movavi Video Editor Review | Customizable Templates and a FasterWay to Make Great Videos
-- 来源：SLR Lounge ｜ 日期：2026-10-01 ｜ 语言：en
-- 摘要：If you are looking to edit videos, there are innumerable options. Unfortunately, most of the good video editors are complicated, expensive, and require a steep learning curve. Then, if you find an easy video editor that is more user-friendly, it’s often just not very good; buggy, clunky, and oversimplified for what you
-- 链接：https://www.slrlounge.com/movavi-video-editor-review-simple-easy-video-editing-software/
+### 【外文】How To Fix Lens Distortion In Real Estate Photography
+- 来源：SLR Lounge ｜ 日期：2026-10-08 ｜ 语言：en
+- 摘要：Real Estate Photography and lens distortion usually don't go together, so here's how to correct all the different types you might encounter!
+- 链接：https://www.slrlounge.com/how-to-fix-lens-distortion-in-real-estate-photography/
 
-### 【外文】Introducing Cue & Capture, Our Posing App for Wedding Photographers
-- 来源：SLR Lounge ｜ 日期：2026-09-30 ｜ 语言：en
-- 摘要：Here is a thing almost nobody admits out loud. You can study posing for years, save hundreds of reference images, sit through every workshop we have ever made, and still go completely blank when two real people are standing in front of you, the light is dying, and a coordinator is asking how much longer ... Read more
-- 链接：https://www.slrlounge.com/introducing-cue-capture-our-posing-app-for-wedding-photographers/
+### 【外文】4 Creative Ways to Photograph The Wedding Veil
+- 来源：SLR Lounge ｜ 日期：2026-10-07 ｜ 语言：en
+- 摘要：An easy & a-veil-able accessory that will yield stunning bridal portraits.
+- 链接：https://www.slrlounge.com/bride-veil-photography/
 
-### 【外文】It’s Not The Camera, It’s The Photographer
-- 来源：SLR Lounge ｜ 日期：2026-09-30 ｜ 语言：en
-- 摘要：Photographers LOVE to say "it's not the camera, it's the photographer!" ...Then they pull out their $5,000 camera, slap on a $2,000 lens and a $500 flash,
-- 链接：https://www.slrlounge.com/its-not-the-camera-its-the-photographer/
+### 【外文】UV Filters – Uses, Myths and Stereotypes
+- 来源：SLR Lounge ｜ 日期：2026-10-07 ｜ 语言：en
+- 摘要：I'm excited to bring you another new series, in which we investigate some of the biggest myths and stereotypes that photographers have debated over the years.
+- 链接：https://www.slrlounge.com/uv-filters-uses-myths-and-stereotypes/
 
 ### 【外文】Imagen Intelligent Studio Review | Photographers Will Experience A Workflow Revolution
-- 来源：SLR Lounge ｜ 日期：2026-09-30 ｜ 语言：en
+- 来源：SLR Lounge ｜ 日期：2026-10-07 ｜ 语言：en
 - 摘要：When I was a full-time post-production editor for Lin & Jirsa, editing literally millions of photos per year, I used to time myself to see how long it would take to fully edit an engagement session or a wedding. I knew, on average, exactly how many minutes it would take to cull a job, measured ... Read more
 - 链接：https://www.slrlounge.com/imagen-intelligent-studio-review-photographers-will-experience-a-workflow-revolution/
 
+### 【外文】14mm Lens | 25 Photos That Will Make You Need One
+- 来源：SLR Lounge ｜ 日期：2026-10-06 ｜ 语言：en
+- 摘要：Don't miss this collection of images from five imaginative global photographers who demonstrate the creative potential of the 14mm lens in an array of genres.
+- 链接：https://www.slrlounge.com/14mm-lens-25-photos-that-will-make-you-need-one/
+
+### 【外文】Stepping up: Nikon NIKKOR Z 400mm f/4.5 vs. Nikon NIKKOR Z 600mm f/4 TC
+- 来源：Adorama ALCS ｜ 日期：2026-10-05 ｜ 语言：en
+- 摘要：Stepping up from the Nikon NIKKOR Z 400mm f/4.5 to the Nikon NIKKOR Z 600mm f/4 TC wasn’t a decision I made easily. The Z 600mm f/4 TC costs five times as much as the Z 400mm f/4.5, and paying around $15,000 for a lens left a significant impact on my photography budget. But the […] The post Stepping up: Nikon NIKKOR Z 
+- 链接：https://www.adorama.com/alc/nikon-nikkor-z-400mm-f-4-5-vs-600mm-f-4-tc/
+
 ## 🛠 技巧 · 思考
 
-### 【外文】6 Easy Photography Techniques to Diversify Your Portfolio
-- 来源：Digital Photography School ｜ 日期：2026-09-29 ｜ 语言：en
-- 摘要：The post 6 Easy Photography Techniques to Diversify Your Portfolio appeared first on Digital Photography School . It was authored by Kav Dadfar . 2026 Update: Ten years is a long time in photography, and some of the techniques in this article have definitely aged better than others. But the basic idea hasn’t changed: i
-- 链接：https://digital-photography-school.com/6-easy-photography-techniques-diversify-portfolio/
+### 【外文】News: National Indigenous art prize puts Lismore on Australia’s cultural map
+- 来源：Digital Photography School ｜ 日期：2026-10-09 ｜ 语言：en
+- 摘要：The post News: National Indigenous art prize puts Lismore on Australia’s cultural map appeared first on Digital Photography School . It was authored by Sime . National Indigenous art prize puts Lismore on Australia’s cultural map Some of Australia’s most exciting Aboriginal and Torres Strait Islander artists will compe
+- 链接：https://digital-photography-school.com/news-national-indigenous-art-prize-puts-lismore-on-australias-cultural-map/
 
 ## 🌍 全球视野
 
-### 【外文】Brazil heads to the polls – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Brazilians have voted in a highly polarised presidential election between incumbent leftist President Luiz Inácio Lula da Silva -seeking a fourth presidential mandate - and right-wing senator Flávio Bolsonaro, who emerged as the leading figure of the conservative movement following the conviction and imprisonment of hi
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/05/brazil-heads-to-the-polls-in-pictures
-- 图：https://i.guim.co.uk/img/media/ed0aec84d40ac7c555700f364cadf476cde85393/511_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=9fb1cdb9903e04c50bfe07c0c360657f
+### 【外文】‘We’re in a brotherhood now’: the Bill Pickett rodeo – photo essay
+- 来源：The Guardian · Photography ｜ 日期：2026-10-12 ｜ 语言：en
+- 摘要：For several years, Chloe Kerleroux has been photographing African American cowboy communities in the southern US. Her work has mainly focused on trail rides: large gatherings where horses, music, dancing, family and community life come together. This year, she explored rodeo culture including at the Bill Pickett invita
+- 链接：https://www.theguardian.com/artanddesign/2026/oct/12/the-bill-pickett-rodeo-photo-essay
+- 图：https://i.guim.co.uk/img/media/a1d22daea234e579f36f26ca1576f14d5ceff9ff/234_29_1498_1199/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=e86883945f2e1a6f6e46602a9b395d29
 
-### 【外文】Take a seat: the ritzy glamour of Australia’s historic theatres and cinemas – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：Photographer Gavin John’s new book, Australian Theatres & Cinemas, documents the country’s finest stage performance and picture palaces – from massive Italian Renaissance-inspired entertainment palaces to 1930s art deco cinemas Continue reading...
-- 链接：https://www.theguardian.com/stage/gallery/2026/oct/05/take-a-seat-the-ritzy-glamour-of-australias-historic-theatres-and-cinemas-in-pictures
-- 图：https://i.guim.co.uk/img/media/828492ff07b74559d926ee6aaa866f27c16607ae/319_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=4287d21e9812480c2d4b751b8c00576b
+### 【外文】Ian Berry obituary
+- 来源：The Guardian · Photography ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Photojournalist whose arresting images captured human disaster from Vietnam to Aberfan, and most notably in apartheid South Africa On 21 March 1960, a crowd gathered outside a police station in a Transvaal township, part of a nationwide protest against apartheid pass laws used to control where black South Africans coul
+- 链接：https://www.theguardian.com/artanddesign/2026/oct/11/ian-berry-obituary
+- 图：https://i.guim.co.uk/img/media/87099f3de620a14706063b31b98e91ce598b13d4/154_40_3697_2957/master/3697.jpg?width=140&quality=85&auto=format&fit=max&s=8da138e052da4a2e1133ca9f9a1d7aea
 
-### 【外文】John Cooper Clarke looks back: ‘Getting older sucks – it’s marginally better than being dead’
-- 来源：The Guardian · Photography ｜ 日期：2026-10-04 ｜ 语言：en
-- 摘要：The punk poet on his heroin years, dressing like Ronnie Wood, and achieving his boyhood ambition Born in Salford in 1949, John Cooper Clarke is a poet and author. He cut his teeth in the clubs of Manchester before signing to Epic Records in 1978. He performed alongside the Sex Pistols, Joy Division, the Buzzcocks and E
-- 链接：https://www.theguardian.com/lifeandstyle/2026/oct/04/john-cooper-clarke-punk-poet-looks-back-interview-have-it-collection
-- 图：https://i.guim.co.uk/img/media/062a96f1d75b000f35e2d2577256fbc9c553dfec/0_0_948_758/master/948.jpg?width=140&quality=85&auto=format&fit=max&s=43a070a5fed19d6cde794945c8af4c9f
+### 【外文】Dollywood down under: Dolly Parton fans and drag queens turn a tiny Australian town pink
+- 来源：The Guardian · Photography ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：In Narromine – redubbed ‘Dollymine’ for the weekend – the country music star’s face is everywhere and a warm spirit of inclusivity is all-embracing On a sporting oval in a rural Australian town 15,000km from Knoxville, Tennessee, dozens of Dolly Partons saunter down the runway as a boisterous crowd cheers and swats awa
+- 链接：https://www.theguardian.com/australia-news/2026/oct/12/dollywood-down-under-dolly-parton-super-fans-and-drag-queens-turn-a-tiny-australian-town-pink-narromine
+- 图：https://i.guim.co.uk/img/media/f86c3975346a42265acebd10ad327caf1da37ff6/734_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=5cbd0071afd9d4e5619ccc88d9df0288
 
-### 【外文】A human tower in Spain and drought in Indonesia: photos of the weekend
-- 来源：The Guardian · Photography ｜ 日期：2026-10-04 ｜ 语言：en
+### 【外文】Gareth Malone looks back: ‘After the Christmas No 1, I was meeting Simon Cowell, having tea with Gary Barlow and dinner with Andrew Lloyd Webber’
+- 来源：The Guardian · Photography ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：The choir leader and presenter on not fitting in at his all-boys grammar, how synthesisers changed everything, and his ‘dithering’ start on TV Born in London in 1975, Gareth Malone is a choirmaster and broadcaster. He began his career running youth and community choirs for the London Symphony Orchestra and first appear
+- 链接：https://www.theguardian.com/lifeandstyle/2026/oct/11/gareth-malone-looks-back-interview-choirmaster-broadcaster
+- 图：https://i.guim.co.uk/img/media/659dac09a2fe72722f613c557a9988f4dd73c7a3/0_513_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=3e42b936d09aceae8c61d35322d5c73c
+
+### 【外文】Animals and their people: country shows across the UK – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-10-11 ｜ 语言：en
+- 摘要：Photographer Irina Werning, who grew up in rural Argentina surrounded by animals, has spent the summer photographing animals and their people at county and agricultural shows across the UK, from Essex and Kent to Surrey, Gloucestershire and Buckinghamshire, a project she began in Argentina. ‘As animals become less visi
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/11/animals-people-country-shows-across-uk-in-pictures
+- 图：https://i.guim.co.uk/img/media/7bf9eb996b3601b368dfe247f9e88b29fa303223/0_971_8736_6989/master/8736.jpg?width=140&quality=85&auto=format&fit=max&s=a8de25865b0b57d0318125b9707a15e6
+
+### 【外文】Blooming beautiful! The Tesselaar tulip festival – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-10-10 ｜ 语言：en
+- 摘要：The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading...
+- 链接：https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures
+- 图：https://i.guim.co.uk/img/media/bd58c37a8bd77a24a12b34617bf30d860fc4f158/155_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=e9f5e9aaeb324acb0125fc11fa5bd7d5
+
+### 【外文】Edge Control: the art exhibition using hidden camera images to explore race and beauty
+- 来源：The Guardian · Photography ｜ 日期：2026-10-10 ｜ 语言：en
+- 摘要：Artist Deana Lawson uses beauty supply store surveillance images to analyze power and personhood in her exhibition at the Gagosian in New York City In her essay The Oppositional Gaze: Black Female Spectators, writer and philosopher bell hooks explains that the relationship between Black people and the act of “looking” 
+- 链接：https://www.theguardian.com/artanddesign/ng-interactive/2026/oct/10/edge-control-exhibition-deana-lawson
+- 图：https://i.guim.co.uk/img/media/9e02f686a51863033357db94172920daaf84c8b0/0_160_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d2c86339d6419ac8f75c7853a83859a6
+
+### 【外文】‘They looked like two curtain-twitchers, though not very subtle ones’: Peter Crome’s best phone picture
+- 来源：The Guardian · Photography ｜ 日期：2026-10-10 ｜ 语言：en
+- 摘要：The photographer was walking home in London when he caught the attention of a pair of canine snoops Walking home after dropping his little girl at school, Peter Crome sensed he was being watched. A former professional ballet dancer now living in London, he had supplemented his income with photography work for 20 years.
+- 链接：https://www.theguardian.com/lifeandstyle/2026/oct/10/peter-crome-best-phone-picture-london-dogs
+- 图：https://i.guim.co.uk/img/media/a611baa651f0786f787be4d59b97429449b89094/0_628_2837_2267/master/2837.jpg?width=140&quality=85&auto=format&fit=max&s=f9d555b5e1a0b2ca34989b4dd21b9c2d
+
+### 【外文】Remember Me review – narrow view of two photographic centuries is like a history of food in three ham sarnies
+- 来源：The Guardian · Photography ｜ 日期：2026-10-10 ｜ 语言：en
+- 摘要：Bourse de Commerce, Paris There are 700 works from François Pinault’s collection on display – more than half of them by Irving Penn – but it’s a blinkered selection and annoyingly didactic ‘Beware … of assuming the sterile attitude of the spectator, for life is not a spectacle” scream the words of Aimé Césaire – writ l
+- 链接：https://www.theguardian.com/artanddesign/2026/oct/10/remember-me-review-photography-bourse-de-commerce-paris
+- 图：https://i.guim.co.uk/img/media/10892025354397df029c11fe79da2824a1645516/0_642_5806_4641/master/5806.jpg?width=140&quality=85&auto=format&fit=max&s=b911ba28bf3feb7701f29dbb5a81cd8c
+
+### 【外文】Return of USS Abraham Lincoln and mudslides in Chile: photos of the day – Friday
+- 来源：The Guardian · Photography ｜ 日期：2026-10-09 ｜ 语言：en
 - 摘要：The Guardian’s picture editors select photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/news/gallery/2026/oct/04/a-human-tower-in-spain-and-drought-in-indonesia-photos-of-the-weekend
-- 图：https://i.guim.co.uk/img/media/e06ce15f2a98893128589193d65afc6eb34e7fef/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=a42640c104988e22c0a14e42504d979a
+- 链接：https://www.theguardian.com/news/gallery/2026/oct/09/return-uss-abraham-lincoln-mudslides-chile-photos-of-the-day-friday
+- 图：https://i.guim.co.uk/img/media/b1f4996756bfc66ab483d7e9c10edf91ea74b9f1/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=891a2710cc94b5e331eb016cc79a8104
 
-### 【外文】Young sailors on the USS George Washington adjust to life at war – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-03 ｜ 语言：en
-- 摘要：Life onboard the aircraft carrier near the strait of Hormuz as it conducts military operations against Iranian targets Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/03/uss-george-washington-strait-of-hormuz-in-pictures
-- 图：https://i.guim.co.uk/img/media/31d1f35cd7e7992a09811a206fbc629addf7908b/2163_209_7690_6152/master/7690.jpg?width=140&quality=85&auto=format&fit=max&s=9ff29d4754587757ac7bd4a218fb8751
+### 【外文】Tate sounds eerie, Frieze returns and Cindy Sherman takes surreal selfies – the week in art
+- 来源：The Guardian · Photography ｜ 日期：2026-10-09 ｜ 语言：en
+- 摘要：The Turbine Hall gets haunted by sound art and the colossal air fair opens its doors, while Sherman champions the fantastic and the grotesque – all in your weekly dispatch Tarek Atoui Sound art inspired by everyday objects and the eerie harmonies of history provides the latest artistic intervention in Tate Modern’s big
+- 链接：https://www.theguardian.com/artanddesign/2026/oct/09/tate-turbine-hall-frieze-cindy-sherman-the-week-in-art
+- 图：https://i.guim.co.uk/img/media/acefea92852a5d743e3de0af8f98fe1ca5cab090/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fcfbfb656cf8167ed98c3bc4050833b3
 
-### 【外文】‘I waited patiently, hoping he might make the jump’: Mirna Abass’s best phone picture
-- 来源：The Guardian · Photography ｜ 日期：2026-10-03 ｜ 语言：en
-- 摘要：As a fan of Henri Cartier-Bresson, the Egyptian photographer was determined to capture his own ‘decisive moment’ Mirna Abass regards his small Egyptian city as “heaven for street, travel and documentary photography”. At the intersection of the Nile and the Mediterranean, the governorate of Damietta is home to Ezbet El 
-- 链接：https://www.theguardian.com/lifeandstyle/2026/oct/03/mirna-abass-best-phone-picture-egypt
-- 图：https://i.guim.co.uk/img/media/c46b4212cc8ee257c50fd6226a83f99ccece9f16/46_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=10733dd85c1af31e11cad19ed35b00c6
-
-### 🔗多方印证 【外文】Comedy wildlife photography award finalists 2026 – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-03 ｜ 语言：en
-- 摘要：A caiman wearing a wig, two brown bears laughing and a leopard doing a handstand feature in the selection of finalists from this year’s Nikon Comedy Wildlife awards . Winners will be announced on 8 December Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures
-- 图：https://i.guim.co.uk/img/media/bb12d2f4ffbb5fb99d74094540c5e114a047bbc5/534_290_2590_2072/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=09cbb19086102e7384f8bf52bd7485b7
-
-### 【外文】The week around the world in 20 pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-02 ｜ 语言：en
-- 摘要：Russian strikes on Kyiv, the flydubai plane incident, student protests in Paris and Mount Etna erupts – the past seven days as captured by the world’s leading photojournalists Warning: this gallery contains images some readers may find distressing Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/02/the-week-around-the-world-in-20-pictures
-- 图：https://i.guim.co.uk/img/media/b0cd47552e025e85d938b5366ae7384d1948b628/893_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ed4253eca6479e7ccfc8f719677ff817
-
-### 🔗多方印证 【外文】Barking beautiful: the 2026 Dog Photography awards – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-02 ｜ 语言：en
-- 摘要：The 18 winning images from the annual contest that seeks to showcase the world’s most exceptional dog photographs while highlighting their subjects’ diversity and charm. These photos were selected from about 1,900 entries that came from 50 countries across the globe Scaring monkeys? Detecting bedbugs? Meet the elite wo
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/03/barking-beautiful-the-2026-dog-photography-awards-in-pictures
-- 图：https://i.guim.co.uk/img/media/3603e1c1b847ec18ff16a0e003434de28b8b1d21/0_216_1723_1377/master/1723.jpg?width=140&quality=85&auto=format&fit=max&s=8647811c024bb2f708413f12149f9714
-
-### 【外文】Autumnal scenes and worldwide protests: photos of the day – Friday
-- 来源：The Guardian · Photography ｜ 日期：2026-10-02 ｜ 语言：en
-- 摘要：The Guardian’s picture editors select photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/02/autumnal-scenes-and-worldwide-protests-photos-of-the-day-friday
-- 图：https://i.guim.co.uk/img/media/cc7e5c603afcbf179ecb21a0d8bdcaebc59ca4e1/0_0_2113_1690/master/2113.png?width=140&quality=85&auto=format&fit=max&s=d2c98cdef3dadcd758836398192e8333
-
-### 【外文】Ravishing Renoir, cool Britannia and mighty Aphrodite – the week in art
-- 来源：The Guardian · Photography ｜ 日期：2026-10-02 ｜ 语言：en
-- 摘要：Swoon at immaculate impressionism, ’ave it large with 90s Brit art and fashion and head to the beach with Cézanne, Picasso and Matisse – all in your weekly dispatch Renoir and Love Joyful and sumptuous, yet realist and raw, Renoir’s impressionist paintings glow in this immaculate exhibition. • National Gallery, London,
-- 链接：https://www.theguardian.com/artanddesign/2026/oct/02/renoir-cool-britannia-90s-aphrodite-national-gallery-tate-ashmolean-the-week-in-art
-- 图：https://i.guim.co.uk/img/media/dbf5e12a289d7682dc22abf7d9ff4c42362f683c/0_11_936_748/master/936.jpg?width=140&quality=85&auto=format&fit=max&s=77fd549cbe4526ccf5969dd2a58c8a4f
-
-### 【外文】The week in wildlife: a rescued orangutan, the chonkiest bear and a barn owl’s triumph
-- 来源：The Guardian · Photography ｜ 日期：2026-10-02 ｜ 语言：en
+### 【外文】Week in wildlife: a friendly seal, a furious goldcrest and ‘the swanfather’
+- 来源：The Guardian · Photography ｜ 日期：2026-10-09 ｜ 语言：en
 - 摘要：This week’s best wildlife photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/environment/gallery/2026/oct/02/the-week-in-wildlife-a-rescued-orangutan-the-chonkiest-bear-and-a-barn-owls-triumph
-- 图：https://i.guim.co.uk/img/media/34d2b5367e5afcef875395a7b5d8f520a355614b/381_0_3807_3045/master/3807.jpg?width=140&quality=85&auto=format&fit=max&s=617ae97910c112ebf2edfa3dc54ddcc3
+- 链接：https://www.theguardian.com/environment/gallery/2026/oct/09/week-in-wildlife-a-friendly-seal-a-furious-goldcrest-and-the-swanfather
+- 图：https://i.guim.co.uk/img/media/b5d84de3785db4622a208b094506d643417c2118/331_0_2063_1650/master/2063.jpg?width=140&quality=85&auto=format&fit=max&s=9672276102179897d729fff76bf4daca
 
-### 【外文】Cancan record attempt and angry gen Z: photos of the day – Thursday
-- 来源：The Guardian · Photography ｜ 日期：2026-10-01 ｜ 语言：en
+### 【外文】Houthi advances and a multimillion Mondrian for sale: photos of the day – Thursday
+- 来源：The Guardian · Photography ｜ 日期：2026-10-08 ｜ 语言：en
 - 摘要：The Guardian’s picture editors select photographs from around the world Continue reading...
-- 链接：https://www.theguardian.com/news/gallery/2026/oct/01/cancan-record-attempt-and-angry-gen-z-photos-of-the-day-thursday
-- 图：https://i.guim.co.uk/img/media/59ff65eaa7a55198fe3f153bc47115b8afc336b4/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=dcbe766e943430ed8a6fa25854c1f2c6
+- 链接：https://www.theguardian.com/news/gallery/2026/oct/08/houthi-advances-and-a-multimillion-mondrian-for-sale-photos-of-the-day-thursday
+- 图：https://i.guim.co.uk/img/media/d526df39997e03e1fa957e78d9b429b86472ce8c/0_0_3250_2600/master/3250.png?width=140&quality=85&auto=format&fit=max&s=d94f031e902275a6c7697eacd4353a5d
 
-### 【外文】Blimps, burlesque and brass bands: America takes flight – in pictures
-- 来源：The Guardian · Photography ｜ 日期：2026-10-01 ｜ 语言：en
-- 摘要：A new Taschen book comprising 700 images from the National Geographic’s archives charts a dramatic century of dizzying change in the US Continue reading...
-- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/01/national-geographic-america-in-pictures
-- 图：https://i.guim.co.uk/img/media/aeaa0822c014ddf68ec9eae505f69275d6424ff4/1856_733_3117_2493/master/3117.jpg?width=140&quality=85&auto=format&fit=max&s=4187e83ddcb8f92c40a67ef13d2fb5c8
+### 【外文】‘The weirdos were taking over!’ Tate Britain relives the 1990s – in pictures
+- 来源：The Guardian · Photography ｜ 日期：2026-10-08 ｜ 语言：en
+- 摘要：A new exhibition curated by Edward Enniful looks back on the thrilling decade before smartphones, when art, music and fashion came together with a bang Continue reading...
+- 链接：https://www.theguardian.com/artanddesign/gallery/2026/oct/08/tate-britain-the-90s-art-fashion-in-pictures-edward-enniful
+- 图：https://i.guim.co.uk/img/media/51535566668c6ae1eb47b1a2367af923462a6c46/463_0_4994_3996/master/4994.jpg?width=140&quality=85&auto=format&fit=max&s=8034c1f8e4f8386a2873a3016a0ac49f
 
-### 【外文】‘The Savage Skulls were the most dangerous gang in the Bronx’: Jean-Pierre Laffont’s best photograph
-- 来源：The Guardian · Photography ｜ 日期：2026-09-30 ｜ 语言：en
-- 摘要：‘I’d read stories about gangs killing drug-pushers who targeted young people. Police would find their bodies at the bottom of five-storey buildings. I didn’t want to go looking for them alone’ The late 1960s and most of the 1970s were a difficult time for New York. I’d moved there from France in 1965 with a reporter fr
-- 链接：https://www.theguardian.com/artanddesign/2026/sep/30/bronx-street-gang-new-york-jean-pierre-laffont-best-photograph
-- 图：https://i.guim.co.uk/img/media/33ab5b3b4adebe030125b0bab887950b19cd79e4/22_0_2530_2023/master/2530.jpg?width=140&quality=85&auto=format&fit=max&s=22e23f69b1d547ca1b7dba00cf4ac7e1
+### 【外文】Crush-worthy photography, camp sci-fi and a centenarian’s florals: five free exhibitions to see
+- 来源：The Guardian · Photography ｜ 日期：2026-10-07 ｜ 语言：en
+- 摘要：A little exhibition of Daidō Moriyama at his artiest and strangest, like Warhol with added filth, is among the best on show in London’s free-entry commercial galleries this week If it’s a crime to have a crush on an elderly avant garde Japanese street photographer then lock me up and throw away the key, because I have 
+- 链接：https://www.theguardian.com/artanddesign/2026/oct/07/free-shows-daido-moriyama-jenkin-van-zyl-george-shaw-ce-roser-tanoa-sasraku
+- 图：https://i.guim.co.uk/img/media/f552901707765c6ba2523b64f30c09fa2a784da5/352_0_3457_2766/master/3457.jpg?width=140&quality=85&auto=format&fit=max&s=301f9129ce45b46a8953172cb27d7b18
